@@ -1,0 +1,15 @@
+{
+  "date": "2026-03-08",
+  "generatedAt": "2026-03-08T13:00:00.000Z",
+  "items": [
+    {
+      "id": "welcome-1",
+      "title": "Welcome to i ain't reading all that",
+      "tldr": "we're live bestie, AI news TLDRs dropping daily now",
+      "summary": "This site gives you the TLDR on everything happening in AI, every single morning. No more doomscrolling through 47 articles just to figure out what OpenAI did this time. We got you.",
+      "sourceUrl": "https://github.com/avneet114/tldr",
+      "sourceName": "us lol",
+      "publishedAt": "2026-03-08T13:00:00.000Z"
+    }
+  ]
+}
