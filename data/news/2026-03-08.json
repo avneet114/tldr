@@ -1,15 +1,96 @@
 {
   "date": "2026-03-08",
-  "generatedAt": "2026-03-08T13:00:00.000Z",
+  "generatedAt": "2026-03-08T07:34:06.894Z",
   "items": [
     {
-      "id": "welcome-1",
-      "title": "Welcome to i ain't reading all that",
-      "tldr": "we're live bestie, AI news TLDRs dropping daily now",
-      "summary": "This site gives you the TLDR on everything happening in AI, every single morning. No more doomscrolling through 47 articles just to figure out what OpenAI did this time. We got you.",
-      "sourceUrl": "https://github.com/avneet114/tldr",
-      "sourceName": "us lol",
-      "publishedAt": "2026-03-08T13:00:00.000Z"
+      "id": "1772955246894-0",
+      "title": "A roadmap for AI, if anyone will listen",
+      "tldr": "pentagon + anthropic drama drops same time as pro-human AI roadmap bc timing is everything ✨",
+      "summary": "A Pro-Human Declaration for AI got finalized right before the Pentagon-Anthropic controversy hit. The timing wasn't coincidental and everyone involved noticed the collision between these two major AI ethics moments.",
+      "sourceUrl": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-08T06:05:26.000Z"
+    },
+    {
+      "id": "1772955246894-1",
+      "title": "Google just gave Sundar Pichai a $692M pay package",
+      "tldr": "google said 'here's $692M sundar, now make waymo and wing print money' 💸",
+      "summary": "Sundar Pichai just scored a massive $692 million pay package from Google. Most of it's performance-based and tied to how well Google's side projects like Waymo (self-driving cars) and Wing (drone delivery) actually perform.",
+      "sourceUrl": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-08T00:20:10.000Z"
+    },
+    {
+      "id": "1772955246894-2",
+      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+      "tldr": "grammarly's 'expert review' has zero actual experts just vibes and algorithms fr",
+      "summary": "Grammarly added a new feature claiming to improve your writing with advice from great writers and thinkers. Plot twist: it's just AI pretending to channel famous people, not actual expert input.",
+      "sourceUrl": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-07T22:56:31.000Z"
+    },
+    {
+      "id": "1772955246894-3",
+      "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+      "tldr": "openai's robotics boss said 'pentagon deal? i'm out' and actually quit 🚪",
+      "summary": "Caitlin Kalinowski, who led OpenAI's robotics team, resigned in protest over the company's controversial partnership with the Department of Defense. She's the latest exec to bounce over OpenAI's military connections.",
+      "sourceUrl": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-07T20:44:25.000Z"
+    },
+    {
+      "id": "1772955246894-4",
+      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+      "tldr": "chatgpt's horny mode got delayed again bc apparently ai needs more time to get freaky safely",
+      "summary": "OpenAI pushed back ChatGPT's 'adult mode' feature once again after already delaying it from December. The feature would let verified adults access erotica and other adult content through the AI.",
+      "sourceUrl": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-07T17:28:41.000Z"
+    },
+    {
+      "id": "1772955246894-5",
+      "title": "The OpenClaw superfan meetup serves optimism and lobster",
+      "tldr": "openclaw superfans threw a whole convention with lobster hats bc ai assistants deserve parties too",
+      "summary": "Hundreds of people gathered at ClawCon in Manhattan to celebrate OpenClaw, an AI assistant platform. The event featured lobster-themed decorations, demos, and devoted fans showing serious dedication to their AI assistant of choice.",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "id": "1772955246894-6",
+      "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
+      "tldr": "harvard grad made anti-ai wearable jammer that probably won't work bc physics said no ❌",
+      "summary": "A recent Harvard graduate created the Spectre I jammer to block always-listening AI wearables and give people privacy control. Unfortunately, the laws of physics make it unlikely to actually work as intended.",
+      "sourceUrl": "https://www.wired.com/story/deveillance-spectre-i/",
+      "sourceName": "Wired",
+      "publishedAt": "2026-03-06T23:45:14.000Z"
+    },
+    {
+      "id": "1772955246894-7",
+      "title": "Grammarly is using our identities without permission",
+      "tldr": "grammarly is cosplaying as real journalists without asking and it's giving identity theft vibes",
+      "summary": "Grammarly's AI is impersonating real people like The Verge's editors in its 'expert review' feature without permission. Users are getting writing advice that appears to come from actual journalists and experts who never consented to this.",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-06T20:58:24.000Z"
+    },
+    {
+      "id": "1772955246894-8",
+      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+      "tldr": "microsoft google amazon said 'anthropic drama doesn't affect us bestie' and kept claude running",
+      "summary": "Despite the Pentagon controversy with Anthropic, major cloud providers confirmed that Claude AI remains available to their non-defense customers. The Trump administration's beef with Anthropic won't disrupt other companies using Claude through Microsoft, Google, or Amazon services.",
+      "sourceUrl": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-06T19:50:10.000Z"
+    },
+    {
+      "id": "1772955246894-9",
+      "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+      "tldr": "mysterious ios exploits got the feds pressed bc someone's been hacking iphones real sneaky",
+      "summary": "Federal authorities are investigating a collection of advanced iOS exploits that were used under unclear circumstances. The vulnerabilities represent a sophisticated hacking operation that caught government attention due to its mysterious nature.",
+      "sourceUrl": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-03-06T19:41:33.000Z"
     }
   ]
 }
