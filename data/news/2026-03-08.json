@@ -10,7 +10,7 @@
       "summary": "OpenAI finally released GPT-5 and it's actually cracked. It can process images, audio, and text simultaneously without switching between modes, which is a huge deal for building apps that feel actually smart.",
       "deepLore": "GPT-5 uses a unified transformer architecture that processes all modalities in a single forward pass, eliminating the separate encoders used in GPT-4V. Benchmarks show a 23% improvement on MMLU-Pro and 31% on multimodal reasoning tasks. The model uses 1.8T parameters with a mixture-of-experts approach.",
       "sound": "faah",
-      "vibeTag": "main character energy",
+
       "sources": [
         { "label": "Original - TechCrunch", "url": "https://techcrunch.com" },
         { "label": "OpenAI Blog Post", "url": "https://openai.com/blog" }
@@ -25,7 +25,7 @@
       "summary": "The European Union just passed the strictest AI privacy law ever. Companies now have 90 days to delete any personal data used for training, and users can demand to know exactly what data was used. Tech CEOs are big mad.",
       "deepLore": "The EU AI Privacy Act (AIPA) requires all AI companies operating in EU markets to maintain auditable data provenance logs. Companies must implement 'right to erasure from models' within 90 days, which technically requires model unlearning capabilities. Fines can reach up to 7% of global annual revenue.",
       "sound": "niceshot",
-      "vibeTag": "for the people fr",
+
       "sources": [
         { "label": "Original - The Verge", "url": "https://theverge.com" },
         { "label": "EU Commission Release", "url": "https://ec.europa.eu" },
@@ -41,7 +41,7 @@
       "summary": "Google DeepMind dropped a new AI model that can predict how drugs interact with proteins with insane accuracy. This could cut drug development time from years to months, which is genuinely revolutionary for medicine.",
       "deepLore": "AlphaFold 4 introduces a diffusion-based approach to predict protein-ligand binding affinities with an RMSD of 0.8 angstroms, a 40% improvement over previous methods. The model was trained on 200M protein-drug interaction pairs and can screen 10M compounds in under an hour on a single TPU v5 pod.",
       "sound": "faah",
-      "vibeTag": "science is cooking",
+
       "sources": [
         { "label": "Original - MIT News", "url": "https://news.mit.edu" },
         { "label": "DeepMind Blog", "url": "https://deepmind.google" }
@@ -56,7 +56,7 @@
       "summary": "Anthropic released the Claude Agent SDK which lets developers build AI agents that can actually do stuff autonomously. Think booking flights, managing codebases, running experiments — all without you babysitting it.",
       "deepLore": "The Claude Agent SDK provides a framework for building multi-step autonomous agents with built-in safety guardrails. It includes tool-use orchestration, memory management, and a novel 'constitutional delegation' system where agents can spawn sub-agents with restricted capability sets. Compatible with Claude Sonnet 4 and Opus 4.",
       "sound": "thud",
-      "vibeTag": "its giving skynet",
+
       "sources": [
         { "label": "Original - VentureBeat", "url": "https://venturebeat.com" },
         { "label": "Anthropic Docs", "url": "https://docs.anthropic.com" }
@@ -71,7 +71,7 @@
       "summary": "NVIDIA just unveiled the B300 GPU that delivers 2x the AI performance while using 60% less power than the H100. Data centers are about to save insane amounts on electricity bills, and the AI training cost curve keeps going down.",
       "deepLore": "The NVIDIA B300 features a 3nm process node with 280B transistors and 288GB of HBM4 memory. It achieves 2.4 petaflops of FP8 performance at 700W TDP, compared to the H100's 1.0 petaflops at 700W. The new NVLink 6.0 interconnect enables 3.6TB/s of GPU-to-GPU bandwidth.",
       "sound": "thud",
-      "vibeTag": "jensen huang supremacy",
+
       "sources": [
         { "label": "Original - Ars Technica", "url": "https://arstechnica.com" },
         { "label": "NVIDIA Newsroom", "url": "https://nvidianews.nvidia.com" },

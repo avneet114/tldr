@@ -1,23 +1,84 @@
 # Project: iaintreadingallthat.com
-**Tagline:** Daily AI slop, decoded.
+**Tagline:** ur daily AI news, but make it unhinged.
 
 ## 1. Vision
 A daily AI news aggregator that cuts through the technical jargon and "hype-beast" LinkedIn posts to give users a Gen-Z flavored TL;DR of the last 24 hours in AI.
 
 ## 2. Core Features
-- **The "Morning Drop":** A fresh list of 3-5 major AI updates, published daily at 8:00 AM EST.
-- **Vibe-Check Summaries:** Headlines and bullet points written in Gen-Z/Internet slang (e.g., "OpenAI just dropped a new model and it's actually cracked," "Google's latest demo was a nothingburger").
-- **"Deep Lore" Sections:** Expandable cards for each news item containing a 2-3 sentence technical description and links to original sources/ArXiv papers.
-- **Calendar/Archive:** A simple "rewind" feature to see news from previous days.
+- **The "Morning Drop":** A fresh list of top AI updates, published daily at 8:00 AM EST via GitHub Actions cron job.
+- **Vibe-Check Summaries:** Headlines and TLDRs written in Gen-Z/Internet slang, with a daily "vibeSummary" (3-4 word vibe check for the day).
+- **"Deep Lore" Sections:** Expandable accordion sections for each news item with technical breakdowns and links to original sources.
+- **Sound Effects:** Each article has an assigned sound effect (bruh, faah, thud, error, niceshot) that plays on expand. Dates play a click sound.
+- **Calendar/Archive:** Last 7 days shown on homepage, individual day permalink pages.
 
 ## 3. Tech Stack
-- **Frontend:** React/Next.js (Tailwind CSS for styling).
-- **Backend:** Supabase (Database + Auth).
-- **Automation:** Python script running on a CRON job (8:00 AM) that:
-    1. Scrapes news from X, TechCrunch, and Hugging Face.
-    2. Uses Gemini/Claude API to summarize into the "Gen-Z" persona.
-    3. Pushes the JSON to the database.
+- **Frontend:** Next.js 16 (App Router) with static export (`output: "export"`).
+- **Styling:** Tailwind CSS v4 with Neo-Brutalism design system.
+- **AI Summarization:** Claude API (`@anthropic-ai/sdk`, model `claude-sonnet-4-20250514`) for GenZ summaries, deep lore, and sound assignment.
+- **Data Sources (RSS):** Ben's Bites, TechCrunch, The Verge, MIT Tech Review, OpenAI Blog, Google AI Blog, Ars Technica, VentureBeat.
+- **Hosting:** GitHub Pages (static export deployed via GitHub Actions).
+- **Automation:** GitHub Actions cron job at `0 13 * * *` (8 AM EST) runs `scripts/generate.ts` to fetch feeds → Claude API → write JSON to `data/news/`.
 
-## 4. UI/UX "The Vibe"
-- **Design System:** High-contrast "Neo-Brutalism" (bold borders, bright shadows, thick fonts).
-- **Mobile First:** Designed to look like a social media feed or a group chat.
+## 4. UI/UX — Neo-Brutalism
+- **Design System:** Classic Neo-Brutalism — bold black borders (3px), bright offset shadows (`3px 3px 0px #000`), chunky uppercase fonts, no rounded corners.
+- **Color Palette:**
+  - Background: `#FFFDF7` (warm cream)
+  - Borders/Shadows: `#000000` (black)
+  - Accent 1: `#a3f635` (lime green) — badges
+  - Accent 2: `#ff5edf` (hot pink) — links hover
+  - Accent 3: `#5ebaff` (electric blue) — links, date bars
+  - Accent 4: `#ffe156` (yellow) — header
+- **Layout:** Vertical timeline with nested accordions (day → news items → details).
+- **Mobile First:** Cards stack cleanly on mobile.
+
+## 5. Key Architecture
+- **Static Site:** All pages pre-rendered at build time. No server needed at runtime.
+- **Data Flow:** RSS feeds → Claude API summarization → JSON files in `data/news/YYYY-MM-DD.json` → Next.js reads at build time.
+- **Dynamic Tailwind Classes:** Use inline `style={{ backgroundColor }}` for dynamic colors (Tailwind v4 JIT doesn't compile classes in arrays/variables).
+
+## 6. Data Schema
+```typescript
+interface NewsItem {
+  id: string;
+  title: string;
+  tldr: string;        // GenZ one-liner, <120 chars
+  summary: string;     // 2 sentence casual summary
+  deepLore: string;    // Technical breakdown
+  sound: SoundEffect;  // "bruh" | "faah" | "thud" | "error" | "niceshot"
+  sources: { label: string; url: string }[];
+  sourceName: string;
+  publishedAt: string;
+}
+
+interface DailyDigest {
+  date: string;
+  generatedAt: string;
+  vibeSummary: string;  // 3-4 word daily vibe
+  items: NewsItem[];
+}
+```
+
+## 7. File Structure
+```
+app/
+  globals.css          — Tailwind v4 theme
+  layout.tsx           — Root layout
+  page.tsx             — Homepage (last 7 days)
+  day/[date]/page.tsx  — Day permalink
+components/
+  Header.tsx           — Yellow Neo-Brutalism header
+  Footer.tsx           — Simple footer
+  DaySection.tsx       — Day-level accordion with sound
+  NewsItemAccordion.tsx — News item accordion with sound effects
+lib/
+  types.ts             — TypeScript types
+  feeds.ts             — RSS feed config & fetching
+  summarize.ts         — Claude API summarization
+  sounds.ts            — Sound playback utility
+scripts/
+  generate.ts          — Daily generation script
+data/news/             — JSON files per day
+public/sounds/         — MP3 sound effects
+.github/workflows/
+  daily-digest.yml     — Cron job workflow
+```

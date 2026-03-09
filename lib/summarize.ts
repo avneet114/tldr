@@ -36,7 +36,6 @@ Rules:
   - "thud" — for dramatic announcements, big drops, or impactful news
   - "error" — when something went wrong, broke, failed, or is buggy
   - "niceshot" — for W news, good news for humanity, positive regulation, or wholesome wins
-- vibeTag: A short funny GenZ reaction tag for each article (2-4 words max). Examples: "main character energy", "not the flex they think", "lowkey terrifying", "touch grass", "its giving skynet", "no one asked", "slay actually", "rent free", "dead serious rn", "the math aint mathing". Make it specific to the news, not generic.
 - Keep it real — don't make stuff up, stick to what the article says.
 - Return ONLY valid JSON, no markdown code fences.
 
@@ -50,7 +49,6 @@ Return JSON in this exact format:
       "summary": "2 sentence casual summary",
       "deepLore": "2-3 sentence technical breakdown",
       "sound": "bruh",
-      "vibeTag": "not the flex they think",
       "sources": [
         { "label": "Original Article - SourceName", "url": "the article url" }
       ]
@@ -76,7 +74,6 @@ Return JSON in this exact format:
       summary: string;
       deepLore: string;
       sound: string;
-      vibeTag: string;
       sources: { label: string; url: string }[];
     }>;
   };
@@ -102,7 +99,6 @@ Return JSON in this exact format:
       sound: (["bruh", "faah", "thud", "error", "niceshot"].includes(match?.sound)
         ? match.sound
         : "thud") as SoundEffect,
-      vibeTag: match?.vibeTag || "its giving AI",
       sources: match?.sources || [
         { label: `${article.sourceName}`, url: article.link },
       ],

@@ -8,7 +8,7 @@ export default function Header() {
           i ain&apos;t reading all that
         </h1>
         <p className="mt-1 text-sm font-bold uppercase tracking-wide text-black/60">
-          daily AI slop, decoded.
+          ur daily AI news, but make it unhinged.
         </p>
       </div>
     </header>

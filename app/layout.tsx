@@ -15,10 +15,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "i ain't reading all that — AI News TLDR",
   description:
-    "Daily AI slop, decoded. Your Gen-Z flavored TL;DR of everything happening in AI.",
+    "ur daily AI news, but make it unhinged. Gen-Z flavored TL;DRs of everything happening in AI.",
   openGraph: {
     title: "i ain't reading all that",
-    description: "Daily AI slop, decoded.",
+    description: "ur daily AI news, but make it unhinged.",
     type: "website",
   },
 };

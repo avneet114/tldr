@@ -7,7 +7,6 @@ export interface NewsItem {
   summary: string;
   deepLore: string;
   sound: SoundEffect;
-  vibeTag: string;
   sources: { label: string; url: string }[];
   sourceName: string;
   publishedAt: string;

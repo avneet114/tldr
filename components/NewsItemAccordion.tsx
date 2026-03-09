@@ -39,19 +39,12 @@ export default function NewsItemAccordion({
           <p className="text-base font-bold leading-snug text-black">
             {item.tldr}
           </p>
-          <div className="mt-1.5 flex items-center gap-2">
-            <span
-              style={{ backgroundColor: badgeColor }}
-              className="inline-block border-2 border-black px-2 py-0.5 text-xs font-bold uppercase text-black"
-            >
-              {item.sourceName}
-            </span>
-            {item.vibeTag && (
-              <span className="inline-block border-2 border-black bg-white px-2 py-0.5 text-xs font-bold italic text-black/70">
-                {item.vibeTag}
-              </span>
-            )}
-          </div>
+          <span
+            style={{ backgroundColor: badgeColor }}
+            className="mt-1.5 inline-block border-2 border-black px-2 py-0.5 text-xs font-bold uppercase text-black"
+          >
+            {item.sourceName}
+          </span>
         </div>
       </button>
 
