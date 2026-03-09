@@ -1,12 +1,14 @@
 import { SoundEffect } from "./types";
 
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || "";
+
 const SOUND_FILES: Record<SoundEffect | "click", string> = {
-  bruh: "/sounds/bruh.mp3",
-  faah: "/sounds/faah.mp3",
-  thud: "/sounds/thud.mp3",
-  error: "/sounds/error.mp3",
-  niceshot: "/sounds/niceshot.mp3",
-  click: "/sounds/click.mp3",
+  bruh: `${BASE_PATH}/sounds/bruh.mp3`,
+  faah: `${BASE_PATH}/sounds/faah.mp3`,
+  thud: `${BASE_PATH}/sounds/thud.mp3`,
+  error: `${BASE_PATH}/sounds/error.mp3`,
+  niceshot: `${BASE_PATH}/sounds/niceshot.mp3`,
+  click: `${BASE_PATH}/sounds/click.mp3`,
 };
 
 export function playSound(sound: SoundEffect | "click") {

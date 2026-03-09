@@ -6,7 +6,7 @@
 
 A daily AI news site that scrapes RSS feeds from top tech sources, sends them through Claude to get unhinged Gen-Z summaries, and publishes them as a static site on GitHub Pages. Every article gets a TLDR, a deep lore section, and sound effects.
 
-**Live at:** [iaintreadingallthat.com](https://iaintreadingallthat.com)
+**Live at:** [iaintreadingallthat.com](https://avneet114.github.io/tldr/)
 
 ## Features
 
