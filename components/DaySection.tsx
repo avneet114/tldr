@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { DailyDigest } from "@/lib/types";
+import { playSound } from "@/lib/sounds";
 import NewsItemAccordion from "./NewsItemAccordion";
 
 const BAR_COLORS = ["#5ebaff", "#a3f635", "#ff5edf", "#ffe156"];
@@ -29,7 +30,10 @@ export default function DaySection({
     <div>
       {/* Day Bar */}
       <button
-        onClick={() => setOpen(!open)}
+        onClick={() => {
+          playSound("click");
+          setOpen(!open);
+        }}
         style={{ backgroundColor: barColor }}
         className="flex w-full items-center gap-3 border-4 border-black p-3 shadow-[4px_4px_0px_#000] transition-all hover:shadow-[6px_6px_0px_#000] hover:-translate-x-0.5 hover:-translate-y-0.5 sm:p-4"
       >

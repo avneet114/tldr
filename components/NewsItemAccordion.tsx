@@ -2,8 +2,10 @@
 
 import { useState } from "react";
 import { NewsItem } from "@/lib/types";
+import { playSound } from "@/lib/sounds";
 
 const BADGE_COLORS = ["#a3f635", "#ff5edf", "#5ebaff", "#ffe156"];
+
 
 export default function NewsItemAccordion({
   item,
@@ -18,7 +20,12 @@ export default function NewsItemAccordion({
   return (
     <div className="border-[3px] border-black bg-white shadow-[3px_3px_0px_#000]">
       <button
-        onClick={() => setOpen(!open)}
+        onClick={() => {
+          if (!open && item.sound) {
+            playSound(item.sound);
+          }
+          setOpen(!open);
+        }}
         className="flex w-full items-start gap-3 p-3 text-left transition-colors hover:bg-black/5"
       >
         <span
@@ -32,12 +39,19 @@ export default function NewsItemAccordion({
           <p className="text-base font-bold leading-snug text-black">
             {item.tldr}
           </p>
-          <span
-            style={{ backgroundColor: badgeColor }}
-            className="mt-1.5 inline-block border-2 border-black px-2 py-0.5 text-xs font-bold uppercase text-black"
-          >
-            {item.sourceName}
-          </span>
+          <div className="mt-1.5 flex items-center gap-2">
+            <span
+              style={{ backgroundColor: badgeColor }}
+              className="inline-block border-2 border-black px-2 py-0.5 text-xs font-bold uppercase text-black"
+            >
+              {item.sourceName}
+            </span>
+            {item.vibeTag && (
+              <span className="inline-block border-2 border-black bg-white px-2 py-0.5 text-xs font-bold italic text-black/70">
+                {item.vibeTag}
+              </span>
+            )}
+          </div>
         </div>
       </button>
 

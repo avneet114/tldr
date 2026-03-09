@@ -4,6 +4,10 @@ const parser = new Parser();
 
 const FEEDS = [
   {
+    name: "Ben's Bites",
+    url: "https://www.bensbites.com/feed",
+  },
+  {
     name: "TechCrunch",
     url: "https://techcrunch.com/category/artificial-intelligence/feed/",
   },
@@ -12,20 +16,24 @@ const FEEDS = [
     url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   },
   {
+    name: "MIT Tech Review",
+    url: "https://www.technologyreview.com/feed/",
+  },
+  {
+    name: "OpenAI Blog",
+    url: "https://openai.com/blog/rss.xml",
+  },
+  {
+    name: "Google AI Blog",
+    url: "https://blog.google/technology/ai/rss/",
+  },
+  {
     name: "Ars Technica",
     url: "https://feeds.arstechnica.com/arstechnica/technology-lab",
   },
   {
     name: "VentureBeat",
     url: "https://venturebeat.com/category/ai/feed/",
-  },
-  {
-    name: "MIT News",
-    url: "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
-  },
-  {
-    name: "Wired",
-    url: "https://www.wired.com/feed/tag/ai/latest/rss",
   },
 ];
 
