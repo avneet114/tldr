@@ -35,23 +35,23 @@ export default function Home() {
   const digests = getDigests();
 
   return (
-    <div className="min-h-screen bg-zinc-950">
+    <div className="min-h-screen bg-[#FFFDF7]">
       <Header />
       <main className="mx-auto max-w-3xl px-4 py-8 sm:px-6">
         {digests.length === 0 ? (
-          <div className="py-20 text-center">
-            <p className="text-2xl font-bold text-white">
+          <div className="border-4 border-black bg-[#ffe156] p-8 text-center shadow-[6px_6px_0px_#000]">
+            <p className="text-2xl font-black uppercase text-black">
               no news yet bestie
             </p>
-            <p className="mt-2 text-zinc-500">
+            <p className="mt-2 font-bold text-black/60">
               the first digest drops tomorrow morning at 8am est. come back
               then!
             </p>
           </div>
         ) : (
-          <div className="space-y-8">
-            {digests.map((digest) => (
-              <DaySection key={digest.date} digest={digest} />
+          <div className="space-y-4">
+            {digests.map((digest, i) => (
+              <DaySection key={digest.date} digest={digest} index={i} />
             ))}
           </div>
         )}

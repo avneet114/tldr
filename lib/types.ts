@@ -3,7 +3,8 @@ export interface NewsItem {
   title: string;
   tldr: string;
   summary: string;
-  sourceUrl: string;
+  deepLore: string;
+  sources: { label: string; url: string }[];
   sourceName: string;
   publishedAt: string;
 }
@@ -11,5 +12,6 @@ export interface NewsItem {
 export interface DailyDigest {
   date: string;
   generatedAt: string;
+  vibeSummary: string;
   items: NewsItem[];
 }

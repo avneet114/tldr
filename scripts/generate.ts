@@ -14,12 +14,13 @@ async function main() {
   }
 
   console.log(`Found ${articles.length} articles. Generating GenZ summaries...`);
-  const items = await summarizeArticles(articles);
+  const { vibeSummary, items } = await summarizeArticles(articles);
 
   const today = new Date().toISOString().split("T")[0];
   const digest: DailyDigest = {
     date: today,
     generatedAt: new Date().toISOString(),
+    vibeSummary,
     items,
   };
 
@@ -30,6 +31,7 @@ async function main() {
   fs.writeFileSync(outPath, JSON.stringify(digest, null, 2));
 
   console.log(`Saved ${items.length} items to ${outPath}`);
+  console.log(`Today's vibe: "${vibeSummary}"`);
 }
 
 main().catch((err) => {

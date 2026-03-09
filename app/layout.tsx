@@ -15,10 +15,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "i ain't reading all that — AI News TLDR",
   description:
-    "Your daily AI news digest in Gen Z speak. Because AI moves too fast and you have better things to do.",
+    "Daily AI slop, decoded. Your Gen-Z flavored TL;DR of everything happening in AI.",
   openGraph: {
     title: "i ain't reading all that",
-    description: "Daily AI news TLDRs — no cap",
+    description: "Daily AI slop, decoded.",
     type: "website",
   },
 };
@@ -29,9 +29,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="dark">
+    <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} min-h-screen bg-zinc-950 font-sans antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} min-h-screen bg-[#FFFDF7] font-sans antialiased`}
       >
         {children}
       </body>

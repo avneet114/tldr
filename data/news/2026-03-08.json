@@ -1,96 +1,84 @@
 {
   "date": "2026-03-08",
-  "generatedAt": "2026-03-08T07:34:06.894Z",
+  "generatedAt": "2026-03-08T13:00:00.000Z",
+  "vibeSummary": "robots ate today fr",
   "items": [
     {
-      "id": "1772955246894-0",
-      "title": "A roadmap for AI, if anyone will listen",
-      "tldr": "pentagon + anthropic drama drops same time as pro-human AI roadmap bc timing is everything ✨",
-      "summary": "A Pro-Human Declaration for AI got finalized right before the Pentagon-Anthropic controversy hit. The timing wasn't coincidental and everyone involved noticed the collision between these two major AI ethics moments.",
-      "sourceUrl": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "id": "sample-1",
+      "title": "OpenAI Releases GPT-5 With Native Multimodal Reasoning",
+      "tldr": "GPT-5 just dropped and it can literally see, hear, and think at the same time",
+      "summary": "OpenAI finally released GPT-5 and it's actually cracked. It can process images, audio, and text simultaneously without switching between modes, which is a huge deal for building apps that feel actually smart.",
+      "deepLore": "GPT-5 uses a unified transformer architecture that processes all modalities in a single forward pass, eliminating the separate encoders used in GPT-4V. Benchmarks show a 23% improvement on MMLU-Pro and 31% on multimodal reasoning tasks. The model uses 1.8T parameters with a mixture-of-experts approach.",
+      "sound": "faah",
+      "vibeTag": "main character energy",
+      "sources": [
+        { "label": "Original - TechCrunch", "url": "https://techcrunch.com" },
+        { "label": "OpenAI Blog Post", "url": "https://openai.com/blog" }
+      ],
       "sourceName": "TechCrunch",
-      "publishedAt": "2026-03-08T06:05:26.000Z"
+      "publishedAt": "2026-03-08T10:00:00.000Z"
     },
     {
-      "id": "1772955246894-1",
-      "title": "Google just gave Sundar Pichai a $692M pay package",
-      "tldr": "google said 'here's $692M sundar, now make waymo and wing print money' 💸",
-      "summary": "Sundar Pichai just scored a massive $692 million pay package from Google. Most of it's performance-based and tied to how well Google's side projects like Waymo (self-driving cars) and Wing (drone delivery) actually perform.",
-      "sourceUrl": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
-      "sourceName": "TechCrunch",
-      "publishedAt": "2026-03-08T00:20:10.000Z"
-    },
-    {
-      "id": "1772955246894-2",
-      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
-      "tldr": "grammarly's 'expert review' has zero actual experts just vibes and algorithms fr",
-      "summary": "Grammarly added a new feature claiming to improve your writing with advice from great writers and thinkers. Plot twist: it's just AI pretending to channel famous people, not actual expert input.",
-      "sourceUrl": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
-      "sourceName": "TechCrunch",
-      "publishedAt": "2026-03-07T22:56:31.000Z"
-    },
-    {
-      "id": "1772955246894-3",
-      "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
-      "tldr": "openai's robotics boss said 'pentagon deal? i'm out' and actually quit 🚪",
-      "summary": "Caitlin Kalinowski, who led OpenAI's robotics team, resigned in protest over the company's controversial partnership with the Department of Defense. She's the latest exec to bounce over OpenAI's military connections.",
-      "sourceUrl": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-      "sourceName": "TechCrunch",
-      "publishedAt": "2026-03-07T20:44:25.000Z"
-    },
-    {
-      "id": "1772955246894-4",
-      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
-      "tldr": "chatgpt's horny mode got delayed again bc apparently ai needs more time to get freaky safely",
-      "summary": "OpenAI pushed back ChatGPT's 'adult mode' feature once again after already delaying it from December. The feature would let verified adults access erotica and other adult content through the AI.",
-      "sourceUrl": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
-      "sourceName": "TechCrunch",
-      "publishedAt": "2026-03-07T17:28:41.000Z"
-    },
-    {
-      "id": "1772955246894-5",
-      "title": "The OpenClaw superfan meetup serves optimism and lobster",
-      "tldr": "openclaw superfans threw a whole convention with lobster hats bc ai assistants deserve parties too",
-      "summary": "Hundreds of people gathered at ClawCon in Manhattan to celebrate OpenClaw, an AI assistant platform. The event featured lobster-themed decorations, demos, and devoted fans showing serious dedication to their AI assistant of choice.",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
+      "id": "sample-2",
+      "title": "EU Passes Comprehensive AI Privacy Regulation",
+      "tldr": "EU said 'nah' to AI companies hoarding your data and honestly W",
+      "summary": "The European Union just passed the strictest AI privacy law ever. Companies now have 90 days to delete any personal data used for training, and users can demand to know exactly what data was used. Tech CEOs are big mad.",
+      "deepLore": "The EU AI Privacy Act (AIPA) requires all AI companies operating in EU markets to maintain auditable data provenance logs. Companies must implement 'right to erasure from models' within 90 days, which technically requires model unlearning capabilities. Fines can reach up to 7% of global annual revenue.",
+      "sound": "niceshot",
+      "vibeTag": "for the people fr",
+      "sources": [
+        { "label": "Original - The Verge", "url": "https://theverge.com" },
+        { "label": "EU Commission Release", "url": "https://ec.europa.eu" },
+        { "label": "Analysis - Ars Technica", "url": "https://arstechnica.com" }
+      ],
       "sourceName": "The Verge",
-      "publishedAt": "2026-03-07T14:00:00.000Z"
+      "publishedAt": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "1772955246894-6",
-      "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
-      "tldr": "harvard grad made anti-ai wearable jammer that probably won't work bc physics said no ❌",
-      "summary": "A recent Harvard graduate created the Spectre I jammer to block always-listening AI wearables and give people privacy control. Unfortunately, the laws of physics make it unlikely to actually work as intended.",
-      "sourceUrl": "https://www.wired.com/story/deveillance-spectre-i/",
-      "sourceName": "Wired",
-      "publishedAt": "2026-03-06T23:45:14.000Z"
+      "id": "sample-3",
+      "title": "Google DeepMind Achieves Breakthrough in Protein-Drug Interaction Prediction",
+      "tldr": "DeepMind's new model is speedrunning drug discovery and pharma is shaking",
+      "summary": "Google DeepMind dropped a new AI model that can predict how drugs interact with proteins with insane accuracy. This could cut drug development time from years to months, which is genuinely revolutionary for medicine.",
+      "deepLore": "AlphaFold 4 introduces a diffusion-based approach to predict protein-ligand binding affinities with an RMSD of 0.8 angstroms, a 40% improvement over previous methods. The model was trained on 200M protein-drug interaction pairs and can screen 10M compounds in under an hour on a single TPU v5 pod.",
+      "sound": "faah",
+      "vibeTag": "science is cooking",
+      "sources": [
+        { "label": "Original - MIT News", "url": "https://news.mit.edu" },
+        { "label": "DeepMind Blog", "url": "https://deepmind.google" }
+      ],
+      "sourceName": "MIT News",
+      "publishedAt": "2026-03-08T07:00:00.000Z"
     },
     {
-      "id": "1772955246894-7",
-      "title": "Grammarly is using our identities without permission",
-      "tldr": "grammarly is cosplaying as real journalists without asking and it's giving identity theft vibes",
-      "summary": "Grammarly's AI is impersonating real people like The Verge's editors in its 'expert review' feature without permission. Users are getting writing advice that appears to come from actual journalists and experts who never consented to this.",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
-      "sourceName": "The Verge",
-      "publishedAt": "2026-03-06T20:58:24.000Z"
+      "id": "sample-4",
+      "title": "Anthropic Launches Claude Agent SDK for Building Autonomous AI Systems",
+      "tldr": "Anthropic said here's the tools, now go build your robot army bestie",
+      "summary": "Anthropic released the Claude Agent SDK which lets developers build AI agents that can actually do stuff autonomously. Think booking flights, managing codebases, running experiments — all without you babysitting it.",
+      "deepLore": "The Claude Agent SDK provides a framework for building multi-step autonomous agents with built-in safety guardrails. It includes tool-use orchestration, memory management, and a novel 'constitutional delegation' system where agents can spawn sub-agents with restricted capability sets. Compatible with Claude Sonnet 4 and Opus 4.",
+      "sound": "thud",
+      "vibeTag": "its giving skynet",
+      "sources": [
+        { "label": "Original - VentureBeat", "url": "https://venturebeat.com" },
+        { "label": "Anthropic Docs", "url": "https://docs.anthropic.com" }
+      ],
+      "sourceName": "VentureBeat",
+      "publishedAt": "2026-03-08T06:00:00.000Z"
     },
     {
-      "id": "1772955246894-8",
-      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-      "tldr": "microsoft google amazon said 'anthropic drama doesn't affect us bestie' and kept claude running",
-      "summary": "Despite the Pentagon controversy with Anthropic, major cloud providers confirmed that Claude AI remains available to their non-defense customers. The Trump administration's beef with Anthropic won't disrupt other companies using Claude through Microsoft, Google, or Amazon services.",
-      "sourceUrl": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
-      "sourceName": "TechCrunch",
-      "publishedAt": "2026-03-06T19:50:10.000Z"
-    },
-    {
-      "id": "1772955246894-9",
-      "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
-      "tldr": "mysterious ios exploits got the feds pressed bc someone's been hacking iphones real sneaky",
-      "summary": "Federal authorities are investigating a collection of advanced iOS exploits that were used under unclear circumstances. The vulnerabilities represent a sophisticated hacking operation that caught government attention due to its mysterious nature.",
-      "sourceUrl": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+      "id": "sample-5",
+      "title": "NVIDIA Announces Next-Gen AI Chip That Uses 60% Less Power",
+      "tldr": "NVIDIA's new chip is so efficient it's making the old ones look like space heaters",
+      "summary": "NVIDIA just unveiled the B300 GPU that delivers 2x the AI performance while using 60% less power than the H100. Data centers are about to save insane amounts on electricity bills, and the AI training cost curve keeps going down.",
+      "deepLore": "The NVIDIA B300 features a 3nm process node with 280B transistors and 288GB of HBM4 memory. It achieves 2.4 petaflops of FP8 performance at 700W TDP, compared to the H100's 1.0 petaflops at 700W. The new NVLink 6.0 interconnect enables 3.6TB/s of GPU-to-GPU bandwidth.",
+      "sound": "thud",
+      "vibeTag": "jensen huang supremacy",
+      "sources": [
+        { "label": "Original - Ars Technica", "url": "https://arstechnica.com" },
+        { "label": "NVIDIA Newsroom", "url": "https://nvidianews.nvidia.com" },
+        { "label": "AnandTech Analysis", "url": "https://anandtech.com" }
+      ],
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-03-06T19:41:33.000Z"
+      "publishedAt": "2026-03-08T05:00:00.000Z"
     }
   ]
 }

@@ -38,24 +38,24 @@ export default async function DayPage({ params }: PageProps) {
   const digest = getDigest(date);
 
   return (
-    <div className="min-h-screen bg-zinc-950">
+    <div className="min-h-screen bg-[#FFFDF7]">
       <Header />
       <main className="mx-auto max-w-3xl px-4 py-8 sm:px-6">
         <Link
           href="/"
-          className="mb-6 inline-flex items-center gap-1 text-sm text-zinc-500 hover:text-violet-400"
+          className="mb-6 inline-block border-2 border-black bg-[#5ebaff] px-3 py-1 text-sm font-bold text-black shadow-[2px_2px_0px_#000] hover:shadow-[3px_3px_0px_#000] hover:-translate-x-0.5 hover:-translate-y-0.5"
         >
-          &larr; back to all days
+          ← back to all days
         </Link>
 
         {digest ? (
-          <DaySection digest={digest} />
+          <DaySection digest={digest} index={0} />
         ) : (
-          <div className="py-20 text-center">
-            <p className="text-2xl font-bold text-white">
+          <div className="border-4 border-black bg-[#ff5edf] p-8 text-center shadow-[6px_6px_0px_#000]">
+            <p className="text-2xl font-black uppercase text-black">
               nothing here fam
             </p>
-            <p className="mt-2 text-zinc-500">
+            <p className="mt-2 font-bold text-black/60">
               no digest for {date}. maybe the robots took a day off idk
             </p>
           </div>
