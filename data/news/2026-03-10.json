@@ -1,0 +1,215 @@
+{
+  "date": "2026-03-10",
+  "generatedAt": "2026-03-10T14:03:50.020Z",
+  "vibeSummary": "AI assistants everywhere fr",
+  "items": [
+    {
+      "id": "1773151430020-0",
+      "title": "The twist in the Ticketmaster antitrust fight",
+      "tldr": "YouTube's deepfake detector going to politicians & journalists so nobody can impersonate AOC anymore 💀",
+      "summary": "YouTube is expanding its AI deepfake detection tool beyond content creators to include politicians, government officials, and journalists. The feature lets these public figures flag unauthorized AI-generated likenesses of themselves for removal from the platform.",
+      "deepLore": "The likeness detection feature was previously only available to YouTube's millions of content creators but is now entering a pilot phase for high-profile public figures. The tool can identify AI-generated deepfakes that use someone's likeness without permission, though YouTube declined to specify which politicians are included in the pilot program.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/10/youtube-ai-deepfake-detection-politicians-government-officials-journalists/"
+        },
+        {
+          "label": "Related - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-10T14:01:10.000Z"
+    },
+    {
+      "id": "1773151430020-1",
+      "title": "YouTube expands AI deepfake detection for politicians, government officials, and journalists",
+      "tldr": "YouTube's deepfake detector going to politicians & journalists so nobody can impersonate AOC anymore 💀",
+      "summary": "YouTube is expanding its AI deepfake detection tool beyond content creators to include politicians, government officials, and journalists. The feature lets these public figures flag unauthorized AI-generated likenesses of themselves for removal from the platform.",
+      "deepLore": "The likeness detection feature was previously only available to YouTube's millions of content creators but is now entering a pilot phase for high-profile public figures. The tool can identify AI-generated deepfakes that use someone's likeness without permission, though YouTube declined to specify which politicians are included in the pilot program.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/10/youtube-ai-deepfake-detection-politicians-government-officials-journalists/"
+        },
+        {
+          "label": "Related - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-10T14:00:00.000Z"
+    },
+    {
+      "id": "1773151430020-2",
+      "title": "YouTube is expanding its AI deepfake detection tool to politicians and journalists",
+      "tldr": "Zoom said 'what if we made AI avatars for meetings' and honestly that's terrifying but also based",
+      "summary": "Zoom is launching an AI-powered office suite and introducing AI avatars for meetings this month. They're also adding real-time deepfake detection technology to their platform.",
+      "deepLore": "The new office suite represents Zoom's expansion beyond video conferencing into productivity tools powered by AI. The AI avatars feature allows users to have digital representations attend meetings, while the real-time deepfake detection aims to identify and flag artificial representations during live video calls.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-10T14:00:00.000Z"
+    },
+    {
+      "id": "1773151430020-3",
+      "title": "Adobe is debuting an AI assistant for Photoshop",
+      "tldr": "Adobe dropped an AI assistant for Photoshop bc apparently we needed another chatbot to tell us how to crop images",
+      "summary": "Adobe launched an AI assistant for Photoshop that lets users edit images through conversational commands. The feature is currently in public beta for Photoshop on web and mobile platforms.",
+      "deepLore": "The AI assistant integration represents Adobe's move toward more agentic AI features across Creative Cloud apps. Users can describe desired image edits conversationally rather than manually performing complex operations, with the assistant handling the technical execution of editing tasks.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/"
+        },
+        {
+          "label": "Related - The Verge",
+          "url": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-10T13:06:51.000Z"
+    },
+    {
+      "id": "1773151430020-4",
+      "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
+      "tldr": "Zoom said 'what if we made AI avatars for meetings' and honestly that's terrifying but also based",
+      "summary": "Zoom is launching an AI-powered office suite and introducing AI avatars for meetings this month. They're also adding real-time deepfake detection technology to their platform.",
+      "deepLore": "The new office suite represents Zoom's expansion beyond video conferencing into productivity tools powered by AI. The AI avatars feature allows users to have digital representations attend meetings, while the real-time deepfake detection aims to identify and flag artificial representations during live video calls.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "1773151430020-5",
+      "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
+      "tldr": "Google said 'bet you want Gemini in literally every Google app' and they were unfortunately correct",
+      "summary": "Google is rolling out new Gemini AI capabilities across Docs, Sheets, Slides, and Drive for Workspace subscribers. The features include a chat window in Docs, AI-generated spreadsheets, and enhanced search in Drive.",
+      "deepLore": "The integration includes a persistent Gemini chat interface at the bottom of Google Docs, replacing the previous limited AI writing suggestions with full conversational assistance. Google Sheets gains the ability to generate entire spreadsheets from natural language prompts, while Drive gets Gemini-powered semantic search capabilities.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/"
+        },
+        {
+          "label": "Related - The Verge",
+          "url": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "1773151430020-6",
+      "title": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
+      "tldr": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
+      "summary": "Google is embedding its Gemini AI assistant even more deeply within its Workspace apps. The changes, which are rolling out to Google Workspace and AI plan subscribers, include a new Gemini chat window inside Google Docs, a way to generate entire spreadsheets with AI, and a new Gemini-powered search feature in Drive.\nWhile Google Docs already shows you a few AI writing options alongside your blinking cursor, now you'll see a Gemini chat window at the bottom of your screen. There, you'll get the o",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "1773151430020-7",
+      "title": "You can now ask Photoshop’s AI assistant to edit images for you",
+      "tldr": "You can now ask Photoshop’s AI assistant to edit images for you",
+      "summary": "You can ask Adobe’s AI assistant to edit images in Photoshop for web by describing conversationally how you want it to change. | Image: Adobe\t\n\nAdobe announced more agentic AI features for its Creative Cloud apps this week, allowing users to edit images and documents by describing the changes to a chatbot. A native AI-assistant is now available in public beta for Photoshop on web and mobile, and some Adobe apps, including Acrobat and Express, will soon be available to access directly within Micr",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "1773151430020-8",
+      "title": "Prioritizing energy intelligence for sustainable growth",
+      "tldr": "Prioritizing energy intelligence for sustainable growth",
+      "summary": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything,…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "1773151430020-9",
+      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "tldr": "Google's Gemini in Sheets is apparently SOTA now which is wild bc it's just Excel with feelings",
+      "summary": "Google announced that Gemini in Google Sheets has achieved state-of-the-art performance in spreadsheet tasks. The AI can now create, organize, and edit entire sheets through natural language descriptions.",
+      "deepLore": "The new Gemini integration in Google Sheets represents a significant advancement in spreadsheet automation, enabling complex data analysis and manipulation through conversational AI. The system can handle everything from basic formatting tasks to sophisticated data analysis workflows, marking a new benchmark in AI-powered productivity tools.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/"
+        }
+      ],
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "1773151430020-10",
+      "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+      "tldr": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is turning the Iran conflict into theater  Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military decide where to…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-10T12:55:32.000Z"
+    },
+    {
+      "id": "1773151430020-11",
+      "title": "Sandbar secures $23M Series A for its AI note-taking ring",
+      "tldr": "Someone raised $23M for an AI note-taking ring called Stream bc apparently we needed wearable ChatGPT",
+      "summary": "Sandbar secured $23 million in Series A funding for its AI-powered note-taking ring called Stream. The device can take notes, interact with an AI assistant, and handle media playback, with shipping planned for this summer.",
+      "deepLore": "The Stream ring represents a new form factor for AI assistants, moving beyond smartphones and smart speakers into wearable computing. The device combines voice recording capabilities with AI processing for note transcription and assistant interactions, targeting users who need hands-free AI access throughout their day.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-10T12:40:37.000Z"
+    }
+  ]
+}
