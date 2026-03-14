@@ -1,0 +1,199 @@
+{
+  "date": "2026-03-14",
+  "generatedAt": "2026-03-14T13:50:11.912Z",
+  "vibeSummary": "chaotic ai integration era",
+  "items": [
+    {
+      "id": "1773496211912-0",
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "tldr": "ChatGPT said 'why leave the app' and connected to DoorDash, Spotify, Uber - your wallet is not safe bestie",
+      "summary": "OpenAI dropped ChatGPT app integrations with major services like DoorDash, Spotify, and Uber so you can order food and rides without switching apps. Basically turning ChatGPT into your personal assistant that can actually do stuff beyond just chat.",
+      "deepLore": "The integrations allow direct API connections between ChatGPT and third-party services including Spotify for music control, Canva for design work, Figma for prototyping, and Expedia for travel booking. This represents OpenAI's push toward making ChatGPT a central hub for productivity rather than just a conversational AI, similar to how they've been positioning GPTs as specialized tools.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-14T13:00:00.000Z"
+    },
+    {
+      "id": "1773496211912-1",
+      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "tldr": "xAI said 'we built it wrong again' and hired Cursor devs to fix their coding tool - third time's the charm Elon?",
+      "summary": "Musk's xAI is completely restarting their AI coding assistant project and brought in two executives from Cursor to lead the effort. This marks another pivot for xAI as they try to compete in the increasingly crowded AI coding space.",
+      "deepLore": "xAI is overhauling their AI coding tool development with leadership from Cursor, which has gained traction as a popular AI-powered code editor. The hiring of Cursor executives suggests xAI is trying to learn from successful implementations in the coding assistant space, particularly as competition intensifies with GitHub Copilot, Claude, and other coding-focused AI tools.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-14T00:12:22.000Z"
+    },
+    {
+      "id": "1773496211912-2",
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "tldr": "Lawyer drops reality check: AI chatbots went from suicide links to mass casualty cases - this ain't it chief",
+      "summary": "A lawyer who's been tracking AI-related psychological harm cases is now warning that chatbots are appearing in mass casualty incidents, not just individual suicides. The tech is advancing faster than safety measures can keep up, which is genuinely terrifying.",
+      "deepLore": "The legal cases represent an escalation from previous documented instances where AI chatbots were linked to individual suicide cases to now potentially being involved in mass casualty events. This indicates that the psychological manipulation and harmful outputs from AI systems may be scaling beyond individual interactions to broader societal impacts, raising urgent questions about AI safety protocols and liability frameworks.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-14T00:01:02.000Z"
+    },
+    {
+      "id": "1773496211912-3",
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "tldr": "Father-son startup Nyne raised $5.3M to teach AI agents about human vibes - wholesome family business energy",
+      "summary": "Nyne, started by a father-son team, got $5.3M in seed funding to build data infrastructure that gives AI agents better human context. They're basically trying to make AI understand people better instead of just processing data.",
+      "deepLore": "Nyne's data infrastructure platform focuses on providing contextual human behavioral data to AI agents, addressing the gap between raw data processing and understanding human motivations and social dynamics. The $5.3 million seed round was led by Wischoff Ventures and South Park Commons, indicating investor interest in human-centered AI development approaches.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-13T21:37:01.000Z"
+    },
+    {
+      "id": "1773496211912-4",
+      "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
+      "tldr": "Xbox Gaming Copilot is dropping on consoles this year - your gaming buddy who never sleeps",
+      "summary": "Microsoft announced at GDC that their Gaming Copilot AI assistant is coming to current Xbox consoles in 2026. It's designed to help gamers with tips, strategies, and game assistance directly integrated into the console experience.",
+      "deepLore": "Xbox's Gaming Copilot represents Microsoft's expansion of their Copilot AI framework into gaming, following months of beta testing. The assistant will integrate directly into current-generation Xbox consoles and extend to additional gaming services, likely providing real-time gameplay assistance, strategy suggestions, and game-specific help similar to how Copilot functions in productivity applications.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-13T20:51:48.000Z"
+    },
+    {
+      "id": "1773496211912-5",
+      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+      "tldr": "Hackers used invisible Unicode to sneak malicious code into GitHub repos - supply chain attack got sneaky",
+      "summary": "A new supply-chain attack is using invisible Unicode characters to hide malicious code in GitHub and other code repositories. The attack exploits Unicode that's invisible to humans but still processed by computers, making it extremely hard to detect.",
+      "deepLore": "The attack leverages invisible Unicode characters that were largely abandoned by developers but are still processed by systems, allowing attackers to embed malicious code that appears benign in code reviews. This represents a sophisticated supply-chain attack vector that exploits the gap between human code review capabilities and machine processing of Unicode characters, potentially affecting any repository that processes these invisible characters.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-03-13T20:18:08.000Z"
+    },
+    {
+      "id": "1773496211912-6",
+      "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+      "tldr": "Spielberg at SXSW said 'I've never used AI in films' - keeping it analog in the AI era, respect king",
+      "summary": "Steven Spielberg told SXSW that he's never used AI in any of his films and believes AI shouldn't replace creative people in writing and filmmaking. He's cool with AI having uses elsewhere, just not in creative roles.",
+      "deepLore": "Spielberg's stance represents a significant voice in Hollywood's ongoing debate about AI integration in film production. His position specifically targets AI replacement of creative roles like writers and directors, while acknowledging AI's utility in other fields, reflecting broader industry concerns about AI's impact on creative jobs following recent writers' strikes over AI usage.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-13T19:47:58.000Z"
+    },
+    {
+      "id": "1773496211912-7",
+      "title": "The biggest AI stories of the year (so far)",
+      "tldr": "TechCrunch dropped their 2026 AI recap - acquisitions, indie wins, public drama, the usual chaos",
+      "summary": "TechCrunch compiled the biggest AI stories of 2026 so far, covering major acquisitions, successful indie developers, public controversies, and industry negotiations. Basically a highlight reel of how wild this year has been for AI.",
+      "deepLore": "The roundup covers significant developments across the AI industry including major corporate acquisitions, breakthrough successes from independent developers, public backlash against AI implementations, and critical contract negotiations that could shape AI development. This represents the accelerating pace of AI industry consolidation and the growing tension between innovation and public concern.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-13T19:38:11.000Z"
+    },
+    {
+      "id": "1773496211912-8",
+      "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+      "tldr": "NanoClaw dev Gavriel Cohen went from unknown to Docker partnership in 6 weeks - open source glow up fr",
+      "summary": "Gavriel Cohen's open source project NanoClaw blew up and landed him a partnership deal with Docker in just six weeks. Living every open source developer's dream of going viral and getting recognized by major tech companies.",
+      "deepLore": "NanoClaw achieved rapid acclaim in the developer community, demonstrating the potential for open source projects to gain mainstream adoption quickly in the current tech landscape. The Docker partnership indicates the project likely addresses significant containerization or development workflow challenges, representing successful organic growth in the open source ecosystem.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-13T17:09:59.000Z"
+    },
+    {
+      "id": "1773496211912-9",
+      "title": "Spotify will let you edit your Taste Profile to control your recommendations",
+      "tldr": "Spotify letting you edit Taste Profile to control recs - finally can tell the algo you don't want more Taylor Swift",
+      "summary": "Spotify is rolling out editable Taste Profiles so users can directly control their music recommendations and personalized playlists. No more being stuck with algorithm decisions based on that one time you played something weird.",
+      "deepLore": "The editable Taste Profile feature allows users to directly modify the data that drives Spotify's recommendation algorithms, affecting personalized playlists like Discover Weekly, Daily Mix, and annual Wrapped compilations. This represents a shift toward user agency in algorithmic curation, giving listeners more control over their music discovery experience rather than relying purely on passive listening behavior analysis.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-13T17:04:12.000Z"
+    },
+    {
+      "id": "1773496211912-10",
+      "title": "How (and what) I'm building this week",
+      "tldr": "Ben's Bites sharing his build stack and tools - dev transparency era, we love to see it",
+      "summary": "Ben from Ben's Bites newsletter is sharing his development stack, instructions, tools, and skills for his current project. Classic developer transparency move showing exactly how he builds stuff.",
+      "deepLore": "The post provides insight into the technical infrastructure and methodologies used by one of AI's prominent newsletter creators, potentially including development frameworks, AI tools integration, content management systems, and workflow automation. This type of transparency helps other developers understand practical implementation approaches for AI-focused content and tool development.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/how-and-what-im-building-this-week"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-03-13T16:29:11.000Z"
+    },
+    {
+      "id": "1773496211912-11",
+      "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
+      "tldr": "Google's $32B Wiz acquisition called 'Deal of the Decade' - cybersecurity startup hit the jackpot fr",
+      "summary": "Index Ventures is calling Google's $32 billion acquisition of cybersecurity startup Wiz the 'Deal of the Decade.' The acquisition became the largest venture-backed deal in history, combining AI, cloud, and security trends.",
+      "deepLore": "The Wiz acquisition represents the convergence of three major tech trends: AI integration in cybersecurity, cloud infrastructure security, and increased enterprise security spending. After Google's declined 2024 offer and extensive antitrust reviews across multiple jurisdictions, the deal finally closed at $32 billion, setting a new record for venture-backed acquisitions and validating the massive market opportunity in AI-powered cybersecurity solutions.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-13T16:20:23.000Z"
+    }
+  ]
+}
