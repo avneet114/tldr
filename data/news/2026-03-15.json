@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-15",
+  "generatedAt": "2026-03-15T13:51:05.763Z",
+  "vibeSummary": "military money hits different",
+  "items": [
+    {
+      "id": "1773582665763-0",
+      "title": "US Army announces contract with Anduril worth up to $20B",
+      "tldr": "Army just dropped $20B on Anduril for defense tech consolidation - military industrial complex is thriving",
+      "summary": "The US Army signed a massive $20B contract with Anduril to consolidate over 120 separate procurement deals into one enterprise contract. Basically the military is streamlining its AI defense spending through one big supplier.",
+      "deepLore": "This contract represents a significant shift toward consolidated defense procurement, moving away from fragmented individual contracts to a single enterprise agreement. Anduril specializes in autonomous defense systems and AI-powered surveillance technology. The consolidation suggests the Army is prioritizing integrated AI defense capabilities over piecemeal solutions.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-14T20:47:47.000Z"
+    },
+    {
+      "id": "1773582665763-1",
+      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+      "tldr": "Meta might yeet 20% of employees to fund their AI spending spree - Zuck prioritizing robots over humans fr",
+      "summary": "Meta is reportedly planning layoffs that could cut 20% of their workforce to offset their massive AI infrastructure spending. They're basically trading human employees for AI investments and acquisitions.",
+      "deepLore": "The potential layoffs are directly tied to Meta's aggressive capital expenditure on AI training infrastructure, data centers, and AI talent acquisition. This follows the company's pattern of significant workforce reductions while simultaneously increasing AI R&D budgets. The move reflects the industry-wide shift toward prioritizing AI capabilities over traditional staffing models.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-14T16:28:42.000Z"
+    },
+    {
+      "id": "1773582665763-2",
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "tldr": "ChatGPT now has app integrations with DoorDash, Spotify, Uber - your AI assistant is becoming your personal concierge",
+      "summary": "ChatGPT rolled out new app integrations letting you order food, play music, book rides, and use design tools directly through the chat interface. It's basically turning into an AI-powered everything app.",
+      "deepLore": "OpenAI has implemented direct API integrations with major consumer platforms including DoorDash, Spotify, Uber, Canva, Figma, and Expedia within the ChatGPT interface. This represents a significant expansion of ChatGPT's function calling capabilities, allowing users to execute real-world actions through natural language commands. The integrations use authenticated API connections to enable seamless cross-platform functionality without leaving the ChatGPT environment.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-14T13:00:00.000Z"
+    }
+  ]
+}
