@@ -1,0 +1,167 @@
+{
+  "date": "2026-03-16",
+  "generatedAt": "2026-03-16T14:22:43.538Z",
+  "vibeSummary": "AI having teenage issues",
+  "items": [
+    {
+      "id": "1773670963538-0",
+      "title": "Nurturing agentic AI beyond the toddler stage",
+      "tldr": "MIT says AI is basically a toddler rn and needs better parenting lol",
+      "summary": "MIT Tech Review is comparing AI development to raising kids, talking about developmental milestones and stuff. They're saying we need to be better 'parents' to AI agents as they grow up.",
+      "deepLore": "The article draws parallels between child development benchmarks and AI agent capabilities, suggesting that current agentic AI systems are in early developmental stages. It likely discusses frameworks for evaluating AI agent maturity and the challenges of scaling from simple task completion to more sophisticated autonomous behavior.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-16T13:00:00.000Z"
+    },
+    {
+      "id": "1773670963538-1",
+      "title": "This is not a fly uploaded to a computer",
+      "tldr": "X users got hyped about a 'digital fly' that's just... not what they think it is",
+      "summary": "Eon Systems posted videos of a 'virtual fly' that had AI Twitter losing its mind. But it's not actually uploading fly brains to computers like everyone thought.",
+      "deepLore": "Eon Systems claims they're working toward digital human intelligence and want to emulate a full mouse brain within two years. Their current 'embodied fly' appears to be a simulation rather than an actual brain upload, though the technical details of their approach weren't fully detailed in the viral posts.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-16T12:49:07.000Z"
+    },
+    {
+      "id": "1773670963538-2",
+      "title": "The Download: glass chips and “AI-free” logos",
+      "tldr": "Glass AI chips are apparently a thing now + people want 'AI-free' labels",
+      "summary": "MIT's newsletter covering glass-based AI chips and the growing demand for AI-free product labels. Turns out ancient glass tech might be the future of AI hardware.",
+      "deepLore": "The article discusses glass substrates as a potential foundation for future AI chips, leveraging glass manufacturing techniques that are thousands of years old. Glass chips could offer advantages in terms of thermal management, electrical properties, or manufacturing scalability compared to traditional silicon substrates.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-16T12:35:00.000Z"
+    },
+    {
+      "id": "1773670963538-3",
+      "title": "OpenAI&#8217;s adult mode will reportedly be smutty, not pornographic",
+      "tldr": "OpenAI's 'adult mode' will let you chat spicy but no visual content yet",
+      "summary": "OpenAI's delayed adult mode for ChatGPT will support text-based 'smut' conversations but won't generate images, voice, or video. They're calling it smut, not porn, which is apparently an important distinction.",
+      "deepLore": "The adult mode feature will initially be limited to textual content generation with adult themes, excluding multimodal capabilities like image, voice, or video generation. OpenAI is making semantic distinctions between 'smut' and 'pornography' likely for content policy and legal compliance reasons.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-16T11:18:20.000Z"
+    },
+    {
+      "id": "1773670963538-4",
+      "title": "Securing digital assets against future threats",
+      "tldr": "Google + Accel picked 5 startups after rejecting 70% of AI pitches for being wrappers",
+      "summary": "Google and Accel's India accelerator reviewed over 4,000 AI startup applications for their Atoms cohort. About 70% were dismissed as 'AI wrappers' - basically companies just slapping GPT on existing products.",
+      "deepLore": "The accelerator program specifically filtered out companies that were primarily API wrappers around existing AI models without substantial technical innovation. This reflects the broader industry challenge of distinguishing between genuine AI startups and companies simply integrating existing AI services into basic applications.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-16T11:00:00.000Z"
+    },
+    {
+      "id": "1773670963538-5",
+      "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
+      "tldr": "Google + Accel picked 5 startups after rejecting 70% of AI pitches for being wrappers",
+      "summary": "Google and Accel's India accelerator reviewed over 4,000 AI startup applications for their Atoms cohort. About 70% were dismissed as 'AI wrappers' - basically companies just slapping GPT on existing products.",
+      "deepLore": "The accelerator program specifically filtered out companies that were primarily API wrappers around existing AI models without substantial technical innovation. This reflects the broader industry challenge of distinguishing between genuine AI startups and companies simply integrating existing AI services into basic applications.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-16T00:30:00.000Z"
+    },
+    {
+      "id": "1773670963538-6",
+      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "tldr": "ByteDance hit pause on Seedance 2.0 video gen while lawyers work out legal issues",
+      "summary": "ByteDance delayed the global launch of their Seedance 2.0 video generator. Engineers and lawyers are apparently scrambling to avoid more legal problems.",
+      "deepLore": "Seedance 2.0 is ByteDance's video generation model that was set for global release but has been paused due to legal concerns. The delay suggests potential issues around copyright, training data, or regulatory compliance that need resolution before international deployment.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-15T21:01:51.000Z"
+    },
+    {
+      "id": "1773670963538-7",
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "tldr": "Lawyer says AI chatbots linked to suicides are now showing up in mass casualty cases",
+      "summary": "A lawyer who's been handling AI-related psychosis cases is warning that chatbots aren't just linked to individual suicides anymore. They're allegedly connected to mass casualty events too, and tech is moving faster than safety measures.",
+      "deepLore": "The cases involve AI chatbots that have been associated with psychological harm leading to both individual suicides and broader mass casualty incidents. The lawyer argues that AI safety measures and regulatory frameworks are not keeping pace with the deployment of these systems and their potential for causing real-world harm.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-15T18:49:32.000Z"
+    },
+    {
+      "id": "1773670963538-8",
+      "title": "Wiz investor unpacks Google’s $32B acquisition",
+      "tldr": "Wiz investor unpacks Google’s $32B acquisition",
+      "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-15T15:30:33.000Z"
+    },
+    {
+      "id": "1773670963538-9",
+      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
+      "tldr": "AI companies want to hire improv actors to teach AI how to feel emotions properly",
+      "summary": "Companies like OpenAI are posting jobs for improv actors to help train AI on human emotions and character consistency. Basically they want theater kids to teach robots how to act human.",
+      "deepLore": "Handshake, which provides training data to OpenAI and other leading AI companies, is recruiting improv actors with strong emotional portrayal skills and character voice consistency. This suggests AI companies are focusing on improving emotional intelligence and authentic human interaction capabilities in their models through human performance data.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-15T14:00:00.000Z"
+    }
+  ]
+}
