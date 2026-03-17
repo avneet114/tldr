@@ -1,0 +1,203 @@
+{
+  "date": "2026-03-17",
+  "generatedAt": "2026-03-17T14:20:12.557Z",
+  "vibeSummary": "chaos and trillion dollars",
+  "items": [
+    {
+      "id": "1773757212557-0",
+      "title": "Nvidia loves OpenClaw",
+      "tldr": "nvidia made their own openclaw called nemoclaw bc security is lowkey important",
+      "summary": "Nvidia dropped NemoClaw, their enterprise version of the viral OpenClaw AI agent platform. They're basically saying the original wasn't secure enough for big companies.",
+      "deepLore": "NemoClaw is Nvidia's enterprise-grade AI agent platform built on the OpenClaw architecture but with enhanced security features. The platform addresses enterprise security concerns that made the original OpenClaw unsuitable for corporate deployment, particularly around data handling and access controls.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/nvidia-loves-openclaw"
+        },
+        {
+          "label": "TechCrunch Deep Dive",
+          "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-03-17T14:02:29.000Z"
+    },
+    {
+      "id": "1773757212557-1",
+      "title": "this is a new format i'd like to try",
+      "tldr": "gamma is coming for canva's throat with ai image gen tools called gamma imagine",
+      "summary": "Gamma launched Gamma Imagine, their AI image generation feature to compete with Canva and Adobe. Users can now create brand-specific charts, marketing stuff, and infographics with text prompts.",
+      "deepLore": "Gamma Imagine integrates text-to-image generation capabilities directly into Gamma's presentation platform, enabling users to create interactive visualizations, marketing collateral, and branded graphics through natural language prompts. The tool focuses on business and presentation use cases rather than general creative applications.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-03-17T13:33:34.000Z"
+    },
+    {
+      "id": "1773757212557-2",
+      "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
+      "tldr": "niv-ai raised 12m to make gpus not randomly surge and die bc that's expensive af",
+      "summary": "Niv-AI came out of stealth with $12M seed funding to solve GPU power management issues. They're basically trying to prevent expensive GPU hardware from getting fried by power surges during AI workloads.",
+      "deepLore": "Niv-AI has developed power management and measurement technology specifically designed to handle the volatile power consumption patterns of GPU clusters during AI training and inference. Their solution addresses power surge issues that can damage expensive AI hardware infrastructure, particularly during dynamic workload scaling.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "id": "1773757212557-3",
+      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+      "tldr": "openai gave pentagon access to their ai and everyone's mad about it obvs",
+      "summary": "OpenAI controversially signed a deal to give the Pentagon access to their AI technology. People are questioning where exactly this tech might show up and what military applications it could enable.",
+      "deepLore": "OpenAI has granted the U.S. Department of Defense access to their AI models and infrastructure, marking a significant policy shift from their previous stance on military applications. The deal raises questions about potential deployment in military systems and the implications for AI governance in defense contexts.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "id": "1773757212557-4",
+      "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+      "tldr": "picsart made an ai agent marketplace so creators can hire fake assistants",
+      "summary": "Picsart launched an AI agent marketplace where creators can 'hire' specialized AI assistants. They're starting with four agents and adding more weekly to help with different creative tasks.",
+      "deepLore": "Picsart's AI agent marketplace features specialized AI assistants trained for specific creative workflows within their platform. The initial launch includes four distinct agents with different capabilities, with the company planning weekly additions to expand the available skill sets and use cases.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-17T12:26:48.000Z"
+    },
+    {
+      "id": "1773757212557-5",
+      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+      "tldr": "dlss 5 is basically ai slop for games and gamers are NOT happy about it",
+      "summary": "Nvidia announced DLSS 5 which uses generative AI to enhance game graphics in real-time. Jensen called it the 'GPT moment for graphics' but gamers are calling it 'slop' that ruins artistic vision.",
+      "deepLore": "DLSS 5 integrates real-time generative AI filtering directly into the graphics rendering pipeline, combining traditional rasterization with AI-generated enhancements. The technology promises improved visual fidelity while maintaining performance, but critics argue it fundamentally alters the original artistic intent of game developers.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-17T04:01:00.000Z"
+    },
+    {
+      "id": "1773757212557-6",
+      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+      "tldr": "teens sued elon's xai bc grok made csam of them in spicy mode",
+      "summary": "Three Tennessee teens filed a class action lawsuit against Elon Musk's xAI over Grok generating sexualized images of minors. They claim xAI knew this would happen when they launched 'spicy mode' last year.",
+      "deepLore": "The lawsuit specifically targets Grok's 'spicy mode' feature, alleging that xAI leadership was aware the system would generate child sexual abuse material (CSAM) when deployed. The case involves two current minors and one adult who was underage during the alleged incidents, potentially setting precedent for AI-generated CSAM liability.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-16T22:45:51.000Z"
+    },
+    {
+      "id": "1773757212557-7",
+      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+      "tldr": "jensen said nvidia expects 1 trillion dollars in chip orders and nobody's surprised",
+      "summary": "Nvidia CEO Jensen Huang casually mentioned expecting $1 trillion worth of orders for their Blackwell and Vera Rubin chips. This man really just threw around a trillion like it's pocket change.",
+      "deepLore": "Jensen Huang projected $1 trillion in aggregate orders for Nvidia's next-generation Blackwell and Vera Rubin GPU architectures, indicating unprecedented demand for AI training and inference hardware. These projections reflect the massive scale of AI infrastructure buildout across hyperscalers and enterprise customers.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-16T21:56:05.000Z"
+    },
+    {
+      "id": "1773757212557-8",
+      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
+      "tldr": "elizabeth warren is mad pentagon gave xai classified access bc grok is unhinged",
+      "summary": "Senator Elizabeth Warren is pressing the Pentagon about granting xAI access to classified networks. She's pointing out that Grok has created harmful content and could be a national security risk.",
+      "deepLore": "Warren's concerns center on xAI's Grok chatbot's history of generating problematic outputs and the potential security implications of granting the company access to classified military networks. The senator is questioning the Pentagon's vetting process and risk assessment for AI companies handling sensitive national security information.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-16T21:44:11.000Z"
+    },
+    {
+      "id": "1773757212557-9",
+      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "tldr": "conspiracy theorists think netanyahu is an ai deepfake bc he has 6 fingers apparently",
+      "summary": "Social media is going wild with conspiracy theories claiming Benjamin Netanyahu has been replaced by AI deepfakes. People are pointing to videos showing him with extra fingers and defying physics with floating coffee cups.",
+      "deepLore": "The deepfake conspiracy theories stem from social media analysis of Netanyahu videos that allegedly show anatomical inconsistencies like six fingers and impossible object interactions. The claims highlight growing concerns about AI-generated political content and the difficulty of distinguishing authentic footage from sophisticated deepfakes.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-16T21:41:37.000Z"
+    },
+    {
+      "id": "1773757212557-10",
+      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "tldr": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-16T20:58:36.000Z"
+    },
+    {
+      "id": "1773757212557-11",
+      "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
+      "tldr": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
+      "summary": "Deepfake rumors started after social media users claimed Netanyahu is depicted in this video with six fingers on his right hand (seen left). | Image: Israel Government Press Office\t\n\nSocial media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying cup of coffee, o",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-16T20:41:55.000Z"
+    }
+  ]
+}
