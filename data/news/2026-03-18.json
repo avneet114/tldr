@@ -1,0 +1,199 @@
+{
+  "date": "2026-03-18",
+  "generatedAt": "2026-03-18T14:23:35.221Z",
+  "vibeSummary": "Pentagon wants war AI",
+  "items": [
+    {
+      "id": "1773843815221-0",
+      "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
+      "tldr": "DOD said Anthropic's ethics are literally a national security threat bc they won't help with war stuff",
+      "summary": "The Defense Department basically called Anthropic unpatriotic for having red lines about military use. They're big mad that Claude might refuse to help with warfighting operations.",
+      "deepLore": "The DOD formally designated Anthropic as a supply chain risk, citing concerns that the company's constitutional AI approach and safety guardrails could lead them to disable technology during active military operations. This marks a significant escalation in tensions between AI safety-focused companies and defense applications.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-18T13:40:43.000Z"
+    },
+    {
+      "id": "1773843815221-1",
+      "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+      "tldr": "Pentagon wants to train AI on classified data bc regular AI apparently isn't spicy enough for war",
+      "summary": "The Pentagon is setting up secure facilities where AI companies can train models on classified military data. Claude is already being used to analyze targets in Iran, but they want models trained from scratch on the secret stuff.",
+      "deepLore": "The Pentagon plans to establish secure computing environments where generative AI companies can train military-specific model variants on classified datasets. Current applications include using Anthropic's Claude for target analysis in Iran, but the new approach would allow training from the ground up rather than just fine-tuning existing models.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-18T12:38:00.000Z"
+    },
+    {
+      "id": "1773843815221-2",
+      "title": "DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?",
+      "tldr": "Nvidia's DLSS 5 turns video game characters into uncanny valley nightmares and gamers are NOT having it",
+      "summary": "Nvidia dropped DLSS 5 with \"3D guided neural rendering\" that changes game lighting and materials in real-time. Problem is it's making characters look like AI slop and everyone's roasting the \"yassified\" Resident Evil demos.",
+      "deepLore": "DLSS 5 introduces a new 3D guided neural rendering model that can modify game lighting and materials in real-time, which Nvidia claims is their biggest graphics breakthrough since ray tracing in 2018. However, the technology appears to over-process character faces and textures, creating an artificial, over-smoothed appearance that resembles AI-generated imagery.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-18T12:30:00.000Z"
+    },
+    {
+      "id": "1773843815221-3",
+      "title": "What do new nuclear reactors mean for waste?",
+      "tldr": "Mistral said 'fine-tuning is for peasants' and launched a build-your-own AI platform to flex on OpenAI",
+      "summary": "Mistral dropped Forge, which lets enterprises train custom AI models from scratch on their own data. It's their play to differentiate from OpenAI and Anthropic who mostly do fine-tuning and RAG approaches.",
+      "deepLore": "Mistral Forge enables enterprises to train completely custom AI models from the ground up using their proprietary datasets, rather than relying on fine-tuning existing foundation models or retrieval-augmented generation approaches. This represents a more resource-intensive but potentially more customizable alternative to the standard enterprise AI deployment strategies used by competitors.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-18T09:00:00.000Z"
+    },
+    {
+      "id": "1773843815221-4",
+      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+      "tldr": "Garry Tan's Claude coding setup went viral and now even the AIs have opinions about it (messy)",
+      "summary": "Y Combinator's president shared his Claude Code setup on GitHub and thousands of people tried it. Now there's drama with people either loving or hating it, and apparently Claude, ChatGPT, and Gemini are all weighing in too.",
+      "deepLore": "Garry Tan released a Claude Code configuration setup on GitHub that gained significant traction in the developer community. The setup appears to optimize Claude for coding tasks, but has generated polarized reactions from users, with even competing AI models like ChatGPT and Gemini providing commentary on the approach.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-17T22:30:46.000Z"
+    },
+    {
+      "id": "1773843815221-5",
+      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "tldr": "Pentagon is building Anthropic alternatives after their breakup bc they're not getting back together",
+      "summary": "After the DOD-Anthropic drama, the Pentagon is actively developing alternative AI solutions. The relationship is officially over and they're moving on to other AI partners who are more military-friendly.",
+      "deepLore": "Following the designation of Anthropic as a supply chain risk, the Pentagon is reportedly investing in alternative AI capabilities and partnerships with companies that have fewer restrictions on defense applications. This suggests a strategic pivot away from safety-focused AI companies toward more defense-compliant alternatives.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-17T21:00:00.000Z"
+    },
+    {
+      "id": "1773843815221-6",
+      "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+      "tldr": "BuzzFeed dropped AI slop apps at SXSW and nobody cared (predictably)",
+      "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW as part of their desperate revenue hunt. The demos got muted reactions, which is corporate speak for 'everyone thought it was mid.'",
+      "deepLore": "BuzzFeed demonstrated new AI-powered social applications at SXSW as part of their ongoing pivot toward AI-driven content and revenue streams. The lukewarm reception suggests market skepticism about BuzzFeed's ability to successfully monetize AI applications in the competitive social media landscape.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-17T20:50:04.000Z"
+    },
+    {
+      "id": "1773843815221-7",
+      "title": "The Pentagon is developing alternatives to Anthropic, report says",
+      "tldr": "Google gave everyone in the US personalized Gemini AI bc why should paying customers have all the fun",
+      "summary": "Google's Personal Intelligence feature is now free for all US users, not just Pro/Ultra subscribers. It connects your Google apps to give Gemini context about your life, but only works on personal accounts.",
+      "deepLore": "Google expanded access to Personal Intelligence, which integrates data across Google services (Gmail, Calendar, Drive, etc.) to provide contextual responses through Gemini. The feature is now available through AI Mode in Search, Gemini in Chrome, and the Gemini app, but remains restricted to personal Google accounts rather than workspace accounts.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-17T18:20:15.000Z"
+    },
+    {
+      "id": "1773843815221-8",
+      "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
+      "tldr": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
+      "summary": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. Resident Evil Requiem protagonist Grace got a makeover that wo",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-17T18:00:00.000Z"
+    },
+    {
+      "id": "1773843815221-9",
+      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+      "tldr": "BuzzFeed debuts AI slop apps in bid for new revenue",
+      "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-17T17:17:15.000Z"
+    },
+    {
+      "id": "1773843815221-10",
+      "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+      "tldr": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+      "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-03-17T17:07:12.000Z"
+    },
+    {
+      "id": "1773843815221-11",
+      "title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
+      "tldr": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
+      "summary": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use Personal Intelligence through AI Mode in Search, Gemini in Chrome, and the Gemini app. However, the feature is currently only available to users on personal Google accou",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-17T16:33:41.000Z"
+    }
+  ]
+}
