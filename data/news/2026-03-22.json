@@ -1,0 +1,151 @@
+{
+  "date": "2026-03-22",
+  "generatedAt": "2026-03-22T13:47:32.413Z",
+  "vibeSummary": "Amazon chips hit different",
+  "items": [
+    {
+      "id": "1774187252413-0",
+      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple ",
+      "tldr": "AWS showing off their custom silicon that apparently has OpenAI, Anthropic AND Apple pressed",
+      "summary": "Amazon gave TechCrunch an exclusive peek at their Trainium chip lab after that massive $50B OpenAI deal. Apparently their custom silicon is so good that even the big players are choosing it over Nvidia's offerings.",
+      "deepLore": "Amazon's Trainium chips are their custom AI training processors designed to compete with Nvidia's H100s and A100s. The $50 billion OpenAI investment seems tied to compute infrastructure, with AWS positioning Trainium as a cost-effective alternative for large-scale model training. The fact that Apple and Anthropic are also reportedly using these chips suggests Amazon has achieved significant price-performance advantages in AI workloads.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-22T12:00:00.000Z"
+    },
+    {
+      "id": "1774187252413-1",
+      "title": "AI was everywhere at gaming’s big developer conference — except the games",
+      "tldr": "GDC was full of AI tools for making games but zero actual good games using AI lmaooo",
+      "summary": "Game developers conference was packed with AI vendors selling tools for NPCs and procedural generation. But the actual games being shown were mid - just basic demos and chat-generated pixel art.",
+      "deepLore": "GDC 2026 featured multiple AI gaming tools including Tencent's procedural world generation system, Razer's automated QA logging for bug detection, and various NPC behavior engines. Google DeepMind gave a standing-room-only presentation, but the actual gameplay applications remain largely in demo phases rather than production-ready titles.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-22T12:00:00.000Z"
+    },
+    {
+      "id": "1774187252413-2",
+      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+      "tldr": "Companies trying to pay engineers in AI tokens instead of real money, engineers not having it",
+      "summary": "Some companies are pushing AI tokens as the new signing bonus or part of compensation packages. Engineers are rightfully skeptical about whether this is actually beneficial or just companies being cheap.",
+      "deepLore": "The article explores whether AI compute tokens (likely referring to API credits for services like OpenAI, Anthropic, or cloud compute) could become a fourth pillar of engineering compensation alongside salary, equity, and benefits. However, the volatility and utility limitations of such tokens make them questionable as reliable compensation compared to traditional cash and equity structures.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-22T06:20:43.000Z"
+    },
+    {
+      "id": "1774187252413-3",
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+      "tldr": "Hachette said 'absolutely not' to publishing a horror novel that was probably written by AI",
+      "summary": "Major publisher Hachette Book Group pulled the horror novel 'Shy Girl' because they suspected AI was used to write it. Another L for AI-generated content trying to pass as human creativity.",
+      "deepLore": "Hachette Book Group's decision to cancel 'Shy Girl' represents publishers taking a firm stance against AI-generated literature. The detection likely involved textual analysis patterns, writing inconsistencies, or direct evidence of AI tool usage. This sets a precedent for traditional publishing houses rejecting AI-authored works.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-21T19:30:27.000Z"
+    },
+    {
+      "id": "1774187252413-4",
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "tldr": "Compliance startup Delve allegedly scammed hundreds of customers with fake regulatory compliance",
+      "summary": "An anonymous whistleblower accused compliance startup Delve of lying to customers about meeting privacy and security regulations. Hundreds of companies apparently got finessed into thinking they were compliant when they weren't.",
+      "deepLore": "The allegations suggest Delve provided false assurances about GDPR, SOC 2, or other regulatory compliance frameworks without actually implementing proper controls. This type of compliance theater is particularly dangerous as it leaves companies exposed to regulatory penalties while believing they're protected.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-21T17:00:05.000Z"
+    },
+    {
+      "id": "1774187252413-5",
+      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+      "tldr": "Nvidia had a whole conference but Wall Street was like 'meh' about the AI bubble fears",
+      "summary": "Nvidia threw their latest big conference but Wall Street wasn't impressed enough to calm AI bubble concerns. The industry itself seems unbothered by bubble talk though.",
+      "deepLore": "Despite Nvidia's GTC conference showcasing new GPU architectures, software frameworks, and AI partnerships, investors remained skeptical about AI valuations and market sustainability. The disconnect between industry confidence and Wall Street caution suggests concerns about AI infrastructure spending outpacing actual revenue generation from AI applications.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-21T16:28:00.000Z"
+    },
+    {
+      "id": "1774187252413-6",
+      "title": "The gen AI Kool-Aid tastes like eugenics",
+      "tldr": "Director tried Sora, found AI community full of eugenics vibes, made documentary about it",
+      "summary": "Filmmaker Valerie Veatch got curious about Sora and AI art communities but was horrified by the eugenic-adjacent content being generated. Now she's making a documentary about the dark side of generative AI culture.",
+      "deepLore": "Veatch's experience with OpenAI's Sora text-to-video model led her to discover problematic patterns in AI-generated content, particularly around biased representations and eugenic ideologies embedded in training data. Her documentary 'Ghost in the Machine' examines how generative AI tools can perpetuate and amplify harmful societal biases through their outputs.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-21T14:00:00.000Z"
+    },
+    {
+      "id": "1774187252413-7",
+      "title": "Gemini task automation is slow, clunky, and super impressive",
+      "tldr": "Gemini can now control your apps automatically and it's slow but actually kinda fire ngl",
+      "summary": "Google's Gemini can now take over your phone and use apps for you, starting with food delivery and rideshares. It's laggy and limited but genuinely impressive when it works.",
+      "deepLore": "Gemini's task automation feature is currently in beta on Pixel 10 Pro and Galaxy S26 Ultra, using on-device multimodal capabilities to interact with app interfaces. The system can interpret UI elements and execute multi-step workflows in apps like Uber and DoorDash, representing a significant step toward true AI agents that can operate smartphones autonomously.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-21T11:30:00.000Z"
+    },
+    {
+      "id": "1774187252413-8",
+      "title": "Ben's Builds: #2",
+      "tldr": "Ben from Ben's Bites dropping his tech stack and build process for AI projects",
+      "summary": "Popular AI newsletter writer Ben is sharing his development setup, tools, and workflow for building AI projects. Basically a behind-the-scenes look at how he creates stuff.",
+      "deepLore": "This appears to be the second installment of Ben's technical deep-dives into his development process, covering his preferred programming stack, AI model integrations, and project management approach. Given Ben's Bites' focus on AI tools and trends, this likely includes insights into rapid prototyping with LLMs and AI-powered development workflows.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/bens-builds-2"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-03-21T10:24:41.000Z"
+    }
+  ]
+}
