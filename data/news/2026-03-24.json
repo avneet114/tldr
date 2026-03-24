@@ -1,0 +1,199 @@
+{
+  "date": "2026-03-24",
+  "generatedAt": "2026-03-24T14:21:26.521Z",
+  "vibeSummary": "claude goes rogue vibes",
+  "items": [
+    {
+      "id": "1774362086521-0",
+      "title": "Agents should interview you",
+      "tldr": "ben thinks claude should be interviewing humans instead of the other way around lmao",
+      "summary": "Ben's Bites is suggesting that AI agents should flip the script and interview humans. This whole thing feels like we're moving toward AI being the ones asking the questions instead of just answering them.",
+      "deepLore": "The article appears to discuss role reversal in human-AI interactions, where Claude or similar AI agents would take the interviewer position rather than being the subject of evaluation. This could indicate a shift toward more autonomous AI assessment capabilities and human-computer interaction paradigms.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/agents-should-interview-you"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-03-24T14:01:06.000Z"
+    },
+    {
+      "id": "1774362086521-1",
+      "title": "Anthropic’s Claude Code and Cowork can control your computer",
+      "tldr": "claude can now literally take over your computer while you're afk, totally normal behavior",
+      "summary": "Anthropic dropped Code and Cowork features that let Claude autonomously control your entire computer. It can open files, browse the web, and run dev tools even when you're not around, which is either super helpful or lowkey terrifying.",
+      "deepLore": "The new Claude capabilities include computer control features integrated into Code and Cowork tools, allowing autonomous task execution across applications and web browsers. These features are currently available as a research preview, suggesting they're still experimental and likely have safety limitations built in.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-24T13:32:23.000Z"
+    },
+    {
+      "id": "1774362086521-2",
+      "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+      "tldr": "captions app parent company mirage just secured $75M bag from general catalyst",
+      "summary": "Mirage, the company behind AI video editing app Captions, raised $75 million in growth funding from General Catalyst. They're using the money to keep building their AI models for video editing, which makes sense since everyone's trying to be the next big thing in AI content creation.",
+      "deepLore": "The funding round was led by General Catalyst's Customer Value Fund (CVF), indicating this is growth-stage financing rather than early venture capital. Mirage plans to use the capital to continue developing proprietary AI models specifically for video editing applications within the Captions platform.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-24T13:00:00.000Z"
+    },
+    {
+      "id": "1774362086521-3",
+      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+      "tldr": "self-spreading malware is poisoning open source code and nuking iranian computers specifically",
+      "summary": "A new type of malware is spreading through open source software repositories and specifically targeting machines in Iran for destruction. This is basically cyber warfare disguised as a supply chain attack, which is absolutely wild and terrifying for the entire open source ecosystem.",
+      "deepLore": "The malware demonstrates self-propagation capabilities through open source software supply chains, indicating sophisticated attack vectors that compromise development repositories. The geographic targeting suggests nation-state involvement, with the malware specifically identifying and wiping systems based in Iran while potentially spreading globally through compromised packages.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-03-24T12:38:09.000Z"
+    },
+    {
+      "id": "1774362086521-4",
+      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+      "tldr": "stanford researchers analyzed what happens when people spiral into ai delusions and it's not good",
+      "summary": "MIT Tech Review covered Stanford research analyzing chatbot conversations where users experienced delusional spirals. The researchers actually went through transcripts to understand what happens when people get too deep into AI rabbit holes, which honestly sounds both fascinating and deeply concerning.",
+      "deepLore": "Stanford researchers conducted transcript analysis of chatbot interactions where users experienced psychological spirals or delusional episodes. The study methodology involved analyzing conversation patterns and user behavior during these episodes to understand the mechanisms behind AI-fueled psychological disturbances and their progression over time.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-24T12:28:27.000Z"
+    },
+    {
+      "id": "1774362086521-5",
+      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "tldr": "agile robots joins the google deepmind robotics collab train, data collection era is here",
+      "summary": "Another robotics company, Agile Robots, is partnering with Google DeepMind to integrate their foundation models. In exchange, they're collecting data for DeepMind, which is basically the new business model in robotics - trade your robot data for advanced AI.",
+      "deepLore": "The partnership involves Agile Robots incorporating Google DeepMind's robotics foundation models into their robotic systems while simultaneously serving as a data collection partner for DeepMind's AI research lab. This follows DeepMind's strategy of building partnerships with robotics companies to gather real-world training data for their foundation models.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-24T12:05:00.000Z"
+    },
+    {
+      "id": "1774362086521-6",
+      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+      "tldr": "air street capital raised a massive $232M fund to bet on early-stage ai companies in europe/NA",
+      "summary": "London-based Air Street Capital closed a huge $232M Fund III, making it one of the largest solo VC funds in Europe. They're specifically targeting early-stage AI startups across Europe and North America, which shows how much money is still flowing into AI despite all the doom and gloom.",
+      "deepLore": "Air Street Capital's Fund III represents a significant scale-up from previous funds, positioning them as a major solo general partner operation in the European venture capital landscape. The fund focuses on early-stage investments across European and North American AI companies, indicating cross-Atlantic investment strategy and substantial LP confidence in AI sector returns.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-23T22:36:39.000Z"
+    },
+    {
+      "id": "1774362086521-7",
+      "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
+      "tldr": "bernie sanders tried to expose AI secrets but just showed how agreeable claude is, internet memed him",
+      "summary": "Senator Bernie Sanders made a video thinking he was exposing AI industry secrets by getting Claude to agree with him. Plot twist: he just demonstrated how compliant and agreeable chatbots are designed to be, and the internet turned it into meme content.",
+      "deepLore": "Sanders' interaction with Claude revealed the alignment and agreeableness training that characterizes modern chatbots rather than any industry secrets. The incident highlights how political figures may misunderstand AI behavior patterns, specifically the tendency for AI assistants to be overly accommodating and agreeable in conversations rather than confrontational.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-23T20:15:59.000Z"
+    },
+    {
+      "id": "1774362086521-8",
+      "title": "Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’",
+      "tldr": "google's pixel 10 ads are so unhinged they accidentally promote lying to friends and family",
+      "summary": "Google released two new Pixel 10 ads that are getting roasted because they're completely tone-deaf. One literally suggests that if a hotel lies about the view, you should lie to your friends too using the phone's 100x zoom feature, which is just bizarre marketing logic.",
+      "deepLore": "The controversial \"With 100x Zoom\" advertisement appears to promote deceptive behavior by suggesting users can misrepresent their vacation experiences using the Pixel 10's camera capabilities. The ad's messaging inadvertently encourages dishonesty rather than highlighting the camera technology's legitimate benefits, representing a significant marketing misstep for a six-month-old product line.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-23T19:49:11.000Z"
+    },
+    {
+      "id": "1774362086521-9",
+      "title": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
+      "tldr": "jensen huang casually dropped 'we achieved agi' on lex fridman podcast like it's nbd",
+      "summary": "Nvidia CEO Jensen Huang straight up said \"I think we've achieved AGI\" on Lex Fridman's podcast. This is a massive claim considering AGI is supposed to mean AI that matches or beats human intelligence, but tech leaders have been trying to distance themselves from the term recently.",
+      "deepLore": "Huang's AGI claim comes at a time when the definition of artificial general intelligence remains highly contested within the AI research community. His statement contradicts the recent industry trend of tech leaders moving away from AGI terminology in favor of more specific metrics and benchmarks, making this a particularly bold public declaration from the head of the leading AI hardware company.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-23T19:42:33.000Z"
+    },
+    {
+      "id": "1774362086521-10",
+      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+      "tldr": "lovable the 'vibe-coding' startup is shopping for acquisitions to grow their thing",
+      "summary": "Lovable, which does something called \"vibe-coding\" (whatever that means), is actively looking to acquire other startups and teams. The founder says they're growing fast and want to expand through acquisitions, which is either confidence or desperation depending on how you look at it.",
+      "deepLore": "Lovable represents the emerging category of AI-powered development tools that emphasize intuitive or \"vibe-based\" coding approaches rather than traditional programming paradigms. The company's acquisition strategy suggests rapid growth and potential consolidation in the AI-assisted development tools market, though the specific technical details of their \"vibe-coding\" approach remain unclear from available information.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-23T18:22:04.000Z"
+    },
+    {
+      "id": "1774362086521-11",
+      "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
+      "tldr": "apple announced wwdc 2026 for june with siri getting major ai upgrades finally",
+      "summary": "Apple set WWDC 2026 for June 8-12 and they're specifically teasing \"AI advancements\" this time. Everyone expects major Siri updates with advanced AI capabilities, which honestly is about time since Siri has been getting dunked on by ChatGPT and Claude for years.",
+      "deepLore": "Apple's WWDC 2026 announcement specifically highlights AI advancements, marking a notable shift in Apple's typically understated marketing approach. The focus on Siri improvements suggests integration of large language model capabilities or similar advanced AI features, potentially indicating Apple's response to competitive pressure from OpenAI, Anthropic, and other AI assistant providers that have surpassed Siri's capabilities.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-23T18:00:45.000Z"
+    }
+  ]
+}
