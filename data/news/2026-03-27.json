@@ -1,0 +1,207 @@
+{
+  "date": "2026-03-27",
+  "generatedAt": "2026-03-27T14:14:06.586Z",
+  "vibeSummary": "chaos energy everywhere fr",
+  "items": [
+    {
+      "id": "1774620846586-0",
+      "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+      "tldr": "ski bros made the best weather app using AI, MIT said so 🎿",
+      "summary": "Some ski bums created OpenSnow, apparently the internet's best weather forecasting app that uses government data plus their own AI. MIT Tech Review is giving them props for outperforming federal services and big brands.",
+      "deepLore": "OpenSnow combines government meteorological data with proprietary AI models specifically trained for snow forecasting. The startup's AI system appears to outperform traditional federal weather services and major commercial weather platforms in accuracy for winter sports conditions.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-27T12:32:54.000Z"
+    },
+    {
+      "id": "1774620846586-1",
+      "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
+      "tldr": "dead scientist froze his brain for science, now it's being studied 🧠❄️",
+      "summary": "MIT Tech Review covered research on preserved brain of gerontologist L. Stephen Coles who died in 2014. Coles studied human longevity and chose cryonics to preserve his brain after dying from cancer.",
+      "deepLore": "The research focuses on the cryonically preserved brain of L. Stephen Coles, a gerontologist who specialized in human longevity research before his death from pancreatic cancer in 2014. Coles made the decision to have his brain preserved through cryonic techniques, and it's now being used for scientific study.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-03-27T09:00:00.000Z"
+    },
+    {
+      "id": "1774620846586-2",
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "tldr": "Anthropic clapped back at Trump admin with successful lawsuit 💅",
+      "summary": "Federal judge sided with Anthropic against Trump administration restrictions. The AI company got an injunction to reverse their government blacklisting while the legal case continues.",
+      "deepLore": "Judge Rita F. Lin granted Anthropic a preliminary injunction in their lawsuit against the Pentagon's supply chain risk designation. Court records show the Department of Defense blacklisted Anthropic citing their 'hostile manner through the press' as justification for the restrictions.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/"
+        },
+        {
+          "label": "Related - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-27T01:18:38.000Z"
+    },
+    {
+      "id": "1774620846586-3",
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+      "tldr": "Google said 'come to Gemini' with new chat import tools 📱",
+      "summary": "Google launched switching tools to make it easier for people to migrate from other chatbots to Gemini. You can now transfer chats and personal info directly into Gemini from competitors.",
+      "deepLore": "Google's new Import Memory and Import Chat History features allow users to copy-paste prompts between AI systems to transfer conversation history and user preferences. The desktop tools require users to run suggested prompts in their previous AI, then paste the output into Gemini for quick onboarding.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
+        },
+        {
+          "label": "Related - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-27T00:33:44.000Z"
+    },
+    {
+      "id": "1774620846586-4",
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "tldr": "David Sacks rage quit his AI czar job after 130 days max ✌️",
+      "summary": "David Sacks is no longer Trump's AI and Crypto Czar after his special government employee status ended. The venture capitalist was a key architect of aggressive AI policy but could only work government + private sector for 130 days max.",
+      "deepLore": "Sacks held Special Government Employee (SGE) status which allowed simultaneous private sector and government work but was legally limited to 130 days maximum. As Trump's Special Advisor on AI and Crypto, he was Silicon Valley's primary advocate in the White House and helped shape aggressive AI policy initiatives.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-26T23:47:56.000Z"
+    },
+    {
+      "id": "1774620846586-5",
+      "title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "tldr": "Wikipedia said 'no AI writing allowed' and actually means it 📝",
+      "summary": "Wikipedia is cracking down on AI-generated article writing after struggling with the issue. The site is updating its policies to restrict AI use in content creation.",
+      "deepLore": "Wikipedia has implemented new policy restrictions specifically targeting AI-generated content in article writing. The platform has been grappling with how to handle AI-written contributions as its community-driven editing model faces challenges from automated content generation.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-26T23:40:22.000Z"
+    },
+    {
+      "id": "1774620846586-6",
+      "title": "Wikipedia cracks down on the use of AI in article writing",
+      "tldr": "Apple's iOS 27 letting Siri work with other AI chatbots besides ChatGPT 🤖",
+      "summary": "iOS 27 will let users choose which AI chatbot to link with Siri instead of just ChatGPT. Third-party chatbots from the App Store like Gemini or Claude will be able to handle Siri requests.",
+      "deepLore": "Apple's iOS 27 update introduces a new system allowing third-party AI chatbots downloaded from the App Store to integrate with Siri's request handling. This expands beyond the current exclusive ChatGPT integration to include Google Gemini, Anthropic's Claude, and other AI assistants for voice queries.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-26T21:50:10.000Z"
+    },
+    {
+      "id": "1774620846586-7",
+      "title": "Google is making it easier to import another AI’s memory into Gemini",
+      "tldr": "Apple's AI playlist feature is straight up trash at understanding music 🎵💀",
+      "summary": "Apple's new Playlist Playground beta is terrible at music recommendations. When asked for atmospheric instrumental black metal, it served up vocal metal, field recordings, and doom jazz instead.",
+      "deepLore": "Apple Music's AI Playlist Playground beta demonstrates poor music categorization and genre understanding compared to competitors like YouTube Music's AI playlist generator. The system struggles with specific genre requests and delivers inaccurate results that don't match user prompts for musical style or mood.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-26T21:44:37.000Z"
+    },
+    {
+      "id": "1774620846586-8",
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "tldr": "Google's voice + camera search AI now speaks dozens more languages globally 🌍",
+      "summary": "Google expanded Search Live to 200+ countries and dozens of languages. The AI assistant lets you point your camera at stuff and ask questions out loud for audio responses.",
+      "deepLore": "Google Search Live combines computer vision and voice processing to allow users to search using their phone's camera and voice simultaneously. The feature, which previously rolled out broadly in the US in September, now supports multilingual audio responses across more than 200 countries and territories.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-26T21:31:27.000Z"
+    },
+    {
+      "id": "1774620846586-9",
+      "title": "Apple’s AI Playlist Playground is bad at music",
+      "tldr": "OpenAI killed ChatGPT's horny mode along with other random projects 🔞❌",
+      "summary": "OpenAI ditched ChatGPT's erotic mode as part of abandoning several side projects this week. It's the latest in a series of features and experiments the company has scrapped recently.",
+      "deepLore": "OpenAI discontinued development on ChatGPT's erotic conversation capabilities as part of a broader strategy to abandon multiple experimental features and side projects. This represents part of a pattern of the company discontinuing various experimental features and non-core initiatives over the past week.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-26T20:51:31.000Z"
+    },
+    {
+      "id": "1774620846586-10",
+      "title": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
+      "tldr": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
+      "summary": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday.\nSearch Live rolled out broadly in the US last September, allowing you to point your phone's camera at something and ask about it aloud, such as how to install a shelving unit. The AI assistant will then offer an audio resp",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-03-26T18:47:51.000Z"
+    },
+    {
+      "id": "1774620846586-11",
+      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "tldr": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-03-26T18:34:02.000Z"
+    }
+  ]
+}
