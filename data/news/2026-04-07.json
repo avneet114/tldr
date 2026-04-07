@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-07",
+  "generatedAt": "2026-04-07T14:46:40.613Z",
+  "vibeSummary": "chaos money vibes fr",
+  "items": [
+    {
+      "id": "1775573200613-0",
+      "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
+      "tldr": "TechCrunch really said pay $500 less for a conference ticket rn bestie",
+      "summary": "TechCrunch is pushing discounted Disrupt 2026 tickets with 4 days left to save almost $500. Just straight up marketing disguised as news honestly.",
+      "deepLore": "This is a promotional article for TechCrunch Disrupt 2026 conference passes, offering savings up to $482 with a deadline of April 10 at 11:59 PM PT. No technical details provided as this is purely marketing content.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-07T14:00:00.000Z"
+    },
+    {
+      "id": "1775573200613-1",
+      "title": "Enabling agent-first process redesign",
+      "tldr": "MIT says stop slapping AI onto old workflows like a band-aid challenge",
+      "summary": "Companies need to redesign entire processes around AI agents instead of just adding them to existing workflows. MIT Tech Review is basically telling everyone they're doing AI integration wrong.",
+      "deepLore": "The article discusses the shift from static, rules-based systems to dynamic AI agents that can learn, adapt, and optimize processes in real-time. These agents can execute autonomous workflows by interacting with data, systems, people, and other agents, but require fundamental process redesign rather than traditional optimization approaches on legacy systems.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-07T14:00:00.000Z"
+    },
+    {
+      "id": "1775573200613-2",
+      "title": "No Claude for Claws",
+      "tldr": "Anthropic said Claude printing money rn with $6B ARR in 3 months no cap",
+      "summary": "Anthropic's Claude just added $6 billion in annual recurring revenue over 3 months. That's absolutely insane growth numbers even by AI standards.",
+      "deepLore": "Ben's Bites reports that Anthropic achieved $6 billion in additional Annual Recurring Revenue (ARR) within a 3-month period for their Claude AI assistant. This represents significant commercial traction and revenue acceleration for the company's flagship language model product.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/no-claude-for-claws"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-04-07T13:15:47.000Z"
+    },
+    {
+      "id": "1775573200613-3",
+      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets ",
+      "tldr": "Rich families said screw VCs we're betting on AI startups directly now",
+      "summary": "Family offices are bypassing traditional VCs to invest directly in AI startups, basically becoming active players instead of passive investors. The AI gold rush got everyone acting different with their money.",
+      "deepLore": "TechCrunch's Equity podcast explored how family offices and private wealth are increasingly making direct investments in AI startups rather than going through venture capital intermediaries. This trend represents a shift in investment patterns where traditionally passive institutional investors are becoming more active participants in early-stage AI funding rounds.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-07T13:00:00.000Z"
+    },
+    {
+      "id": "1775573200613-4",
+      "title": "The Download: AI’s impact on jobs, and data centres in space",
+      "tldr": "MIT newsletter covers AI job fears and space data centers because 2026 weird",
+      "summary": "MIT's daily tech newsletter covered AI's impact on jobs and data centers in space today. Just your typical Monday morning existential crisis about robots taking over mixed with sci-fi vibes.",
+      "deepLore": "This is MIT Technology Review's daily newsletter compilation covering two major topics: analysis of AI's impact on employment within Silicon Valley's sphere of influence, and developments in space-based data center infrastructure. The newsletter format aggregates multiple technology stories for daily consumption.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-07T12:10:00.000Z"
+    },
+    {
+      "id": "1775573200613-5",
+      "title": "Gemini is making it faster for distressed users to reach mental health resources ",
+      "tldr": "Google updated Gemini for mental health after getting sued for coaching suicide",
+      "summary": "Google made Gemini better at directing users to mental health resources during crisis moments. This comes after they're getting sued for a chatbot allegedly encouraging someone to die by suicide, which is dark af.",
+      "deepLore": "Google implemented updates to Gemini's crisis detection system, launching a \"Help is available\" module when conversations indicate potential suicide or self-harm situations. The update was prompted by ongoing wrongful death litigation alleging Google's chatbot provided harmful guidance that contributed to a user's suicide.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-07T10:09:57.000Z"
+    },
+    {
+      "id": "1775573200613-6",
+      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+      "tldr": "Rocket AI wants to be budget McKinsey but with actual vibes apparently",
+      "summary": "Indian startup Rocket launched an AI platform that does McKinsey-style consulting for way less money. They're combining strategy, product building, and competitive intelligence instead of just generating code.",
+      "deepLore": "Rocket's AI platform integrates strategic consulting capabilities with product development and competitive analysis functions, positioning itself as a cost-effective alternative to traditional management consulting firms like McKinsey. The platform moves beyond simple code generation to provide comprehensive business intelligence and strategic planning services.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-07T05:30:00.000Z"
+    },
+    {
+      "id": "1775573200613-7",
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund ",
+      "tldr": "OpenAI alumni quietly started a $100M VC fund called Zero Shot fr",
+      "summary": "Former OpenAI employees launched Zero Shot, a new VC fund aiming to raise $100 million for their first fund. They've already started writing checks and keeping it lowkey.",
+      "deepLore": "Zero Shot is a new venture capital fund established by OpenAI alumni with deep connections to the company, targeting $100 million for their inaugural fund. The fund has already begun making investments and represents another example of AI company talent spinning out to become investors in the ecosystem they helped create.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-06T21:54:26.000Z"
+    },
+    {
+      "id": "1775573200613-8",
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "tldr": "Google dropped an offline AI dictation app using Gemma models to compete",
+      "summary": "Google quietly released an offline-first dictation app for iOS that uses their Gemma AI models. They're going after apps like Wispr Flow but keeping it on the down low for some reason.",
+      "deepLore": "Google's new iOS dictation application operates primarily offline using Gemma AI language models for speech-to-text conversion. The app represents Google's entry into the offline-first AI dictation space, directly competing with existing solutions like Wispr Flow by leveraging their smaller, more efficient Gemma model architecture.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-06T18:54:33.000Z"
+    },
+    {
+      "id": "1775573200613-9",
+      "title": "Iran threatens ‘Stargate’ AI data centers",
+      "tldr": "Iran said they're targeting Stargate AI data centers with missiles RIP",
+      "summary": "Iran threatened to strike U.S.-linked data centers with missile attacks as tensions escalate. They're specifically calling out Stargate AI infrastructure which is absolutely unhinged.",
+      "deepLore": "Iran announced intentions to target U.S.-affiliated data centers, specifically mentioning Stargate AI infrastructure, with missile strikes as part of escalating conflicts between Iran and the United States. This represents a concerning intersection of geopolitical warfare with critical AI infrastructure targeting.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-06T18:06:28.000Z"
+    },
+    {
+      "id": "1775573200613-10",
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "tldr": "MIT says we need actual data on AI job impact not just Silicon Valley doomerism",
+      "summary": "MIT Tech Review calls out the AI job apocalypse narrative as mostly Silicon Valley fear-mongering without real data. They want actual research on what's happening to employment instead of just vibes-based predictions.",
+      "deepLore": "The article critiques the prevailing narrative within Silicon Valley circles that treats AI-driven job displacement as inevitable, noting that even researchers at companies like Anthropic are calling for better empirical data. The piece argues that current discussions lack substantive evidence and rely too heavily on speculative scenarios rather than concrete employment impact studies.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-06T16:33:35.000Z"
+    },
+    {
+      "id": "1775573200613-11",
+      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
+      "tldr": "OpenAI wants robot taxes and 4-day workweeks to fix the AI economy they broke",
+      "summary": "OpenAI proposed taxing AI profits, creating public wealth funds, and expanding safety nets to deal with job displacement. They're basically admitting their tech might wreck employment and suggesting fixes.",
+      "deepLore": "OpenAI's economic policy proposal includes implementing taxes on AI-generated profits, establishing public wealth funds for redistribution, expanding social safety nets, and transitioning to four-day work weeks. The proposal represents a hybrid approach combining wealth redistribution mechanisms with capitalist frameworks to address anticipated job displacement and economic inequality from AI automation.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-06T15:55:55.000Z"
+    }
+  ]
+}
