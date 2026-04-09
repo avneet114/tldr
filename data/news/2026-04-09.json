@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T14:56:04.824Z",
+  "vibeSummary": "chaos mode activated fr",
+  "items": [
+    {
+      "id": "1775746564824-0",
+      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+      "tldr": "Bezos' successor said 'we're different' while spending $200B to build the same thing as everyone else",
+      "summary": "Amazon CEO Andy Jassy wrote a shareholder letter that's basically a diss track against Nvidia, Intel, and Starlink while defending Amazon's massive $200B capex spending. He's out here trying to justify why Amazon needs to build everything in-house instead of just buying from competitors.",
+      "deepLore": "Jassy is positioning Amazon's $200 billion capital expenditure as strategic differentiation rather than following the crowd, specifically targeting major tech infrastructure providers. This suggests Amazon is doubling down on building proprietary alternatives to Nvidia's AI chips, Intel's processors, and potentially SpaceX's Starlink satellite network. The defensive tone indicates investor pressure over the massive spending without clear ROI timelines.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-09T14:27:57.000Z"
+    },
+    {
+      "id": "1775746564824-1",
+      "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
+      "tldr": "AI companies burning money faster than they can make it and the cliff is coming for their necks",
+      "summary": "The AI industry is facing a major monetization cliff where companies like OpenAI and Anthropic need to become profitable before they run out of funding runway. It's basically a race against time to figure out how to actually make money from AI before the venture capital music stops.",
+      "deepLore": "The monetization cliff refers to the critical point where AI companies must achieve sustainable revenue models before exhausting their funding rounds. Companies like OpenAI and Anthropic are burning through massive amounts of capital on compute costs while struggling to find product-market fit beyond API access and subscriptions. This represents an existential moment for the industry where technical capabilities must translate into viable business models.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-09T14:00:00.000Z"
+    },
+    {
+      "id": "1775746564824-2",
+      "title": "The AI industry’s race for profits is now existential",
+      "tldr": "AI companies burning money faster than they can make it and the cliff is coming for their necks",
+      "summary": "The AI industry is facing a major monetization cliff where companies like OpenAI and Anthropic need to become profitable before they run out of funding runway. It's basically a race against time to figure out how to actually make money from AI before the venture capital music stops.",
+      "deepLore": "The monetization cliff refers to the critical point where AI companies must achieve sustainable revenue models before exhausting their funding rounds. Companies like OpenAI and Anthropic are burning through massive amounts of capital on compute costs while struggling to find product-market fit beyond API access and subscriptions. This represents an existential moment for the industry where technical capabilities must translate into viable business models.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-09T14:00:00.000Z"
+    },
+    {
+      "id": "1775746564824-3",
+      "title": "Anthropic built a model too risky to release",
+      "tldr": "Anthropic built a model so scary they locked it in the AI equivalent of a nuclear bunker",
+      "summary": "Anthropic developed an AI model that they deemed too dangerous to release to the public. Meanwhile Meta apparently made some unexpected move in the AI space that caught people off guard.",
+      "deepLore": "Anthropic has created a model that exceeded their safety thresholds for public release, likely showing concerning capabilities in areas like deception, manipulation, or harmful content generation. This follows their constitutional AI approach where models are evaluated against safety criteria before deployment. The Meta development suggests another major player making moves in the increasingly competitive AI landscape.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/anthropic-built-a-model-too-risky"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-04-09T13:05:10.000Z"
+    },
+    {
+      "id": "1775746564824-4",
+      "title": "The Download: AstroTurf wars and exponential AI growth",
+      "tldr": "Google copied ChatGPT's homework and called it 'notebooks' like we wouldn't notice",
+      "summary": "Google's Gemini is getting a new 'notebooks' feature that lets you organize files, conversations, and instructions for specific projects. It's basically identical to ChatGPT's Projects feature from 2024 but Google is acting like they invented it.",
+      "deepLore": "Gemini notebooks function as contextual workspaces where users can aggregate relevant files, conversation history, and custom instructions for specific topics or projects. The AI can then reference this collected context during conversations, similar to ChatGPT's Projects feature launched in 2024. This represents the ongoing feature parity arms race between major AI chatbot providers as they compete for user retention through organizational tools.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-09T12:25:10.000Z"
+    },
+    {
+      "id": "1775746564824-5",
+      "title": "Google makes it easy to deepfake yourself",
+      "tldr": "YouTube said 'let's make deepfakes easy' while also crying about deepfake problems they created",
+      "summary": "YouTube Shorts is launching an AI avatar feature that lets creators easily deepfake themselves into videos. This is pretty ironic since YouTube is simultaneously struggling with AI-generated spam and deepfake scams on their platform.",
+      "deepLore": "YouTube's new avatar tool uses generative AI to create realistic digital versions of creators that can be inserted into Shorts videos or used for entirely AI-generated content. This represents YouTube's contradictory approach to AI content - actively providing tools that enable deepfakes while battling the negative consequences of AI-generated spam and impersonation. The feature will likely use similar face-swapping and voice cloning technologies that power other deepfake applications.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-09T10:53:49.000Z"
+    },
+    {
+      "id": "1775746564824-6",
+      "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
+      "tldr": "Iran-linked hackers said 'your critical infrastructure looks nice, would be a shame if something happened to it'",
+      "summary": "Iranian hackers are attacking US critical infrastructure sites and actually disrupting operations, not just poking around. This is escalating alongside the increased tensions between the US, Israel, and Iran in their ongoing conflicts.",
+      "deepLore": "Iran-linked threat actors are conducting disruptive cyberattacks against US industrial control systems and critical infrastructure, moving beyond reconnaissance to operational disruption. These attacks target SCADA systems, PLCs, and other industrial equipment that controls physical processes in power, water, and manufacturing facilities. The timing correlates with geopolitical escalation in US-Israel operations, suggesting state-sponsored retaliation through cyber warfare against civilian infrastructure.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-09T10:00:00.000Z"
+    },
+    {
+      "id": "1775746564824-7",
+      "title": "Desalination technology, by the numbers",
+      "tldr": "Desalination technology, by the numbers",
+      "summary": "When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fresh water—was an increasingly important technology, especially in water-stressed regions including the Middle East. But just how much some countries rely on desalination,…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-09T10:00:00.000Z"
+    },
+    {
+      "id": "1775746564824-8",
+      "title": "Gemini gets notebooks to help you organize projects",
+      "tldr": "Google copied ChatGPT's homework and called it 'notebooks' like we wouldn't notice",
+      "summary": "Google's Gemini is getting a new 'notebooks' feature that lets you organize files, conversations, and instructions for specific projects. It's basically identical to ChatGPT's Projects feature from 2024 but Google is acting like they invented it.",
+      "deepLore": "Gemini notebooks function as contextual workspaces where users can aggregate relevant files, conversation history, and custom instructions for specific topics or projects. The AI can then reference this collected context during conversations, similar to ChatGPT's Projects feature launched in 2024. This represents the ongoing feature parity arms race between major AI chatbot providers as they compete for user retention through organizational tools.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-09T00:06:12.000Z"
+    },
+    {
+      "id": "1775746564824-9",
+      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "tldr": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "OpenAI Blog",
+          "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions"
+        }
+      ],
+      "sourceName": "OpenAI Blog",
+      "publishedAt": "2026-04-09T00:00:00.000Z"
+    },
+    {
+      "id": "1775746564824-10",
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "tldr": "New startup makes AI agents work through text messages because apparently apps are too hard now",
+      "summary": "Poke is a new service that lets people use AI agents via simple text messages without needing to download apps or learn complex interfaces. It's targeting everyday users who want AI automation but don't want to deal with technical setup.",
+      "deepLore": "Poke abstracts AI agent complexity behind SMS interfaces, allowing users to delegate tasks and automations through natural language text messages. This approach removes the friction of app downloads, account creation, and learning new UIs that typically barrier mainstream AI agent adoption. The service likely integrates with multiple AI models and APIs on the backend while presenting a unified text-based interface to users.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-08T21:05:13.000Z"
+    },
+    {
+      "id": "1775746564824-11",
+      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "tldr": "Iran-linked hackers said 'your critical infrastructure looks nice, would be a shame if something happened to it'",
+      "summary": "Iranian hackers are attacking US critical infrastructure sites and actually disrupting operations, not just poking around. This is escalating alongside the increased tensions between the US, Israel, and Iran in their ongoing conflicts.",
+      "deepLore": "Iran-linked threat actors are conducting disruptive cyberattacks against US industrial control systems and critical infrastructure, moving beyond reconnaissance to operational disruption. These attacks target SCADA systems, PLCs, and other industrial equipment that controls physical processes in power, water, and manufacturing facilities. The timing correlates with geopolitical escalation in US-Israel operations, suggesting state-sponsored retaliation through cyber warfare against civilian infrastructure.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-04-08T20:49:11.000Z"
+    }
+  ]
+}
