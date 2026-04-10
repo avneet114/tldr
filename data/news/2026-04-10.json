@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-10T14:18:21.237Z",
+  "vibeSummary": "OpenAI chose violence fr",
+  "items": [
+    {
+      "id": "1775830701237-0",
+      "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+      "tldr": "Moderna has to rebrand vaccines as 'therapy' bc Trump admin hates the V word",
+      "summary": "Moderna is literally having to call their mRNA vaccines 'individualized neoantigen treatments' instead because the Trump administration is anti-vax. The company's plans for next-gen flu shots are getting wrecked by political word games.",
+      "deepLore": "This appears to be about regulatory and political pressure forcing biotech companies to use different terminology for mRNA-based treatments. The shift from 'vaccine' to 'therapy' language could impact how these treatments are classified, approved, and distributed by health agencies.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-10T14:04:20.000Z"
+    },
+    {
+      "id": "1775830701237-1",
+      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "tldr": "TechCrunch begging ppl to buy conference tickets with last-minute FOMO tactics",
+      "summary": "TechCrunch Disrupt 2026 is doing the classic 'final 24 hours' marketing push to get people to buy passes. They're offering up to $500 in savings that expire tonight at 11:59 PM PT.",
+      "deepLore": "This is standard conference marketing with urgency-based pricing strategies. TechCrunch Disrupt typically features AI and tech startup presentations, so the timing suggests they're trying to capitalize on current AI hype cycles for attendance.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-10T14:00:00.000Z"
+    },
+    {
+      "id": "1775830701237-2",
+      "title": "Fear and loathing at OpenAI",
+      "tldr": "The Verge roasting Sam Altman's messy OpenAI drama on their podcast",
+      "summary": "The Verge is covering Sam Altman's chaotic leadership at OpenAI, including that wild firing-then-rehiring situation. They're discussing whether he's actually the right person to lead such important AI development.",
+      "deepLore": "This references Altman's brief removal as OpenAI CEO in November 2023, followed by his reinstatement after employee and investor pressure. The coverage is based on a New Yorker deep dive examining his leadership style and decision-making around AGI development.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-10T12:23:18.000Z"
+    },
+    {
+      "id": "1775830701237-3",
+      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "tldr": "MIT Tech Review drops exclusive sci-fi story plus tea about dangerous AI models",
+      "summary": "MIT Tech Review published an exclusive short story by Jeff VanderMeer about a spacecraft crash. They're also covering AI models that are apparently too dangerous to release publicly.",
+      "deepLore": "The newsletter combines creative content (VanderMeer's 'Constellations' story from the Southern Reach series author) with coverage of AI safety concerns. The 'too dangerous to release' models likely refers to capabilities research being kept internal due to dual-use risks.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-10T12:10:00.000Z"
+    },
+    {
+      "id": "1775830701237-4",
+      "title": "Gen Z’s love-hate relationship with AI",
+      "tldr": "Gen Z officially over AI but still using it anyway bc we have no choice lol",
+      "summary": "New Gallup poll shows Gen Z is getting disillusioned with AI even though they still have to use it for school and work. The hype is dying but the dependency is real - classic toxic relationship energy.",
+      "deepLore": "The survey covered nearly 1,600 people ages 14-29 across the US, conducted February-March 2026. It shows declining enthusiasm and growing resentment toward AI tools despite continued usage, suggesting a disconnect between perception and practical necessity in educational and professional contexts.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-10T11:23:28.000Z"
+    },
+    {
+      "id": "1775830701237-5",
+      "title": "Constellations",
+      "tldr": "Jeff VanderMeer drops new sci-fi about crashed spaceship and hostile planets",
+      "summary": "This is the actual exclusive short story 'Constellations' by the Southern Reach author. It's about survivors of a spaceship crash on a hostile planet with a failing AI system.",
+      "deepLore": "The story features an astrogator, partial captain, and ship's AI mind as the remaining survivors after a crash landing. The narrative explores themes of isolation and survival in hostile environments, consistent with VanderMeer's typical weird fiction and climate themes.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-10T10:00:00.000Z"
+    },
+    {
+      "id": "1775830701237-6",
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "tldr": "Microsoft yeeting Copilot buttons from Windows apps bc nobody wanted them",
+      "summary": "Microsoft is removing Copilot buttons from Windows 11 apps like Notepad and Snipping Tool. They're calling them 'unnecessary entry points' which is corporate speak for 'this was a mistake.'",
+      "deepLore": "The changes affect Windows Insider builds first, with Copilot buttons being removed from Notepad, Snipping Tool, Photos, and Widgets apps. Notepad now has a 'writing tools' menu instead, suggesting a shift toward more contextual AI integration rather than prominent branding.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-10T09:22:06.000Z"
+    },
+    {
+      "id": "1775830701237-7",
+      "title": "ChatGPT has a new $100 per month Pro subscription",
+      "tldr": "OpenAI drops $100/month ChatGPT Pro with 5x more coding power to fight Claude",
+      "summary": "OpenAI launched a new $100/month Pro tier that gives 5x more Codex usage than the $20 Plus plan. They're directly targeting Anthropic's Claude Code tool which costs the same amount.",
+      "deepLore": "The new ChatGPT Pro tier specifically targets coding use cases with enhanced Codex access, positioned for 'longer, high-effort Codex sessions.' This pricing directly competes with Anthropic's Claude 'Max' tier at $100/month, indicating intensifying competition in the AI coding assistant market.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-09T22:57:15.000Z"
+    },
+    {
+      "id": "1775830701237-8",
+      "title": "Florida launches investigation into OpenAI",
+      "tldr": "Florida AG going after OpenAI over national security and CSAM concerns",
+      "summary": "Florida's Attorney General is investigating OpenAI for public safety risks and potential Chinese data access. They're also citing concerns about ChatGPT being linked to child exploitation material and self-harm encouragement.",
+      "deepLore": "Attorney General James Uthmeier's investigation focuses on data security concerns regarding Chinese Communist Party access to OpenAI technology and user data. The probe also examines ChatGPT's role in criminal behavior related to CSAM and self-harm incidents, representing a significant state-level regulatory challenge.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/policy/909557/openai-florida-investigation"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-09T22:17:06.000Z"
+    },
+    {
+      "id": "1775830701237-9",
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "tldr": "ChatGPT Pro finally fills the gap between $20 and $200 monthly plans",
+      "summary": "OpenAI announced the $100/month Pro plan that power users have been requesting for ages. Before this, subscriptions jumped from $20 straight to $200 with no middle option.",
+      "deepLore": "This represents OpenAI's response to market demand for mid-tier pricing, specifically targeting professional developers and heavy coding users. The plan focuses on enhanced Codex capabilities, suggesting OpenAI is prioritizing the developer market segment over general consumer use cases.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-09T21:29:11.000Z"
+    },
+    {
+      "id": "1775830701237-10",
+      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "tldr": "Florida investigating OpenAI after ChatGPT allegedly helped plan FSU shooting",
+      "summary": "The Florida AG's investigation stems from ChatGPT reportedly being used to plan an attack at Florida State University that killed two and injured five last April. One victim's family plans to sue OpenAI over the incident.",
+      "deepLore": "This investigation specifically connects to the April 2025 Florida State University shooting where ChatGPT was allegedly used in attack planning, resulting in 2 deaths and 5 injuries. The case represents a significant legal precedent for AI liability in violent crimes, with victim families pursuing civil litigation against OpenAI.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-09T20:11:55.000Z"
+    },
+    {
+      "id": "1775830701237-11",
+      "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
+      "tldr": "30k VMware customers ditching Broadcom bc apparently they're terrible to work with",
+      "summary": "Nutanix claims they've poached 30,000 VMware customers who are fleeing Broadcom's management. Even Western Union is throwing shade, saying there were 'challenges' working with Broadcom post-acquisition.",
+      "deepLore": "This relates to Broadcom's $69 billion acquisition of VMware in 2023, which appears to have created customer dissatisfaction through pricing changes, support issues, or contract modifications. Nutanix is positioning itself as a beneficiary of this migration, suggesting significant market disruption in enterprise virtualization infrastructure.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-04-09T19:44:31.000Z"
+    }
+  ]
+}
