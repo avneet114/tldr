@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-11T13:57:56.502Z",
+  "vibeSummary": "everything is chaos rn",
+  "items": [
+    {
+      "id": "1775915876502-0",
+      "title": "How Iran out-shitposted the White House",
+      "tldr": "Iran said 'let us cook' and dropped harder war content than US gov's AI slop memes fr",
+      "summary": "While the White House was posting cringe AI bowling pin memes during the Iran conflict, Iranian state media was flooding socials with raw ground footage of explosions and casualties. Turns out authoritarian regimes understand viral content better than US PR teams.",
+      "deepLore": "The article highlights a stark contrast in information warfare tactics, where Iran's state media leveraged authentic ground-level documentation of conflict events while US official channels relied on artificial AI-generated content and gaming memes. This represents a shift in how state actors approach digital propaganda during active conflicts.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-11T13:00:00.000Z"
+    },
+    {
+      "id": "1775915876502-1",
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "tldr": "Anthropic yeeted OpenClaw's creator from Claude after pricing drama last week",
+      "summary": "OpenClaw's creator got temporarily banned from Claude access after some pricing changes went down. Classic big tech L when pricing updates cause user drama.",
+      "deepLore": "The ban occurred following Claude's pricing structure modifications that specifically affected OpenClaw users, suggesting Anthropic may have implemented restrictions on certain API usage patterns or commercial applications. This indicates ongoing tensions around AI model access and commercial usage policies.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-10T20:27:52.000Z"
+    },
+    {
+      "id": "1775915876502-2",
+      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+      "tldr": "20yo threw molotov at Sam Altman's house then threatened OpenAI offices - absolutely unhinged behavior",
+      "summary": "Some zoomer really said 'f*** Sam Altman' and threw an actual molotov cocktail at his Russian Hill house at 7AM. Then homie went to OpenAI offices to make more threats and got arrested.",
+      "deepLore": "San Francisco police arrested the suspect around 9AM after surveillance cameras captured the molotov attack on Altman's residence and the individual was later spotted making threats at OpenAI's Mission Bay headquarters. This represents a significant escalation in anti-AI sentiment from online discourse to physical violence against tech leaders.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-10T20:16:57.000Z"
+    },
+    {
+      "id": "1775915876502-3",
+      "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
+      "tldr": "Iranian AI Lego creators went viral roasting Trump's 'rescue success' narrative with pure heart",
+      "summary": "Explosive Media out here making AI Lego videos showing how the US military actually took Ls losing multiple aircraft. While Trump spins it as a W, these creators credit their viral success to putting 'heart' into their content.",
+      "deepLore": "The Iranian content creation group Explosive Media produced AI-generated Lego animation videos that counter Trump's narrative about a successful airman rescue, instead depicting US military failures including multiple aircraft losses. Their approach combines AI video generation with political commentary, creating viral anti-American propaganda through familiar toy aesthetics.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-10T17:30:00.000Z"
+    },
+    {
+      "id": "1775915876502-4",
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "tldr": "Stalking victim sues OpenAI saying ChatGPT ignored 3 warnings while fueling her abuser's delusions",
+      "summary": "A woman is suing OpenAI claiming they ignored three separate warnings that a ChatGPT user was dangerous and using the AI to stalk/harass his ex. Even their own mass-casualty detection flagged him but they did nothing apparently.",
+      "deepLore": "The lawsuit alleges OpenAI's safety systems failed to act on multiple warning signals including their own mass-casualty event detection algorithms flagging a user who was using ChatGPT to facilitate stalking behavior. This case could set precedent for AI company liability in user harm scenarios and highlights gaps in current content moderation systems.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-10T16:41:34.000Z"
+    },
+    {
+      "id": "1775915876502-5",
+      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+      "tldr": "TechCrunch hitting Tokyo for SusHi Tech 2026 with AI, robots, and anime industry deep dives",
+      "summary": "TechCrunch is bringing Startup Battlefield to Tokyo for SusHi Tech 2026. They're focusing on AI, robotics, resilience tech, and entertainment with live humanoid robot demos and convos about AI rewriting music/anime.",
+      "deepLore": "SusHi Tech 2026 will showcase live demonstrations of humanoid robotics, autonomous driving software developments, cybersecurity and climate technology solutions, plus discussions on AI's impact on Japan's entertainment industries including music and anime production workflows. The event represents growing international collaboration in advanced technology sectors.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-10T16:38:43.000Z"
+    },
+    {
+      "id": "1775915876502-6",
+      "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+      "tldr": "Moderna playing word games calling vaccines 'individualized neoantigen treatments' to dodge Trump-era hate",
+      "summary": "Moderna's out here trying to rebrand their mRNA vaccines as 'individualized neoantigen treatments' because vaccine skeptics in the Trump admin are killing their flu/emerging pathogen plans. It's giving Department of War vs Defense energy.",
+      "deepLore": "Moderna faces regulatory and political challenges under the Trump administration's vaccine-skeptical policies, forcing them to consider rebranding their next-generation mRNA vaccines for influenza and emerging pathogens using alternative medical terminology. This semantic shift reflects broader tensions between scientific terminology and political acceptability in biotech regulation.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-10T14:04:20.000Z"
+    },
+    {
+      "id": "1775915876502-7",
+      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "tldr": "Gen Z officially over AI hype but still using it anyway - classic love-hate relationship energy",
+      "summary": "New Gallup poll of 1,600 Gen Zers shows enthusiasm for AI is falling and resentment growing, but they still feel forced to use it for school/work. Digital natives are getting disillusioned as AI becomes more embedded everywhere.",
+      "deepLore": "Gallup's February-March 2026 survey of nearly 1,600 respondents aged 14-29 reveals declining AI enthusiasm among Gen Z users despite continued usage driven by academic and professional necessity. This represents a maturation of attitudes as the initial AI hype cycle gives way to more pragmatic but reluctant adoption patterns.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-10T14:00:00.000Z"
+    },
+    {
+      "id": "1775915876502-8",
+      "title": "Fear and loathing at OpenAI",
+      "tldr": "Fear and loathing at OpenAI",
+      "summary": "Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and the questions about whether he's the right person to be in charge of a technology as important and transformative as artificial intelligence.\n\nVerge subscribers, don't forget you get exclusive access ",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-10T12:23:18.000Z"
+    },
+    {
+      "id": "1775915876502-9",
+      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "tldr": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations  —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series.   A spacecraft has crash-landed on a hostile planet. The only survivors…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-10T12:10:00.000Z"
+    },
+    {
+      "id": "1775915876502-10",
+      "title": "Gen Z’s love-hate relationship with AI",
+      "tldr": "Gen Z officially over AI hype but still using it anyway - classic love-hate relationship energy",
+      "summary": "New Gallup poll of 1,600 Gen Zers shows enthusiasm for AI is falling and resentment growing, but they still feel forced to use it for school/work. Digital natives are getting disillusioned as AI becomes more embedded everywhere.",
+      "deepLore": "Gallup's February-March 2026 survey of nearly 1,600 respondents aged 14-29 reveals declining AI enthusiasm among Gen Z users despite continued usage driven by academic and professional necessity. This represents a maturation of attitudes as the initial AI hype cycle gives way to more pragmatic but reluctant adoption patterns.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-10T11:23:28.000Z"
+    },
+    {
+      "id": "1775915876502-11",
+      "title": "Constellations",
+      "tldr": "Constellations",
+      "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left.  Outside, the atmosphere registered as hostile to most organisms. We huddled in the lifeboat, which…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-10T10:00:00.000Z"
+    }
+  ]
+}
