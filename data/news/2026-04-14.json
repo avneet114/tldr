@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T14:52:56.808Z",
+  "vibeSummary": "AI chaos everywhere fr",
+  "items": [
+    {
+      "id": "1776178376808-0",
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "tldr": "Google finally brought Gemini personal intel to India, about time bestie",
+      "summary": "Google's rolling out Gemini Personal Intelligence to India, letting users connect Gmail and Photos for personalized AI responses. Basically Google's version of having an AI assistant that actually knows your business.",
+      "deepLore": "The Personal Intelligence feature integrates with Google's ecosystem services, allowing Gemini to access user data from Gmail, Photos, and other connected accounts to provide contextually relevant responses. This represents Google's push to make Gemini more competitive with ChatGPT's personalized capabilities by leveraging their data advantage.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-14T14:48:34.000Z"
+    },
+    {
+      "id": "1776178376808-1",
+      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
+      "tldr": "Anything coding app got yeeted from App Store twice, now pivoting to desktop lmao",
+      "summary": "The vibe coding app Anything got booted from Apple's App Store not once but twice and is now planning a desktop companion app. Classic Apple moment tbh, they really said 'no vibes allowed' in their walled garden.",
+      "deepLore": "Anything appears to be a mobile development tool that faced App Store policy violations, likely related to code interpretation or dynamic code execution which Apple restricts. The pivot to a desktop companion suggests they're working around iOS limitations by moving core functionality outside the mobile sandbox.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-14T14:22:44.000Z"
+    },
+    {
+      "id": "1776178376808-2",
+      "title": "Has Google’s AI watermarking system been reverse-engineered?",
+      "tldr": "Dev claims they cracked Google's AI watermarking with 200 images and weed, Google says cap",
+      "summary": "Some developer named Aloshdenny says they reverse-engineered Google's SynthID watermarking system using just 200 Gemini images and signal processing. Google's denying it but the code is already on GitHub, so this is about to get spicy.",
+      "deepLore": "The developer claims to have defeated SynthID, Google DeepMind's watermarking system that embeds invisible signals in AI-generated images, using signal processing techniques on a dataset of 200 Gemini-generated images. If true, this would represent a significant vulnerability in one of the most advanced AI watermarking systems currently deployed.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-14T13:53:53.000Z"
+    },
+    {
+      "id": "1776178376808-3",
+      "title": "Big lab leaks",
+      "tldr": "Ben's Bites dropped 'big lab leaks' but gave us literally nothing to work with",
+      "summary": "Ben's Bites published something about 'big lab leaks' but the content is basically non-existent. Either this is the most cryptic AI news ever or someone forgot to actually write the article.",
+      "deepLore": "The article appears to contain minimal content beyond the headline and a mention of 'headless software,' making it impossible to determine what specific AI lab developments or leaks are being referenced. This could indicate either a placeholder article or intentionally vague reporting on sensitive industry information.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/big-lab-leaks"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-04-14T13:10:46.000Z"
+    },
+    {
+      "id": "1776178376808-4",
+      "title": "The Download: the state of AI, and protecting bears with drones",
+      "tldr": "MIT Tech Review serving daily AI state of the union with charts and bear protection drones",
+      "summary": "MIT Tech Review's daily newsletter is covering the current state of AI with some charts to help people understand what's actually happening. They're also talking about drones protecting bears because apparently that's where we're at now.",
+      "deepLore": "This appears to be a newsletter roundup covering AI industry analysis and trends, likely including market data, investment patterns, and technological progress metrics. The mention of bear protection drones suggests coverage of AI applications in wildlife conservation and environmental monitoring.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-14T12:10:00.000Z"
+    },
+    {
+      "id": "1776178376808-5",
+      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+      "tldr": "NASA building first nuclear-powered space yacht, Jared Isaacman making moves",
+      "summary": "NASA's building the first nuclear reactor-powered interplanetary spacecraft under new administrator Jared Isaacman. This is giving serious sci-fi vibes and could change space exploration forever if they don't accidentally nuke themselves.",
+      "deepLore": "The spacecraft will likely use a nuclear thermal or nuclear electric propulsion system, providing significantly higher specific impulse than chemical rockets for deep space missions. This represents a major shift in NASA's propulsion strategy, potentially enabling faster transit times to Mars and outer planet missions that were previously impractical.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-14T12:04:47.000Z"
+    },
+    {
+      "id": "1776178376808-6",
+      "title": "Coming soon: 10 Things That Matter in AI Right Now",
+      "tldr": "MIT Tech Review teasing '10 Things That Matter in AI' because 2026 is different apparently",
+      "summary": "MIT Tech Review is announcing their annual 10 Breakthrough Technologies list but with a twist for 2026. Sounds like this year's AI developments are so wild they had to change up their usual format.",
+      "deepLore": "The publication appears to be modifying their traditional breakthrough technologies methodology specifically to accommodate the rapid pace of AI development in 2026. This suggests they're seeing unprecedented technological advancement that doesn't fit their standard evaluation framework.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-14T11:00:00.000Z"
+    },
+    {
+      "id": "1776178376808-7",
+      "title": "The problem with thinking you’re part Neanderthal",
+      "tldr": "MIT Tech Review explaining why your '23andMe says I'm part Neanderthal' flex is complicated",
+      "summary": "MIT Tech Review is diving into the whole 'inner Neanderthal' thing that people love bragging about from their DNA tests. Apparently the story of human-Neanderthal mixing 45,000 years ago is way more complex than your ancestry report suggests.",
+      "deepLore": "The article appears to address misconceptions about Neanderthal DNA inheritance patterns and the complexity of ancient human population genetics. This relates to AI through genomic analysis tools and machine learning models used to interpret ancient DNA sequences and population admixture events.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-14T10:00:00.000Z"
+    },
+    {
+      "id": "1776178376808-8",
+      "title": "Bringing people together at AI for the Economy Forum",
+      "tldr": "Google hosting AI economy forum in DC, probably trying to look responsible before Congress",
+      "summary": "Google's bringing people together for an 'AI for the Economy Forum' in Washington D.C. Classic Google move to get ahead of regulation by hosting fancy events with important people.",
+      "deepLore": "This appears to be a policy and stakeholder engagement event aimed at shaping AI economic policy and demonstrating Google's commitment to responsible AI development. Such forums typically involve discussions about AI's impact on employment, productivity, and economic growth with policymakers and industry leaders.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - Google AI Blog",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/"
+        }
+      ],
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-04-14T09:00:00.000Z"
+    },
+    {
+      "id": "1776178376808-9",
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "tldr": "OpenAI bought personal finance startup Hiro to make ChatGPT your financial advisor",
+      "summary": "OpenAI acquired AI personal finance startup Hiro, signaling they want to build financial planning into ChatGPT. Your AI assistant is about to start judging your spending habits and telling you to invest in index funds.",
+      "deepLore": "The Hiro acquisition likely brings specialized financial data processing and personal finance AI capabilities to OpenAI's platform. This suggests OpenAI is building domain-specific AI agents within ChatGPT, potentially integrating with banking APIs and financial data sources to provide personalized financial advice and planning services.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-14T00:23:33.000Z"
+    },
+    {
+      "id": "1776178376808-10",
+      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+      "tldr": "Someone literally threw molotov cocktails at Sam Altman's house and tried to burn down OpenAI HQ",
+      "summary": "Daniel Moreno-Gama is facing federal charges for allegedly traveling from Texas to California to kill Sam Altman, throwing molotov cocktails at his house and trying to break into OpenAI headquarters. This is absolutely unhinged and terrifying behavior that crossed every possible line.",
+      "deepLore": "The incident involved a coordinated attack on both Altman's personal residence and OpenAI's corporate headquarters, with the perpetrator allegedly stating intent to 'burn down the location and kill anyone inside.' This represents one of the most serious physical threats against AI industry leadership to date.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-14T00:02:38.000Z"
+    },
+    {
+      "id": "1776178376808-11",
+      "title": "AI influencers are ‘everywhere’ at Coachella",
+      "tldr": "AI influencers are fake-attending Coachella and everyone's buying it apparently",
+      "summary": "Coachella is apparently crawling with AI-generated influencers posting fake festival content and people are eating it up. We've officially reached the point where even music festival FOMO is being artificially generated.",
+      "deepLore": "AI-generated influencers are using advanced image generation models to create convincing Coachella content without physically attending the event. This represents a significant evolution in synthetic media marketing, where AI personas can participate in cultural events and maintain authentic-seeming social media presences entirely through generated content.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-13T19:53:46.000Z"
+    }
+  ]
+}
