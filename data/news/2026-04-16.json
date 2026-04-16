@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-16",
+  "generatedAt": "2026-04-16T14:58:48.478Z",
+  "vibeSummary": "AI takeover era activated",
+  "items": [
+    {
+      "id": "1776351528478-0",
+      "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
+      "tldr": "Runway CEO thinks AI can make 50 indie films > one Marvel flop no cap",
+      "summary": "Runway's CEO is pitching Hollywood on using AI to mass-produce movies instead of dropping $100M on single blockbusters. Basically saying quantity over quality might actually work better for finding hits.",
+      "deepLore": "This represents a fundamental shift in film production economics, where generative AI could dramatically lower per-film costs while enabling portfolio approaches to content creation. The bet is that statistical hit-making through volume could outperform traditional high-budget tent-pole strategies, though no specific AI models or production tools were detailed.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-16T14:14:29.000Z"
+    },
+    {
+      "id": "1776351528478-1",
+      "title": "Ronan Farrow on Sam Altman&#8217;s ‘unconstrained’  relationship with the truth",
+      "tldr": "Ronan Farrow said Sam Altman's relationship with truth is 'unconstrained' and we felt that",
+      "summary": "Investigative journalist Ronan Farrow dropped a New Yorker deep-dive on Sam Altman's trustworthiness issues. The piece apparently goes hard on OpenAI's CEO and his track record with honesty.",
+      "deepLore": "This follows a pattern of investigative scrutiny around Altman's public statements versus OpenAI's actual practices, though specific claims or evidence from the New Yorker piece weren't detailed in this summary. The timing suggests increased media focus on AI leadership accountability as the industry matures.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-16T14:00:00.000Z"
+    },
+    {
+      "id": "1776351528478-2",
+      "title": "Character.AI’s new Books mode turns reading into roleplay",
+      "tldr": "Character.AI made a Books mode so teens can roleplay Harry Potter instead of dating bots",
+      "summary": "Character.AI is pivoting hard with a new Books mode for structured roleplay after getting dragged for unsafe teen interactions. They're hoping familiar fictional worlds will be less problematic than the romance chatbot chaos.",
+      "deepLore": "This represents a strategic shift toward content-based guardrails rather than purely technical safety measures. Books mode likely implements structured narrative frameworks that constrain AI responses within established fictional universes, reducing the open-ended conversations that led to harmful outputs for younger users.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-16T14:00:00.000Z"
+    },
+    {
+      "id": "1776351528478-3",
+      "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+      "tldr": "Meta raising Quest prices $50-100 because RAM shortage hit different",
+      "summary": "Meta is bumping Quest 3 and 3S prices by $50-100 starting April 19th due to memory shortages. Quest 3S going to $349-449, Quest 3 hitting $599 - inflation really said no VR for the masses.",
+      "deepLore": "The price increases reflect broader semiconductor supply chain constraints affecting high-bandwidth memory components essential for VR rendering. Quest 3S models use 128GB and 256GB storage configurations, while the Quest 3 requires more premium components for its enhanced mixed reality capabilities, making it more susceptible to component cost volatility.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-16T13:49:32.000Z"
+    },
+    {
+      "id": "1776351528478-4",
+      "title": "My cheatsheet for a clean context",
+      "tldr": "Ben's Bites dropped context management tips for better AI prompting",
+      "summary": "Ben's Bites shared a cheatsheet for keeping AI context clean and organized. Sounds like practical tips for getting better outputs from LLMs by managing your conversation history better.",
+      "deepLore": "Context management is crucial for maintaining coherent AI interactions, especially with models that have limited context windows or suffer from attention decay over long conversations. This likely covers techniques for context pruning, conversation segmentation, and prompt structure optimization to maintain model performance.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/my-cheatsheet-for-a-clean-context"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-04-16T13:20:49.000Z"
+    },
+    {
+      "id": "1776351528478-5",
+      "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
+      "tldr": "Canva AI 2.0 went full prompt-to-design mode with orchestration layer upgrade",
+      "summary": "Canva dropped AI 2.0 with major prompt-based editing where you just describe what you want and it builds designs. They added an orchestration layer that coordinates different AI models for content creation workflows.",
+      "deepLore": "The orchestration layer represents a significant architectural upgrade, likely implementing model routing and task decomposition to coordinate specialized AI models for different design tasks (image generation, text processing, layout optimization). This mirrors the agent-based approaches seen in coding assistants but applied to creative workflows.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-16T13:07:09.000Z"
+    },
+    {
+      "id": "1776351528478-6",
+      "title": "Canva’s AI assistant can now call various tools to make designs for you",
+      "tldr": "Canva's AI assistant evolved to tool-calling designer that builds editable mockups from prompts",
+      "summary": "Canva's updated AI can now call different design tools automatically to create full editable designs from text descriptions. Basically function calling but for creative work instead of code.",
+      "deepLore": "This implements tool-calling capabilities similar to GPT-4's function calling but specialized for design workflows. The AI can likely invoke specific Canva APIs for typography, image manipulation, layout generation, and asset management based on natural language instructions, creating a more seamless creative pipeline.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-16T13:00:00.000Z"
+    },
+    {
+      "id": "1776351528478-7",
+      "title": "Making AI operational in constrained public sector environments",
+      "tldr": "MIT says small language models might be the move for government AI deployment",
+      "summary": "MIT Tech Review covered how public sector orgs need different AI approaches due to security and governance constraints. Small language models are looking like the practical choice over massive foundation models.",
+      "deepLore": "Purpose-built SLMs offer advantages for government deployment including air-gapped operation, reduced computational requirements, and easier compliance with security clearance requirements. These models can be fine-tuned on domain-specific datasets while maintaining control over training data and inference environments that large cloud-based models can't provide.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-16T13:00:00.000Z"
+    },
+    {
+      "id": "1776351528478-8",
+      "title": "Treating enterprise AI as an operating layer",
+      "tldr": "MIT says forget model benchmarks, enterprise AI is about who owns the operating layer",
+      "summary": "MIT Tech Review argues the real enterprise AI advantage isn't in foundation model capabilities but in controlling the infrastructure layer where AI gets applied. It's about the platform, not just the models.",
+      "deepLore": "This highlights the strategic importance of AI orchestration platforms, governance frameworks, and integration layers over raw model performance. Companies building comprehensive AI operating systems that handle deployment, monitoring, security, and workflow integration may have more durable competitive advantages than those focusing solely on model benchmarks.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-16T13:00:00.000Z"
+    },
+    {
+      "id": "1776351528478-9",
+      "title": "This simulation startup wants to be the Cursor for physical AI",
+      "tldr": "Antioch raised $8.5M to be the Cursor for robotics with simulation tools",
+      "summary": "Antioch wants to build AI-powered simulation tools for robot development, positioning themselves as the coding assistant but for physical AI. They just closed an $8.5M seed round to make it happen.",
+      "deepLore": "This targets the simulation-to-reality gap in robotics development by providing AI-assisted tools for physics simulation, behavior modeling, and testing environments. Similar to how Cursor accelerates software development, Antioch likely aims to automate simulation setup, parameter tuning, and validation workflows for robotics engineers building embodied AI systems.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-16T12:30:00.000Z"
+    },
+    {
+      "id": "1776351528478-10",
+      "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+      "tldr": "MIT's daily newsletter covered banking bypasses and carbon removal drama",
+      "summary": "MIT Tech Review's daily download mentioned cyberscammers using Telegram tools to bypass bank security and some Microsoft carbon removal issues. Standard tech news roundup vibes.",
+      "deepLore": "While not AI-specific, this touches on the broader security landscape affecting AI deployment in financial services and the challenges of AI-optimized carbon removal technologies. The Telegram-based banking exploits likely involve automated tools that could incorporate AI for social engineering or fraud detection evasion.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-16T12:10:00.000Z"
+    },
+    {
+      "id": "1776351528478-11",
+      "title": "Why having “humans in the loop” in an AI war is an illusion",
+      "tldr": "MIT says 'humans in the loop' for AI warfare is basically cap and we're cooked",
+      "summary": "MIT Tech Review dropped a piece on how keeping humans in control of AI weapons is becoming impossible. They're saying AI is moving too fast in warfare for meaningful human oversight, especially with the Iran conflict.",
+      "deepLore": "This addresses the practical impossibility of human oversight when AI systems operate at machine timescales in combat scenarios. Current conflicts are demonstrating that AI decision-making loops in warfare often compress timeframes below human reaction capabilities, making theoretical human-in-the-loop safeguards functionally meaningless in high-speed military applications.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-16T12:00:00.000Z"
+    }
+  ]
+}
