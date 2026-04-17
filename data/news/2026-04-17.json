@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T14:22:07.501Z",
+  "vibeSummary": "robots got brains fr",
+  "items": [
+    {
+      "id": "1776435727501-0",
+      "title": "Pie day links",
+      "tldr": "Allbirds said they're AI now and stock went brrrr 7x bc AI hype is unhinged",
+      "summary": "Shoe company Allbirds randomly declared themselves an AI company and their stock price went 7x overnight. The Verge is wondering if we've hit peak AI hype season with all this chaos happening.",
+      "deepLore": "The Allbirds-to-Newbird AI rebrand caused a massive stock pump purely on AI association, highlighting how the market is irrationally responding to any AI positioning. This reflects broader questions about whether AI hype has reached unsustainable levels across multiple sectors.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-17T14:07:41.000Z"
+    },
+    {
+      "id": "1776435727501-1",
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "tldr": "Factory just bagged $150M at $1.5B valuation for enterprise AI coding tools",
+      "summary": "AI coding startup Factory raised $150M from Khosla Ventures at a $1.5B valuation after just 3 years. They're building AI development tools specifically for enterprise customers.",
+      "deepLore": "Factory secured Series B funding led by Khosla Ventures, focusing on AI-powered coding solutions tailored for large enterprise environments rather than consumer developer tools. The $1.5B valuation reflects strong investor confidence in enterprise AI tooling market potential.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/"
+        }
+      ],
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-04-17T14:00:00.000Z"
+    },
+    {
+      "id": "1776435727501-2",
+      "title": "The ‘AI is inevitable’ trap",
+      "tldr": "Allbirds said they're AI now and stock went brrrr 7x bc AI hype is unhinged",
+      "summary": "Shoe company Allbirds randomly declared themselves an AI company and their stock price went 7x overnight. The Verge is wondering if we've hit peak AI hype season with all this chaos happening.",
+      "deepLore": "The Allbirds-to-Newbird AI rebrand caused a massive stock pump purely on AI association, highlighting how the market is irrationally responding to any AI positioning. This reflects broader questions about whether AI hype has reached unsustainable levels across multiple sectors.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-17T13:24:34.000Z"
+    },
+    {
+      "id": "1776435727501-3",
+      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+      "tldr": "Upscale AI tryna raise money at $2B valuation after 7 months of existing",
+      "summary": "AI infrastructure startup Upscale AI is reportedly in funding talks at a $2B valuation. The company has only been around for 7 months but is already seeking their third funding round.",
+      "deepLore": "Upscale AI's rapid funding trajectory suggests strong demand for AI infrastructure solutions, with the company potentially raising three rounds in under a year. The $2B valuation indicates significant investor appetite for AI infrastructure plays despite the company's early stage.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-17T12:10:00.000Z"
+    },
+    {
+      "id": "1776435727501-4",
+      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+      "tldr": "Physical Intelligence dropped π0.7 robot brain that can learn tasks it never saw before",
+      "summary": "Robotics startup Physical Intelligence released their π0.7 model that can supposedly figure out new tasks without being explicitly trained on them. They're calling it a step toward general-purpose robot intelligence.",
+      "deepLore": "The π0.7 model represents Physical Intelligence's approach to foundation models for robotics, demonstrating emergent capabilities where the system can generalize to novel manipulation tasks. This builds toward their vision of a universal robot brain that can transfer learning across different physical embodiments and environments.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-04-17T11:00:50.000Z"
+    },
+    {
+      "id": "1776435727501-5",
+      "title": "The case for fixing everything",
+      "tldr": "OpenAI upgraded Codex to compete with Anthropic's computer control capabilities",
+      "summary": "OpenAI beefed up their Codex coding tool with new desktop control powers, directly targeting Anthropic's computer use features. The updated agentic coding tool got a major overhaul with expanded capabilities.",
+      "deepLore": "The enhanced Codex now includes desktop interaction capabilities similar to Anthropic's computer use API, allowing the AI agent to directly manipulate desktop applications and interfaces. This represents OpenAI's strategic response to Anthropic's early lead in AI agents that can control computer interfaces.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-17T10:00:00.000Z"
+    },
+    {
+      "id": "1776435727501-6",
+      "title": "How robots learn: A brief, contemporary history",
+      "tldr": "How robots learn: A brief, contemporary history",
+      "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robot of science fiction—one…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-17T10:00:00.000Z"
+    },
+    {
+      "id": "1776435727501-7",
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "tldr": "Factory just bagged $150M at $1.5B valuation for enterprise AI coding tools",
+      "summary": "AI coding startup Factory raised $150M from Khosla Ventures at a $1.5B valuation after just 3 years. They're building AI development tools specifically for enterprise customers.",
+      "deepLore": "Factory secured Series B funding led by Khosla Ventures, focusing on AI-powered coding solutions tailored for large enterprise environments rather than consumer developer tools. The $1.5B valuation reflects strong investor confidence in enterprise AI tooling market potential.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-16T22:55:30.000Z"
+    },
+    {
+      "id": "1776435727501-8",
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "tldr": "Luma's making AI movies now starting with Moses feat. Ben Kingsley for Prime Video",
+      "summary": "Video AI company Luma launched a production studio called Wonder Project focused on faith-based content. Their first project is a Moses story starring Ben Kingsley coming to Prime Video this spring.",
+      "deepLore": "Luma is expanding beyond their Dream Machine video generation tool into full AI-powered film production. The Wonder Project represents a targeted approach to AI filmmaking, focusing on religious/faith-based narratives as a specific content vertical.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-16T21:58:08.000Z"
+    },
+    {
+      "id": "1776435727501-9",
+      "title": "Upscale AI in talks to raise at $2B valuation, says report",
+      "tldr": "Upscale AI tryna raise money at $2B valuation after 7 months of existing",
+      "summary": "AI infrastructure startup Upscale AI is reportedly in funding talks at a $2B valuation. The company has only been around for 7 months but is already seeking their third funding round.",
+      "deepLore": "Upscale AI's rapid funding trajectory suggests strong demand for AI infrastructure solutions, with the company potentially raising three rounds in under a year. The $2B valuation indicates significant investor appetite for AI infrastructure plays despite the company's early stage.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-16T20:41:13.000Z"
+    },
+    {
+      "id": "1776435727501-10",
+      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+      "tldr": "Physical Intelligence dropped π0.7 robot brain that can learn tasks it never saw before",
+      "summary": "Robotics startup Physical Intelligence released their π0.7 model that can supposedly figure out new tasks without being explicitly trained on them. They're calling it a step toward general-purpose robot intelligence.",
+      "deepLore": "The π0.7 model represents Physical Intelligence's approach to foundation models for robotics, demonstrating emergent capabilities where the system can generalize to novel manipulation tasks. This builds toward their vision of a universal robot brain that can transfer learning across different physical embodiments and environments.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-16T20:26:44.000Z"
+    },
+    {
+      "id": "1776435727501-11",
+      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+      "tldr": "OpenAI upgraded Codex to compete with Anthropic's computer control capabilities",
+      "summary": "OpenAI beefed up their Codex coding tool with new desktop control powers, directly targeting Anthropic's computer use features. The updated agentic coding tool got a major overhaul with expanded capabilities.",
+      "deepLore": "The enhanced Codex now includes desktop interaction capabilities similar to Anthropic's computer use API, allowing the AI agent to directly manipulate desktop applications and interfaces. This represents OpenAI's strategic response to Anthropic's early lead in AI agents that can control computer interfaces.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-16T19:18:41.000Z"
+    }
+  ]
+}
