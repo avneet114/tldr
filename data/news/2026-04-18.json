@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T14:02:53.526Z",
+  "vibeSummary": "chaotic pivots everywhere",
+  "items": [
+    {
+      "id": "1776520973526-0",
+      "title": "The App Store is booming again, and AI may be why",
+      "tldr": "App Store having a moment thanks to AI tools flooding the market",
+      "summary": "New data shows 2026 has tons more app launches than usual. AI tools are probably making it way easier for people to build apps and flood the store.",
+      "deepLore": "Appfigures data indicates a significant uptick in new mobile app submissions throughout 2026, with analysts attributing this surge to improved AI development tools that are lowering the barrier to entry for app creation. The correlation suggests AI-assisted development workflows are enabling more developers to ship products faster.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-18T13:00:00.000Z"
+    },
+    {
+      "id": "1776520973526-1",
+      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+      "tldr": "Sam Altman's orb empire expanding to dating apps starting with Tinder",
+      "summary": "World (the eyeball-scanning verification thing) is partnering with more services beyond just crypto. Tinder users can now scan their eyeballs for human verification perks.",
+      "deepLore": "World's Orb-based biometric verification system is expanding its partnership ecosystem beyond cryptocurrency applications. The system uses iris scanning technology to create anonymous proof-of-personhood credentials, with Tinder integration offering verified users premium features like free boosts in exchange for biometric verification.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-17T22:34:02.000Z"
+    },
+    {
+      "id": "1776520973526-2",
+      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+      "tldr": "Sanctioned crypto exchange got hacked for $15M, blames Western governments",
+      "summary": "Grinex (a Russia-friendly exchange) lost $15 million in a hack and claims only \"unfriendly states\" have the tech to pull this off. Very convenient excuse tbh.",
+      "deepLore": "The Grinex cryptocurrency exchange, which operates under US sanctions due to its Russia-friendly stance, suffered a $15 million cyberattack. The exchange claims the sophisticated nature of the attack suggests state-level resources from \"unfriendly states,\" implying Western intelligence agencies were involved, though this attribution remains unverified.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-04-17T21:28:35.000Z"
+    },
+    {
+      "id": "1776520973526-3",
+      "title": "OpenAI’s former Sora boss is leaving",
+      "tldr": "OpenAI killed Sora and now the team lead Bill Peebles is dipping",
+      "summary": "OpenAI officially gave up on Sora video generation last month and now Bill Peebles is leaving. Company is cutting \"side quests\" to focus on coding and enterprise stuff instead.",
+      "deepLore": "Bill Peebles, who led OpenAI's Sora video generation project, announced his departure following the company's decision to discontinue the Sora program. This represents part of OpenAI's strategic pivot away from consumer-facing creative tools toward enterprise applications and coding assistance, eliminating what leadership termed \"side quests.\"",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-17T21:13:25.000Z"
+    },
+    {
+      "id": "1776520973526-4",
+      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+      "tldr": "Tinder now gives you free boosts if you let Sam Altman's orb scan your eyeball",
+      "summary": "World ID verification is coming to Tinder after a pilot in Japan. Get your iris scanned by the orb and get five free boosts to prove you're not a catfish bot.",
+      "deepLore": "World's biometric verification system is expanding from Japan to select markets including the US, offering Tinder users five free premium boosts in exchange for iris scanning verification. The system uses specialized orb hardware to create cryptographic proof-of-personhood credentials without storing biometric data centrally.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-17T20:42:47.000Z"
+    },
+    {
+      "id": "1776520973526-5",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "tldr": "Kevin Weil also leaving OpenAI as company axes consumer projects for enterprise pivot",
+      "summary": "Both Kevin Weil and Bill Peebles are out as OpenAI shuts down Sora and folds its science team. The company is hardcore pivoting away from cool consumer stuff to boring enterprise money.",
+      "deepLore": "OpenAI is conducting a significant organizational restructuring, with Kevin Weil and Bill Peebles departing as the company discontinues the Sora video generation project and dissolves its science research team. This strategic realignment prioritizes enterprise AI solutions and coding tools over consumer-facing creative applications.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-17T20:38:17.000Z"
+    },
+    {
+      "id": "1776520973526-6",
+      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+      "tldr": "Anthropic dropping Claude Mythos to get back in Trump admin's good graces",
+      "summary": "Trump called Anthropic \"radical left woke\" but now they're maybe making up with a new cybersecurity model. Claude Mythos Preview is apparently their peace offering to the Pentagon.",
+      "deepLore": "Anthropic's relationship with the Trump administration deteriorated after the company refused to allow military applications of its technology, leading to public criticism. The company's new Claude Mythos Preview model focuses specifically on cybersecurity applications, potentially serving as a diplomatic bridge to rebuild government relationships while maintaining some ethical boundaries.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-17T20:14:21.000Z"
+    },
+    {
+      "id": "1776520973526-7",
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "tldr": "Cursor reportedly raising $2B+ at $50B valuation because enterprise is going wild",
+      "summary": "The AI coding assistant Cursor is in talks for a massive funding round at $50 billion valuation. a16z and Thrive are leading because enterprise customers are apparently throwing money at it.",
+      "deepLore": "Cursor, an AI-powered code editor and development environment, is reportedly negotiating a funding round exceeding $2 billion at a $50 billion valuation. The round is being led by returning investors Andreessen Horowitz and Thrive Capital, driven by significant enterprise adoption and revenue growth in the developer tools market.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-17T19:17:26.000Z"
+    },
+    {
+      "id": "1776520973526-8",
+      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+      "tldr": "\"Tokenmaxxing\" trend is making devs write more code but it's expensive trash",
+      "summary": "Developers are obsessing over using maximum AI tokens to generate tons of code but it's backfiring. They're getting more code but it costs more and needs way more fixes.",
+      "deepLore": "The \"tokenmaxxing\" trend involves developers maximizing AI model token usage to generate large amounts of code, but analysis shows this approach creates technical debt through increased costs and higher revision requirements. The generated code volume doesn't correlate with productivity gains due to quality and maintainability issues.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-17T18:42:45.000Z"
+    },
+    {
+      "id": "1776520973526-9",
+      "title": "This charming gadget writes bad AI poetry",
+      "tldr": "This cute camera writes terrible AI poems instead of taking photos",
+      "summary": "The Poetry Camera is adorable but useless - it looks like a film camera but spits out bad AI poems instead of photos. Charming concept, questionable execution.",
+      "deepLore": "The Poetry Camera uses computer vision to analyze scenes and generates AI-written poetry based on what it \"sees\" rather than capturing traditional photographs. While the hardware design evokes vintage film cameras with its white and red aesthetic, the core functionality replaces image capture with natural language generation models.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-17T17:30:00.000Z"
+    },
+    {
+      "id": "1776520973526-10",
+      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap ",
+      "tldr": "AI insiders vs normies gap widening while OpenAI goes shopping crazy",
+      "summary": "Big podcast episode about how AI people and regular people are living in different realities now. OpenAI is buying everything while Anthropic drops models \"too powerful\" to release.",
+      "deepLore": "The discussion highlights the growing disconnect between AI industry insiders and the general public regarding AI capabilities and risks. OpenAI's acquisition strategy spans multiple sectors from finance to media, while Anthropic's announcement of withholding a model due to power concerns illustrates the industry's internal debates about capability disclosure.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-17T15:57:40.000Z"
+    },
+    {
+      "id": "1776520973526-11",
+      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+      "tldr": "Dairy Queen putting AI chatbots in drive-thrus to upsell you blizzards",
+      "summary": "DQ is rolling out Presto's AI drive-thru bots across US and Canada locations. The goal is faster service but also getting you to buy more food obviously.",
+      "deepLore": "Dairy Queen is deploying Presto's conversational AI system across dozens of drive-thru locations following successful testing. The Presto platform, already used by Carl's Jr., Hardee's, and other chains, focuses on order processing speed and automated upselling to increase average transaction values in quick-service restaurants.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-17T15:46:37.000Z"
+    }
+  ]
+}
