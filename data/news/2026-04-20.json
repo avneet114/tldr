@@ -1,0 +1,151 @@
+{
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T14:54:29.868Z",
+  "vibeSummary": "AI eating jobs fr",
+  "items": [
+    {
+      "id": "1776696869868-0",
+      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+      "tldr": "Scientists might accidentally create mirror bacteria that could literally end humanity lmao whoops",
+      "summary": "Scientists are proposing to create synthetic mirror bacteria that could be super dangerous. Nobody knows if this research will actually kill us all but they're doing it anyway.",
+      "deepLore": "The synthetic mirror life research involves creating organisms with reversed molecular chirality compared to natural life. The National Science Foundation received proposals for this cutting-edge but high-risk research in February 2019, with scientists acknowledging the potentially catastrophic risks.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-20T12:10:00.000Z"
+    },
+    {
+      "id": "1776696869868-1",
+      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
+      "tldr": "Colossal Biosciences claims they cloned red wolves but skeptics are side-eyeing hard",
+      "summary": "Colossal Biosciences says they successfully cloned endangered red wolves. But given their track record with other de-extinction projects, people are questioning if it's actually legit.",
+      "deepLore": "The company's red wolf cloning claims are being scrutinized given their previous ambitious promises about de-extinction projects. The research was conducted near Houston with scientists documenting the process, but verification of successful wolf cloning remains unclear.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-20T10:00:00.000Z"
+    },
+    {
+      "id": "1776696869868-2",
+      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "tldr": "Chinese workers forced to train their AI replacements are having existential breakdowns (valid tbh)",
+      "summary": "Tech workers in China are being told to literally train AI agents to copy their skills and replace them. Even the usually AI-positive crowd is having a crisis about this one.",
+      "deepLore": "The GitHub project 'Colleague Skill' allows workers to distill colleagues' skills and personality traits into AI replicas. Chinese tech companies are mandating this training, creating unprecedented workplace tensions as employees essentially document their own obsolescence.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-20T09:00:00.000Z"
+    },
+    {
+      "id": "1776696869868-3",
+      "title": "OpenAI helps Hyatt advance AI among colleagues ",
+      "tldr": "Hyatt hotels flexing with ChatGPT Enterprise rollout using GPT-5.4 for their whole workforce",
+      "summary": "Hyatt deployed ChatGPT Enterprise globally across their entire workforce. They're using GPT-5.4 and Codex to boost productivity and improve guest experiences.",
+      "deepLore": "The deployment utilizes GPT-5.4 and OpenAI's Codex models specifically for hospitality operations, productivity enhancement, and guest service optimization. This represents one of the larger enterprise-wide ChatGPT implementations in the hospitality sector.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - OpenAI Blog",
+          "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise"
+        }
+      ],
+      "sourceName": "OpenAI Blog",
+      "publishedAt": "2026-04-20T00:00:00.000Z"
+    },
+    {
+      "id": "1776696869868-4",
+      "title": "OpenAI’s existential questions",
+      "tldr": "TechCrunch calling out OpenAI's 'two big existential problems' through their acquisition strategy",
+      "summary": "The latest Equity episode dives into whether OpenAI's recent acquisitions actually solve their major existential threats. Spoiler: probably not.",
+      "deepLore": "Analysis focuses on OpenAI's acquisition strategy as a response to fundamental business model challenges and competitive threats. The discussion examines whether these purchases address core structural issues facing the company's long-term viability.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-19T21:24:06.000Z"
+    },
+    {
+      "id": "1776696869868-5",
+      "title": "Cloud development platform Vercel was hacked",
+      "tldr": "Vercel got absolutely cooked by ShinyHunters hackers who are selling employee data",
+      "summary": "The web development platform Vercel got hacked and the attackers are trying to sell stolen employee data. ShinyHunters (yes, the Rockstar Games hackers) are claiming responsibility.",
+      "deepLore": "ShinyHunters compromised Vercel's systems and extracted employee names, email addresses, and activity timestamps. The breach impacts a 'limited subset' of customers according to Vercel's security incident response, with hackers attempting to monetize the stolen data.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/914723/vercel-hacked"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-19T19:54:52.000Z"
+    },
+    {
+      "id": "1776696869868-6",
+      "title": "The 12-month window",
+      "tldr": "AI startups living on borrowed time before foundation models expand into their territories",
+      "summary": "Most AI startups only exist because big foundation models haven't entered their specific niche yet. Everyone knows this golden window won't last much longer than 12 months.",
+      "deepLore": "The analysis suggests AI startups have a limited competitive moat, existing primarily in categories not yet addressed by major foundation model providers. The 12-month timeline represents the typical window before larger AI companies expand into specialized verticals.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/19/the-12-month-window/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-19T19:30:00.000Z"
+    },
+    {
+      "id": "1776696869868-7",
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "tldr": "Palantir posted unhinged anti-inclusivity manifesto positioning itself as defender of 'the West'",
+      "summary": "Palantir dropped a manifesto attacking inclusivity and 'regressive cultures' while framing themselves as Western civilization defenders. This comes as their ICE work faces more scrutiny.",
+      "deepLore": "The company's ideological positioning intensifies as it expands government contracts with ICE and positions itself as defending Western values. The manifesto represents a deliberate political stance that aligns with their controversial surveillance and immigration enforcement partnerships.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-19T16:30:00.000Z"
+    },
+    {
+      "id": "1776696869868-8",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "tldr": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-19T16:01:00.000Z"
+    }
+  ]
+}
