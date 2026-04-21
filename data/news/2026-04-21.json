@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T14:49:02.685Z",
+  "vibeSummary": "corpo AI deals everywhere",
+  "items": [
+    {
+      "id": "1776782942685-0",
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "tldr": "Google made their ad tool smarter with AI agents so you can't accidentally violate their policies",
+      "summary": "Google added three new agentic AI features to their Ads Advisor to help protect accounts from policy violations and make campaigns run smoother. Basically AI babysitters for your ads so you don't get shadowbanned.",
+      "deepLore": "The Ads Advisor integration includes three new agentic safety and policy features that automate compliance checking and streamline account management. These AI agents can proactively identify potential policy violations and suggest corrections before ads go live.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - Google AI Blog",
+          "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/"
+        }
+      ],
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-04-21T14:30:00.000Z"
+    },
+    {
+      "id": "1776782942685-1",
+      "title": "John Ternus’s first big problem is AI",
+      "tldr": "Apple's new CEO John Ternus inherits Tim Cook's biggest L: being late to the AI party",
+      "summary": "John Ternus is becoming Apple's new CEO after Tim Cook steps down, but he's walking into Apple's AI mess. The company that gave us Siri is somehow behind everyone else in the AI race.",
+      "deepLore": "John Ternus, Apple's SVP of hardware engineering for 25 years, takes over as CEO on September 1st following Cook's 15-year tenure. The transition comes as Apple faces significant challenges in AI development, having notably lacked major AI announcements at WWDC less than a year ago.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-21T13:37:55.000Z"
+    },
+    {
+      "id": "1776782942685-2",
+      "title": "That's my designer - Claude",
+      "tldr": "Claude just dropped Opus 4.7 and apparently it's a design wizard now",
+      "summary": "Anthropic released Claude Opus 4.7 with enhanced design capabilities. The model can apparently handle complex design tasks pretty well now.",
+      "deepLore": "Claude Opus 4.7 represents an upgrade to Anthropic's flagship model with improved design and visual reasoning capabilities. The model appears to have enhanced multimodal abilities for creative and design-oriented tasks.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/thats-my-designer-claude"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-04-21T13:31:45.000Z"
+    },
+    {
+      "id": "1776782942685-3",
+      "title": "GRAI believes AI can make music more social, not replace artists",
+      "tldr": "GRAI wants fans to remix existing music with AI instead of generating soulless tracks from scratch",
+      "summary": "AI music startup GRAI is taking a different approach by focusing on remixing existing tracks rather than generating new songs. They think fans want to interact with music they love, not replace artists entirely.",
+      "deepLore": "GRAI's platform enables users to create remixes and variations of existing tracks using AI, positioning itself as a collaborative tool rather than a replacement for human creativity. The startup argues that fans prefer manipulating familiar music over generating completely artificial compositions.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-21T13:00:00.000Z"
+    },
+    {
+      "id": "1776782942685-4",
+      "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+      "tldr": "Security nerds are freaking out about quantum computers breaking AES 128 but it's actually fine",
+      "summary": "There's apparently widespread panic that quantum computers will break AES 128 encryption. But according to this article, that's just fearmongering and the encryption standard is still solid.",
+      "deepLore": "Despite popular concerns about quantum computing threats, AES 128 remains cryptographically secure in a post-quantum world. The misconception that quantum computers pose an immediate threat to AES 128 is hampering proper quantum readiness preparations and resource allocation.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-04-21T12:35:20.000Z"
+    },
+    {
+      "id": "1776782942685-5",
+      "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
+      "tldr": "MIT's newsletter talks about how humans are too loud and it's messing with animals",
+      "summary": "This is just MIT Tech Review's daily newsletter covering various tech topics. One story focuses on how human noise pollution is interfering with animal communication.",
+      "deepLore": "The newsletter covers research showing that human societal expansion has created noise pollution that interferes with animal communication, particularly affecting bird species' ability to hear one another. This represents a growing environmental impact of technological and urban development.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-21T12:10:00.000Z"
+    },
+    {
+      "id": "1776782942685-6",
+      "title": "Yelp is making its AI chatbot way more useful",
+      "tldr": "Yelp's AI chatbot got a glow-up and now it's basically your personal digital concierge",
+      "summary": "Yelp upgraded their AI assistant to be way more useful with a bunch of new features for actually getting stuff done. It's part of the industry trend to make AI chatbots actually practical instead of just fancy toys.",
+      "deepLore": "The Yelp Assistant chatbot received major functionality upgrades positioning it as a digital concierge service rather than simple Q&A tool. This represents Yelp's strategy to leverage their massive user-generated data as a competitive advantage in the AI space while making the technology practically useful for consumers.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-21T11:00:00.000Z"
+    },
+    {
+      "id": "1776782942685-7",
+      "title": "Digging for clues about the North Pole’s past",
+      "tldr": "Scientists are digging up the North Pole seabed to learn about climate history",
+      "summary": "Researchers are studying the North Pole's seabed to understand past climate conditions. Apparently it's way easier to get there now because of melting ice.",
+      "deepLore": "In summer 2025, researchers like Jochen Knies found it significantly easier to reach the North Pole due to reduced ice coverage, allowing for seabed drilling operations. Previously, even icebreakers during peak melt season required favorable winds and had to fight through meters-thick multi-year ice formations.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-21T10:00:00.000Z"
+    },
+    {
+      "id": "1776782942685-8",
+      "title": "Scaling Codex to enterprises worldwide",
+      "tldr": "OpenAI launched Codex Labs for enterprises and hit 4M weekly users with partnerships at big firms",
+      "summary": "OpenAI created Codex Labs to help big companies like Accenture and PwC deploy their coding AI across their development workflows. They're also flexing that they have 4 million weekly active Codex users.",
+      "deepLore": "OpenAI launched Codex Labs with enterprise partnerships including Accenture, PwC, and Infosys to scale Codex deployment across the software development lifecycle. The platform has reached 4 million weekly active users, indicating significant enterprise adoption of AI-powered coding assistance.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - OpenAI Blog",
+          "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide"
+        }
+      ],
+      "sourceName": "OpenAI Blog",
+      "publishedAt": "2026-04-21T00:00:00.000Z"
+    },
+    {
+      "id": "1776782942685-9",
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "tldr": "Amazon gave Anthropic $5B but Anthropic has to spend $100B on AWS in return (classic corpo move)",
+      "summary": "Amazon invested another $5 billion in Anthropic, but there's a catch - Anthropic agreed to spend $100 billion on Amazon's cloud services. It's basically a very expensive gift card situation.",
+      "deepLore": "This represents another circular AI investment where Amazon provides $5 billion in funding to Anthropic while securing a $100 billion commitment for AWS cloud spending. This structure ensures Amazon recoups its investment through guaranteed cloud revenue while funding AI development.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-20T23:10:27.000Z"
+    },
+    {
+      "id": "1776782942685-10",
+      "title": "Google rolls out Gemini in Chrome in APAC countries",
+      "tldr": "Google's rolling out Gemini in Chrome across 7 APAC countries (finally touching grass outside the US)",
+      "summary": "Google is expanding Gemini integration in Chrome to Australia, Indonesia, Japan, Philippines, Singapore, South Korea, and Vietnam. It's available on both desktop and iOS except in Japan where it's desktop only for now.",
+      "deepLore": "The Gemini Chrome integration is expanding to seven Asia-Pacific countries with full desktop and iOS support in six markets, while Japan receives desktop-only access initially. This represents Google's strategy to scale Gemini's browser integration beyond Western markets.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "id": "1776782942685-11",
+      "title": "Silicon Valley has forgotten what normal people want",
+      "tldr": "The Verge roasts Silicon Valley for being out of touch weirdos who keep discovering basic concepts",
+      "summary": "This is basically a rant about how tech bros keep acting like they discovered something revolutionary when they figure out extremely basic stuff about language and AI. The author is tired of techies explaining obvious things like they're groundbreaking insights.",
+      "deepLore": "The article criticizes Silicon Valley's tendency to present basic linguistic and AI concepts as novel discoveries, specifically calling out how technologists often rediscover fundamental principles about language structure and present them as breakthrough insights to non-technical audiences.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-20T20:30:00.000Z"
+    }
+  ]
+}
