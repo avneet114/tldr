@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T15:15:41.918Z",
+  "vibeSummary": "AI money crunch hits",
+  "items": [
+    {
+      "id": "1776957341918-0",
+      "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
+      "tldr": "StrictlyVC SF happening next week, get ur tickets bestie",
+      "summary": "StrictlyVC conference is going down in San Francisco on April 30th. VCs and founders are gonna link up at some cultural center.",
+      "deepLore": "StrictlyVC San Francisco event scheduled for April 30, 2026 at Sentro Filipino Cultural Center. Standard VC networking conference targeting venture capitalists and startup founders in the Bay Area ecosystem.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-23T14:00:00.000Z"
+    },
+    {
+      "id": "1776957341918-1",
+      "title": "Another customer of troubled startup Delve suffered a big security incident",
+      "tldr": "Delve's security is actually a dumpster fire rn",
+      "summary": "Context AI got hacked and turns out Delve was their security company. This is giving big yikes energy for Delve's credibility.",
+      "deepLore": "Context AI, an AI agent training startup, suffered a security incident last week. TechCrunch confirmed that Delve, a compliance company already facing troubles, was responsible for Context AI's security certifications, raising questions about Delve's security practices.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-23T14:00:00.000Z"
+    },
+    {
+      "id": "1776957341918-2",
+      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+      "tldr": "The Verge said people actually hate automation apparently",
+      "summary": "Decoder podcast is exploring 'software brain' - the mindset that tries to turn everything into algorithms and databases. Basically calling out how tech bros see the world through code-colored glasses.",
+      "deepLore": "The Verge's Decoder podcast introduces the concept of 'software brain' - a worldview that reduces complex human problems to algorithmic solutions, databases, and loops. References Marc Andreessen's 2011 'software is eating the world' thesis as the embodiment of this thinking pattern.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-23T14:00:00.000Z"
+    },
+    {
+      "id": "1776957341918-3",
+      "title": "You’re about to feel the AI money squeeze",
+      "tldr": "AI companies bout to milk ur wallet dry fr",
+      "summary": "Anthropic restricted OpenClaw users and now they gotta pay big money to keep using Claude AI. All the AI labs are feeling the pressure to actually make money instead of burning cash.",
+      "deepLore": "OpenClaw, a viral AI agent tool powered by Anthropic's Claude, faced severe restrictions as Anthropic implemented stricter usage limits and higher pricing tiers. This reflects broader industry pressure on AI labs to transition from investor-funded growth to sustainable revenue models amid rising computational costs.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-23T13:45:00.000Z"
+    },
+    {
+      "id": "1776957341918-4",
+      "title": "ChatGPT's Nano Banana",
+      "tldr": "ChatGPT testing some nano banana thing???",
+      "summary": "Ben's Bites mentions ChatGPT doing something with 'Nano Banana' and design tools. Not much context but sounds like they're experimenting with new features.",
+      "deepLore": "Limited information available - appears to reference ChatGPT testing capabilities related to design tools with a feature or experiment called 'Nano Banana.' Specific technical details and implementation not provided in the brief mention.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/chatgpts-nano-banana"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-04-23T13:10:10.000Z"
+    },
+    {
+      "id": "1776957341918-5",
+      "title": "AI galaxy hunters are adding to the global GPU crunch",
+      "tldr": "Space nerds are hogging all the GPUs too now",
+      "summary": "Astronomers are now competing for GPUs to hunt for stuff in space. So basically everyone wants GPUs now - crypto miners, AI companies, and space scientists.",
+      "deepLore": "Astronomical research is increasingly relying on GPU computing for processing large datasets and finding specific objects or patterns in galactic surveys. This adds another layer of demand to the existing GPU shortage driven primarily by AI model training and cryptocurrency mining operations.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-23T13:00:00.000Z"
+    },
+    {
+      "id": "1776957341918-6",
+      "title": "The Download: introducing the Nature issue",
+      "tldr": "MIT Tech Review dropping their nature issue today",
+      "summary": "MIT Tech Review is launching a special nature-focused issue. They're talking about how basically nothing is 'untouched by humans' anymore - microplastics everywhere, artificial light pollution, etc.",
+      "deepLore": "MIT Technology Review's Nature issue examines how human technology has permeated natural environments globally, citing examples like microplastics in rainforest wildlife and artificial light pollution. The issue likely explores the intersection of technology and environmental science.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-23T12:10:00.000Z"
+    },
+    {
+      "id": "1776957341918-7",
+      "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
+      "tldr": "Beehiiv said newsletters are mid, adding webinars n stuff",
+      "summary": "Beehiiv is expanding beyond newsletters with new webinar features and customizable paywalls. They're clearly trying to become a full creator platform instead of just email.",
+      "deepLore": "Beehiiv has launched webinar functionality and customizable paywall features, marking a strategic pivot from pure newsletter platform to comprehensive creator tools ecosystem. These additions target creators seeking integrated monetization and audience engagement solutions beyond traditional email newsletters.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-23T12:00:00.000Z"
+    },
+    {
+      "id": "1776957341918-8",
+      "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
+      "tldr": "Microsoft's 'vibe working' in Office sounds absolutely cursed",
+      "summary": "Microsoft launched 'Agent Mode' in Word, Excel, and PowerPoint - they literally called it 'vibe working' internally. It's supposedly a more powerful Copilot that can actually control the apps properly now.",
+      "deepLore": "Microsoft's Agent Mode represents an enhanced version of Copilot integration across Office applications, enabling more sophisticated application control compared to earlier foundation model limitations. The feature allows users to command applications directly rather than just getting suggestions, marking a shift toward more autonomous AI assistance in productivity software.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-23T11:34:18.000Z"
+    },
+    {
+      "id": "1776957341918-9",
+      "title": "Will fusion power get cheap? Don’t count on it.",
+      "tldr": "Fusion power gonna be expensive even if it works lol",
+      "summary": "New study says fusion power might not be cheap even if we figure it out. Unlike other tech that gets cheaper over time, fusion might stay pricey forever.",
+      "deepLore": "MIT Technology Review reports on research suggesting fusion power may not follow typical technology cost reduction curves seen in lithium-ion batteries (90% cost reduction over time). The study indicates that even successful fusion deployment may result in higher electricity costs than anticipated, challenging assumptions about fusion as an affordable clean energy solution.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-23T10:00:00.000Z"
+    },
+    {
+      "id": "1776957341918-10",
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "tldr": "Google building their first data center in Austria",
+      "summary": "Google announced their first Austrian data center in Kronstorf, creating 100 jobs. Pretty standard data center expansion stuff happening in the Alps.",
+      "deepLore": "Google's Kronstorf data center represents the company's first Austrian facility, generating 100 direct employment positions. The facility is part of Google's global infrastructure expansion to support cloud services and AI workloads, strategically located in Austria to serve European markets.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/"
+        }
+      ],
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-04-23T09:00:00.000Z"
+    },
+    {
+      "id": "1776957341918-11",
+      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+      "tldr": "India's app market is huge but foreign companies taking all the money",
+      "summary": "India's app market is booming with streaming and AI apps leading growth. But global platforms are capturing most of the revenue while Indian spending per user stays low compared to other countries.",
+      "deepLore": "India's non-gaming app market is experiencing significant growth driven by streaming services and AI applications. However, despite market expansion, global platforms dominate revenue capture while India's average revenue per user remains below international benchmarks, highlighting monetization challenges in the market.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-23T04:38:45.000Z"
+    }
+  ]
+}
