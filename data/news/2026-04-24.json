@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-24",
+  "generatedAt": "2026-04-24T14:46:42.446Z",
+  "vibeSummary": "chaos with chip deals",
+  "items": [
+    {
+      "id": "1777042002446-0",
+      "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
+      "tldr": "tim cook stepping down as apple ceo, john ternus likely successor - big tech shake up incoming",
+      "summary": "Apple CEO Tim Cook is finally stepping down with John Ternus as his likely replacement. This leadership change could bring some major shifts to the most influential tech company on the planet.",
+      "deepLore": "The succession has been building over the past year with Ternus positioned as Cook's heir apparent. This transition represents a significant leadership change at Apple during a critical period for the company's AI strategy and product roadmap.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-24T14:43:07.000Z"
+    },
+    {
+      "id": "1777042002446-1",
+      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+      "tldr": "uber cto talking ai scaling at strictlyvc event - tech conference szn fr",
+      "summary": "Uber's CTO Praveen Neppalli Naga is joining the StrictlyVC SF lineup on April 30. He'll be discussing how to operate at scale in the AI era.",
+      "deepLore": "The StrictlyVC San Francisco event is part of TechCrunch's 2026 events lineup, taking place at the Sentro Filipino Cultural Center. Naga's participation highlights Uber's focus on AI integration across their platform operations.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-24T14:00:00.000Z"
+    },
+    {
+      "id": "1777042002446-2",
+      "title": "Nothing introduces an AI-powered dictation tool",
+      "tldr": "nothing phone drops ai dictation tool supporting 100+ languages - on-device gang eating",
+      "summary": "Nothing just launched an AI-powered dictation tool that works on-device. The tool supports over 100 languages for voice-to-text conversion.",
+      "deepLore": "The dictation tool runs entirely on-device, which means better privacy and potentially faster response times compared to cloud-based solutions. Supporting 100+ languages positions Nothing competitively in the global smartphone market.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-24T13:41:42.000Z"
+    },
+    {
+      "id": "1777042002446-3",
+      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+      "tldr": "deepseek v4 preview dropped - chinese ai company claims frontier model vibes",
+      "summary": "DeepSeek just previewed their V4 AI model that supposedly closes the gap with top frontier models. They're claiming major improvements in efficiency and performance over their V3.2.",
+      "deepLore": "DeepSeek V4 features architectural improvements that enhance both efficiency and performance compared to V3.2. The company claims it nearly matches current leading models (both open and closed source) on reasoning benchmarks, representing a significant leap for Chinese AI capabilities.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-24T13:30:59.000Z"
+    },
+    {
+      "id": "1777042002446-4",
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "tldr": "mit tech review covering ai scam era and questionable healthcare ai - reality check vibes",
+      "summary": "MIT's daily newsletter is covering how AI is supercharging scams since ChatGPT dropped. Also questioning whether healthcare AI actually helps patients or just sounds fancy.",
+      "deepLore": "The coverage examines how generative AI's human-like text capabilities, demonstrated by ChatGPT's 2022 release, have enabled more sophisticated scamming techniques. Simultaneously, they're investigating the actual patient outcomes and efficacy of AI healthcare tools currently deployed in hospitals.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-24T12:10:00.000Z"
+    },
+    {
+      "id": "1777042002446-5",
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "tldr": "meta signed deal for millions of amazon ai cpus - chip game getting wild fr",
+      "summary": "Meta just signed a massive deal for Amazon's homegrown AI CPUs (not GPUs) for agentic workloads. This signals a new type of chip race is starting beyond just the GPU wars.",
+      "deepLore": "Meta is specifically targeting Amazon's custom-designed CPUs rather than traditional GPUs for AI agent workloads, indicating a shift toward specialized chip architectures. This move suggests that different AI workload types may require different silicon approaches, potentially diversifying the AI chip landscape beyond NVIDIA's GPU dominance.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-24T12:00:00.000Z"
+    },
+    {
+      "id": "1777042002446-6",
+      "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
+      "tldr": "musk vs altman court battle starts april 27 - about to be absolute chaos",
+      "summary": "Elon's lawsuit against OpenAI and Sam Altman is going to trial on April 27th in Oakland. It's technically about fraud but really just pure drama between two tech egos.",
+      "deepLore": "The lawsuit stems from Musk's original co-founding of OpenAI and subsequent departure when he wasn't made CEO, leaving Altman in control. While the legal case centers on alleged defrauding of Musk, the trial represents a broader conflict over OpenAI's direction and commercialization.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-24T12:00:00.000Z"
+    },
+    {
+      "id": "1777042002446-7",
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals ",
+      "tldr": "deepseek v4 officially previewed - chinese ai flexing hard on us rivals",
+      "summary": "DeepSeek dropped their V4 model preview claiming it competes with Anthropic, Google, and OpenAI's closed-source models. They're especially hyping up the coding capabilities.",
+      "deepLore": "DeepSeek V4 represents a major advancement for China's AI capabilities, with particular improvements in coding tasks that are central to AI agents. The model's coding performance could rival tools like ChatGPT Codex and Claude Code, marking significant progress for open-source Chinese AI development.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-24T09:45:30.000Z"
+    },
+    {
+      "id": "1777042002446-8",
+      "title": "Prestigious photo contest answers ‘what is a photo?’",
+      "tldr": "world press photo contest trying to define what counts as real photography in ai era",
+      "summary": "The World Press Photo competition announced their 2026 winner while grappling with what makes a photo 'real' now that AI is everywhere. The winning shot was 'Separated by ICE' by Carol Guzy.",
+      "deepLore": "The prestigious photojournalism award is wrestling with authenticity questions as generative AI becomes more sophisticated. Carol Guzy's winning photograph 'Separated by ICE' represents traditional photojournalism values while the competition itself debates new standards for AI-influenced imagery.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-24T09:40:07.000Z"
+    },
+    {
+      "id": "1777042002446-9",
+      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+      "tldr": "healthcare ai is everywhere but nobody knows if it actually helps patients lol",
+      "summary": "AI is being used in hospitals for everything from notetaking to X-ray interpretation, but we don't actually know if it's helping patients. Classic tech deployment vibes - ship first, ask questions later.",
+      "deepLore": "Healthcare AI applications include clinical documentation, patient record analysis, treatment flagging systems, and medical imaging interpretation. Despite widespread deployment, there's limited evidence demonstrating actual patient outcome improvements, highlighting the gap between AI adoption and clinical efficacy validation.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-24T09:00:00.000Z"
+    },
+    {
+      "id": "1777042002446-10",
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "tldr": "claude now connects to spotify, uber eats, turbotax - anthropic going full personal assistant mode",
+      "summary": "Claude just added connectors for personal apps like Spotify, Uber, and TurboTax after previously focusing on work apps. Now Claude can help with everything from music to taxes to food delivery.",
+      "deepLore": "Anthropic expanded Claude's app integration beyond Microsoft and work-focused tools to include personal lifestyle apps like Audible, AllTrails, TripAdvisor, and Instacart. Some integrations like Spotify already exist in ChatGPT, indicating competition for comprehensive personal AI assistant capabilities.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-23T22:27:11.000Z"
+    },
+    {
+      "id": "1777042002446-11",
+      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+      "tldr": "bret taylor's sierra acquires yc-backed ai startup fragment - consolidation szn continues",
+      "summary": "Sierra, the AI customer service startup founded by former Salesforce co-CEO Bret Taylor, just bought French AI startup Fragment. Another day, another AI acquisition in the consolidation wave.",
+      "deepLore": "Sierra focuses on AI-powered customer service agents and has acquired Fragment, a Y Combinator-backed French startup. The acquisition represents continued consolidation in the AI startup space as larger players absorb specialized capabilities and talent.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-23T21:00:00.000Z"
+    }
+  ]
+}
