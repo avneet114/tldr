@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T14:04:39.277Z",
+  "vibeSummary": "AI wars got messy",
+  "items": [
+    {
+      "id": "1777125879277-0",
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "tldr": "DeepSeek V4 dropped and it's open source with mega context windows fr",
+      "summary": "Chinese AI company DeepSeek just released V4, their new flagship model that can handle way longer prompts than before. It's open source like their other models, which is actually pretty based compared to the closed-source vibes everyone else is on.",
+      "deepLore": "DeepSeek V4 features a new architecture that efficiently processes large amounts of text, allowing for significantly longer context windows than the previous generation. The model maintains DeepSeek's open-source approach, providing full access to model weights and code unlike proprietary competitors. Technical details about specific benchmark performance and context length limits weren't provided in the preview release.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-24T21:40:58.000Z"
+    },
+    {
+      "id": "1777125879277-1",
+      "title": "Meta’s loss is Thinking Machines’ gain",
+      "tldr": "Meta and Thinking Machines are in a talent swap era apparently",
+      "summary": "Meta's been stealing people from Thinking Machines Lab but apparently it goes both ways. Not much detail here but seems like the usual tech talent musical chairs situation.",
+      "deepLore": "The article appears to focus on bidirectional talent movement between Meta's AI research division and Thinking Machines Lab, a Philippines-based AI research company. Specific details about which researchers moved, their roles, or the strategic implications weren't provided in the brief excerpt.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-24T20:52:07.000Z"
+    },
+    {
+      "id": "1777125879277-2",
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "tldr": "ComfyUI raised $30M at $500M valuation because creators want AI control",
+      "summary": "ComfyUI just hit a $500M valuation after raising $30M because their tools give creators more granular control over AI-generated images, videos, and audio. Basically the anti-black-box approach is paying off big time.",
+      "deepLore": "ComfyUI's node-based interface allows creators to build custom AI workflows with fine-grained control over generation parameters, model selection, and processing pipelines. The platform supports multiple modalities including image, video, and audio generation, positioning itself as a professional tool for creators who need more control than consumer AI apps provide. The $500M valuation reflects growing demand for customizable AI creative tools.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-24T19:49:35.000Z"
+    },
+    {
+      "id": "1777125879277-3",
+      "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
+      "tldr": "Top university websites got hijacked and are serving porn because IT is mid",
+      "summary": "Hundreds of subdomains from major universities got taken over by scammers who are using them to serve adult content. Apparently this all comes down to universities having trash cybersecurity hygiene with their domain management.",
+      "deepLore": "The security breach involves subdomain takeover attacks where scammers exploit abandoned or misconfigured DNS records on university domains. Universities often create subdomains for research projects, events, or departmental sites but fail to properly decommission them, leaving DNS entries pointing to expired services that attackers can claim. This allows malicious actors to host content under legitimate .edu domains, exploiting their high trust and SEO authority.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-04-24T19:00:39.000Z"
+    },
+    {
+      "id": "1777125879277-4",
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "tldr": "Google dropped a Gemini life organization guide because apparently we need AI for spring cleaning now",
+      "summary": "Google's pushing Gemini as your personal organization assistant with tips for cleaning schedules, decluttering your inbox, and managing seasonal chores. It's giving very much 'AI will solve all your life problems' energy.",
+      "deepLore": "The blog post showcases Gemini's capability to generate personalized organization schedules, automate email management tasks, and create structured approaches to seasonal home maintenance. Google is positioning Gemini as a productivity assistant that can understand context about users' living situations and preferences to provide tailored organizational advice and actionable task lists.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/"
+        }
+      ],
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-04-24T19:00:00.000Z"
+    },
+    {
+      "id": "1777125879277-5",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "tldr": "Google said 'bet' and is dropping up to $40B on Anthropic while flexing their Mythos model",
+      "summary": "Google's planning a massive $40B investment in Anthropic through cash and compute resources as the AI arms race heats up. This comes alongside Anthropic releasing their new Mythos model that's apparently focused on cybersecurity applications.",
+      "deepLore": "The investment represents one of the largest AI partnerships to date, combining direct funding with access to Google's compute infrastructure and TPU resources. Anthropic's Mythos model appears to be specialized for cybersecurity applications, though details about its architecture and capabilities remain limited in the initial release. This partnership positions Google to compete more directly with Microsoft's OpenAI alliance and Amazon's AI investments.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-24T18:00:03.000Z"
+    },
+    {
+      "id": "1777125879277-6",
+      "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+      "tldr": "Tim Cook is stepping down in September, John Ternus taking over, also Elon wants Cursor for $60B???",
+      "summary": "Apple's getting a new CEO as Tim Cook hands the reins to hardware chief John Ternus in September. Also apparently Elon Musk wants to buy AI coding assistant Cursor for $60B which is absolutely unhinged behavior even for him.",
+      "deepLore": "John Ternus has been leading Apple's hardware engineering division and oversaw development of products like Apple Silicon chips and recent Mac designs. The transition comes at a critical time as Apple faces pressure on App Store policies and navigates AI integration across its ecosystem. The Cursor acquisition rumor, if true, would represent Musk's interest in expanding xAI's capabilities into developer tools, though $60B seems extremely high for a coding assistant company.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-24T17:45:57.000Z"
+    },
+    {
+      "id": "1777125879277-7",
+      "title": "How Project Maven taught the military to love AI",
+      "tldr": "Project Maven turned the military into AI stans and it's lowkey terrifying",
+      "summary": "The US military used AI systems to strike over 1,000 targets in Iran in 24 hours, nearly double the scale of Iraq's 'shock and awe.' This was powered by the Maven Smart System that speeds up targeting processes, and there's apparently a whole book about how this project convinced the military that AI slaps.",
+      "deepLore": "Project Maven, initiated in 2017, developed AI systems for automated target identification and tracking using computer vision and machine learning algorithms. The Maven Smart System can process vast amounts of surveillance data from drones and satellites to identify potential targets much faster than human analysts. The system represents a significant shift toward AI-assisted warfare, raising ethical concerns about autonomous weapons and the speed of military decision-making.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-24T17:00:00.000Z"
+    },
+    {
+      "id": "1777125879277-8",
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+      "tldr": "Mac minis are selling for stupid money on eBay because everyone wants them for local AI",
+      "summary": "Apple's Mac mini is completely sold out and scalpers are going wild on eBay with marked-up listings. The compact desktop has become super popular for running local AI models, creating a supply shortage that's making flippers very happy.",
+      "deepLore": "The M-series Mac mini's combination of high-performance unified memory architecture, efficient ARM-based processing, and compact form factor makes it ideal for running local language models and AI inference workloads. The shortage appears driven by AI enthusiasts and developers who prefer local model deployment over cloud-based APIs for privacy, cost, or latency reasons. Apple's supply constraints are likely related to memory module availability and high demand across their entire product line.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-24T16:42:19.000Z"
+    },
+    {
+      "id": "1777125879277-9",
+      "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
+      "tldr": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
+      "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to some important changes at the most influential company in tech.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn t",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-24T14:43:07.000Z"
+    },
+    {
+      "id": "1777125879277-10",
+      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+      "tldr": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+      "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-24T14:00:00.000Z"
+    },
+    {
+      "id": "1777125879277-11",
+      "title": "Tim Cook is stepping down. What happens to Apple now?",
+      "tldr": "Tim Cook is stepping down. What happens to Apple now?",
+      "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a very different ecosystemthan the one Cook spent decades shaping. The App Store’s 30% cut is under pressure, the behind-the-scenes power Apple once […]",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-24T14:00:00.000Z"
+    }
+  ]
+}
