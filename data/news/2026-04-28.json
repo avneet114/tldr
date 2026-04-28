@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T15:29:14.865Z",
+  "vibeSummary": "courtroom drama incoming fr",
+  "items": [
+    {
+      "id": "1777390154865-0",
+      "title": "Musk and Altman go to court",
+      "tldr": "Musk vs OpenAI trial starting and it's bout to be messy with everyone's secrets spilling",
+      "summary": "The Elon Musk vs OpenAI trial is officially starting and it's going to expose a lot of dirty laundry from AI's early days. Basically a public airing of tech billionaire beef over who deserves credit and cash for AI development.",
+      "deepLore": "The trial centers around Musk's claims that OpenAI violated its founding principles by becoming for-profit instead of staying open source. The case could potentially affect OpenAI's upcoming IPO and whether the company can continue operating as a for-profit entity, with the court possibly even forcing leadership changes.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-28T14:47:21.000Z"
+    },
+    {
+      "id": "1777390154865-1",
+      "title": "Builders",
+      "tldr": "GPT-5.5 allegedly exists and it's apparently good (that's literally all we got)",
+      "summary": "Ben's Bites dropped a cryptic one-liner saying GPT-5.5 is a good model. No other details, no context, just vibes and speculation fuel for the AI twitter discourse machine.",
+      "deepLore": "This appears to be an extremely brief mention with no technical specifications, benchmarks, or release details provided. Without additional context, it's unclear if this refers to an actual model release, internal testing, or speculation about OpenAI's roadmap beyond GPT-4.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/builders"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-04-28T13:54:22.000Z"
+    },
+    {
+      "id": "1777390154865-2",
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "tldr": "YouTube Premium users in US can now ask AI questions instead of normal search (it's giving ChatGPT vibes)",
+      "summary": "YouTube is testing an AI-powered conversational search feature for Premium subscribers that works more like chatting than traditional search. You can now click \"Ask YouTube\" and get guided answers that pull from videos, Shorts, and text.",
+      "deepLore": "The feature is currently limited to YouTube Premium subscribers aged 18+ in the US on an opt-in basis. The AI search pulls results from multiple content types including long-form videos and YouTube Shorts, suggesting integration with Google's multimodal AI capabilities to understand and summarize video content contextually.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-28T13:54:06.000Z"
+    },
+    {
+      "id": "1777390154865-3",
+      "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+      "tldr": "Neurable wants to license their 'mind-reading' BCI tech for consumer wearables (brain-computer interface goes mainstream)",
+      "summary": "BCI startup Neurable is looking to license their non-invasive neural data collection technology for consumer applications. Think brain-controlled wearables that can actually read your mind (kinda).",
+      "deepLore": "Neurable specializes in non-invasive brain-computer interface technology that can capture neural signals without surgical implants. Unlike companies like Neuralink that require brain surgery, their approach likely uses EEG or similar external sensors to detect brain activity patterns for consumer device control and monitoring applications.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-28T13:19:34.000Z"
+    },
+    {
+      "id": "1777390154865-4",
+      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "tldr": "Red Hat made OpenClaw AI agents safer with Tank OS containers for enterprise deployments",
+      "summary": "Red Hat's OpenClaw maintainer created Tank OS to containerize AI agents for safer enterprise use. It's basically putting AI agents in protective bubbles so they don't break everything when deployed at scale.",
+      "deepLore": "Tank OS provides containerization for OpenClaw AI agents, which appears to be an enterprise AI agent framework. The containerization approach allows for more reliable deployment and safer execution of autonomous AI agents, particularly important when running large fleets of agents in production enterprise environments where stability and security are critical.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-28T13:00:00.000Z"
+    },
+    {
+      "id": "1777390154865-5",
+      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+      "tldr": "MIT Tech Review covering the Musk vs Altman drama plus AI's profit problem in their daily newsletter",
+      "summary": "MIT Tech Review's daily newsletter is covering both the Musk-Altman court battle and broader issues with AI profitability. Basically a roundup of today's biggest AI chaos and economic reality checks.",
+      "deepLore": "This appears to be MIT Technology Review's daily newsletter format covering multiple AI-related stories, with focus on the legal implications of the Musk vs OpenAI case and broader economic sustainability challenges facing AI companies amid high computational costs and unclear monetization paths.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-28T12:10:00.000Z"
+    },
+    {
+      "id": "1777390154865-6",
+      "title": "Otter’s new feature lets users search across their enterprise tools",
+      "tldr": "Otter can now search across all your enterprise tools plus new Windows app for meeting notes",
+      "summary": "Otter added cross-enterprise tool search so you can find stuff across all your work apps from one place. They also dropped a Windows app that can capture meeting notes without actually joining meetings.",
+      "deepLore": "Otter's new enterprise search capability integrates with multiple workplace tools to provide unified search functionality, likely using AI to understand context across different platforms. The Windows application appears to use ambient audio capture technology to transcribe and take notes from meetings happening nearby without requiring the user to officially join the meeting session.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-28T12:00:00.000Z"
+    },
+    {
+      "id": "1777390154865-7",
+      "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
+      "tldr": "Google signed classified Pentagon deal for 'any lawful' AI use right after employees begged them not to",
+      "summary": "Google made a classified AI deal with the Pentagon for unlimited government use, literally one day after employees demanded they block military AI access. The timing is absolutely sending me.",
+      "deepLore": "The classified agreement allows the Department of Defense to use Google's AI models for \"any lawful government purpose,\" which likely includes Google's Gemini and other large language models. This puts Google alongside OpenAI and xAI in having military AI contracts, despite employee concerns about potential use in warfare or surveillance applications.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-28T11:09:32.000Z"
+    },
+    {
+      "id": "1777390154865-8",
+      "title": "Attack of the killer script kiddies",
+      "tldr": "DARPA's AI bug-hunting competition went wild - tools found secret bugs even DARPA didn't plant",
+      "summary": "At DARPA's AI cybersecurity challenge, automated tools were supposed to find planted bugs but went off-script and discovered real vulnerabilities nobody knew about. The AI tools basically uno-reversed the test and found actual security flaws.",
+      "deepLore": "The Artificial Intelligence Cyber Challenge (AIxCC) involved AI systems scanning 54 million lines of code with artificially inserted vulnerabilities. The participating AI bug-finding systems not only identified most of the planted flaws but discovered over a dozen legitimate security vulnerabilities that DARPA hadn't intentionally placed, demonstrating the tools' capability to find real-world exploits beyond controlled test scenarios.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-28T11:00:00.000Z"
+    },
+    {
+      "id": "1777390154865-9",
+      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "tldr": "Jury selection for Musk vs Altman trial is chaos bc everyone already hates Elon apparently",
+      "summary": "Jury selection for the Musk-OpenAI trial started and it's messy because potential jurors keep calling Elon names. Some choice quotes include \"greedy, racist, homophobic piece of garbage\" and \"world-class jerk.\"",
+      "deepLore": "The jury selection process revealed widespread negative public sentiment toward Elon Musk among potential jurors, with multiple individuals expressing strong personal opinions about his character and behavior. This could significantly complicate the legal proceedings as finding impartial jurors becomes more challenging when one party has such polarizing public perception.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-28T03:39:33.000Z"
+    },
+    {
+      "id": "1777390154865-10",
+      "title": "Google is testing AI chatbot search for YouTube",
+      "tldr": "Google testing conversational AI search on YouTube Premium that pulls from videos and Shorts",
+      "summary": "Google is testing an \"Ask YouTube\" feature for Premium users that makes search feel more like chatting with an AI. It pulls answers from long videos, Shorts, and text content all in one response.",
+      "deepLore": "The experimental feature is available to YouTube Premium subscribers 18+ in the US and integrates conversational AI directly into YouTube's search interface. The system appears to use multimodal AI capabilities to understand and synthesize information from various content formats including video transcripts, YouTube Shorts, and associated metadata to provide comprehensive answers to user queries.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-28T00:01:54.000Z"
+    },
+    {
+      "id": "1777390154865-11",
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "tldr": "Musk vs Altman trial starting this week could determine if OpenAI stays for-profit and who runs it",
+      "summary": "The long-awaited Musk vs OpenAI trial is finally happening in Northern California with potentially huge consequences. The court could decide whether OpenAI can remain for-profit and might even force leadership changes ahead of their IPO.",
+      "deepLore": "The trial centers on Musk's claims that OpenAI violated its founding agreements by transitioning from a non-profit to a for-profit structure. The case could have significant implications for OpenAI's planned IPO, potentially forcing the company to revert to non-profit status or restructure its business model, and may even result in leadership changes if the court finds merit in Musk's allegations of breach of fiduciary duty.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-27T22:52:57.000Z"
+    }
+  ]
+}
