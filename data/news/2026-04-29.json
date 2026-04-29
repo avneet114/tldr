@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T15:17:53.856Z",
+  "vibeSummary": "lawsuits and chaos today",
+  "items": [
+    {
+      "id": "1777475873856-0",
+      "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect’s ChatGPT activity",
+      "tldr": "families sued openai for not snitching on shooter's chatgpt convos to cops before tragedy",
+      "summary": "Seven families from the Tumbler Ridge school shooting are suing OpenAI for allegedly staying quiet when their systems flagged the shooter's ChatGPT activity. They claim OpenAI prioritized protecting their IPO over public safety.",
+      "deepLore": "The lawsuit specifically targets OpenAI and CEO Sam Altman for negligence, alleging their content moderation systems flagged Jesse Van Rootselaar's ChatGPT usage but they failed to report it to authorities. The families claim this was done to protect the company's reputation ahead of their planned initial public offering.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-29T14:47:57.000Z"
+    },
+    {
+      "id": "1777475873856-1",
+      "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI&#8217;s IPO",
+      "tldr": "chatgpt downloads tanking hard, uninstalls up 413% yoy - ipo vibes looking sus",
+      "summary": "ChatGPT is hemorrhaging users with uninstalls skyrocketing 413% year-over-year in recent months. The decline in growth could spell trouble for OpenAI's upcoming IPO plans.",
+      "deepLore": "Sensor Tower data shows ChatGPT experienced a 132% increase in uninstalls in April, jumping to 413% year-over-year following OpenAI's Pentagon deal in February. While the user base is still growing, the growth rate is significantly slowing down, which could impact investor confidence in the company's IPO prospects.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-29T14:43:41.000Z"
+    },
+    {
+      "id": "1777475873856-2",
+      "title": "Larry’s risky business",
+      "tldr": "oracle went full yolo on ai pivot - database company now building bare metal clouds",
+      "summary": "Oracle has completely pivoted to AI infrastructure, becoming a key indicator of whether the AI bubble is real or not. They're not building models but going hard on the datacenter buildout game like CoreWeave.",
+      "deepLore": "Oracle has transformed from a traditional database company into an AI infrastructure play, entering the bare-metal cloud business similar to CoreWeave. The company is positioning itself as a software-as-a-service provider but with a focus on AI workloads, making it a unique publicly traded bellwether for AI investment trends.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-29T13:57:16.000Z"
+    },
+    {
+      "id": "1777475873856-3",
+      "title": "Firestorm Labs raises $82M to take drone factories into the field",
+      "tldr": "firestorm labs got $82m to put drone factories in shipping containers for battlefield manufacturing",
+      "summary": "Defense startup Firestorm Labs raised $82 million to build mobile drone manufacturing facilities. They're putting entire factories inside shipping containers to bring production directly to conflict zones.",
+      "deepLore": "Firestorm Labs is developing containerized manufacturing systems that can be deployed to front lines for real-time drone production. This represents a shift toward distributed manufacturing for defense applications, allowing rapid response to battlefield needs without traditional supply chain delays.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-29T13:10:57.000Z"
+    },
+    {
+      "id": "1777475873856-4",
+      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+      "tldr": "shapes app made discord but ai bots can slide into your group chats with humans",
+      "summary": "New app called Shapes is creating group chats where AI characters hang out with real humans. Think Discord servers but with AI personalities as actual participants in conversations.",
+      "deepLore": "Shapes is developing a social platform that integrates AI agents directly into human group conversations, similar to Discord's structure but with AI characters as persistent participants rather than just tools. The app aims to create mixed human-AI social experiences in group chat formats.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-29T13:00:00.000Z"
+    },
+    {
+      "id": "1777475873856-5",
+      "title": "Taylor Swift deepfakes are pushing scams on TikTok",
+      "tldr": "taylor swift deepfakes pushing tiktok scams promising money for watching videos",
+      "summary": "Scammers are using AI-generated Taylor Swift and Rihanna videos to promote fake reward programs on TikTok. The deepfakes manipulate real interview footage to advertise sketchy money-making schemes.",
+      "deepLore": "Authentication company Copyleaks identified AI-manipulated celebrity videos appearing in TikTok ads, often using real footage from red carpets, podcasts, or talk shows as source material. These deepfakes typically promote fraudulent rewards programs claiming users can earn money by watching TikTok content and providing feedback, with some ads even incorporating TikTok's official branding.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-29T13:00:00.000Z"
+    },
+    {
+      "id": "1777475873856-6",
+      "title": "The Download: storing nuclear waste and orchestrating agents",
+      "tldr": "mit tech review covering nuclear waste storage and ai agent orchestration today",
+      "summary": "MIT Tech Review's daily newsletter is discussing nuclear waste management plans alongside AI agent coordination. Standard tech news roundup covering energy and AI infrastructure topics.",
+      "deepLore": "The Download newsletter is covering nuclear energy policy developments, including waste storage solutions, while also discussing AI agent orchestration technologies. This reflects the intersection of energy infrastructure needs driven by AI compute demands and the broader tech ecosystem's energy requirements.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-29T12:10:00.000Z"
+    },
+    {
+      "id": "1777475873856-7",
+      "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+      "tldr": "supply chain attack specifically targeted security companies checkmarx and bitwarden",
+      "summary": "A recent cyberattack deliberately focused on security firms Checkmarx and Bitwarden. Security companies are finding themselves particularly vulnerable to targeted supply chain attacks.",
+      "deepLore": "The attack represents a targeted strategy against security infrastructure providers, with threat actors specifically choosing companies that provide security services to other organizations. This highlights the increased risk profile for security firms, as compromising them can provide access to their clients' systems and sensitive data.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-04-29T11:00:24.000Z"
+    },
+    {
+      "id": "1777475873856-8",
+      "title": "China freezes new robotaxi licenses after Baidu chaos",
+      "tldr": "china froze all new robotaxi licenses after baidu's fleet completely broke down in traffic",
+      "summary": "China suspended new autonomous vehicle licenses after dozens of Baidu robotaxis simultaneously broke down in Wuhan traffic. The restrictions prevent companies from expanding fleets or entering new cities.",
+      "deepLore": "The suspension affects Baidu's Apollo Go robotaxi service and prevents all companies from adding new driverless vehicles, expanding to new cities, or starting test projects. The mass failure in Wuhan created significant traffic disruption and highlighted reliability concerns with current autonomous vehicle deployments at scale.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-29T10:39:21.000Z"
+    },
+    {
+      "id": "1777475873856-9",
+      "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
+      "tldr": "github fixed critical vulnerability in 6 hours after ai found bug that could access all repos",
+      "summary": "GitHub patched a remote code execution vulnerability in under six hours after Wiz Research used AI to discover it. The bug could have allowed attackers to access millions of public and private code repositories.",
+      "deepLore": "Wiz Research utilized AI models to identify a vulnerability in GitHub's internal git infrastructure that posed a remote code execution risk. GitHub's security team reproduced the vulnerability within 40 minutes of receiving the bug bounty report and confirmed its severity, leading to the rapid six-hour fix timeline for a critical infrastructure threat.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-29T10:04:25.000Z"
+    },
+    {
+      "id": "1777475873856-10",
+      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "tldr": "scout ai raised $100m to train models for war, building ai agents for soldier vehicle control",
+      "summary": "Scout AI secured $100 million to develop military AI models and train them at their bootcamp facility. They're creating AI agents that help individual soldiers control fleets of autonomous vehicles in combat.",
+      "deepLore": "Scout AI is developing AI agents specifically designed for military applications, focusing on enabling individual soldiers to command and coordinate multiple autonomous vehicles simultaneously. Their training facility serves as a proving ground for these military-focused AI systems, representing significant investment in AI-powered defense capabilities.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-29T09:45:00.000Z"
+    },
+    {
+      "id": "1777475873856-11",
+      "title": "General Motors is adding Gemini to four million cars",
+      "tldr": "gm adding gemini ai to 4 million cars across cadillac chevy buick and gmc lineup",
+      "summary": "General Motors is rolling out Google's Gemini AI assistant to around four million vehicles via over-the-air updates. Model year 2022 and newer GM vehicles with Google built-in will get the AI upgrade over several months.",
+      "deepLore": "The integration covers Cadillac, Chevrolet, Buick, and GMC vehicles from model year 2022 onwards that already have Google built-in infotainment systems. GM is deploying Gemini through over-the-air software updates to their existing infotainment platform, representing one of the largest automotive AI assistant rollouts to date.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-29T09:14:38.000Z"
+    }
+  ]
+}
