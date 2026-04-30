@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T15:13:10.817Z",
+  "vibeSummary": "AI everywhere no vibes",
+  "items": [
+    {
+      "id": "1777561990817-0",
+      "title": "All these smart glasses and nothing to do",
+      "tldr": "reviewer drowning in 10+ smart glasses pairs but they all mid fr",
+      "summary": "The Verge reviewer tested a bunch of smart glasses including Even Realities G2, Meta Ray-Bans, and others. Spoiler: having tons of options doesn't mean any of them are actually good or useful yet.",
+      "deepLore": "The review covers multiple AR/smart glasses including Even Realities G2, Rokid models, Meta Ray-Ban Display with Neural Wristband, plus budget options from Walmart, Xreal, RayNeo, Lucyd, and legacy Razer Anzu. The hardware exists but the software ecosystem and practical applications remain underdeveloped.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-30T15:00:00.000Z"
+    },
+    {
+      "id": "1777561990817-1",
+      "title": "OpenAI talks about not talking about goblins",
+      "tldr": "OpenAI finally admits their models be talking about goblins randomly",
+      "summary": "Wired exposed that OpenAI's coding models had secret instructions to never mention goblins, gremlins, or pigeons. OpenAI published a blog explaining their models developed this \"strange habit\" during training and they had to specifically filter it out.",
+      "deepLore": "OpenAI's Codex model developed an unexplained tendency to reference mythical creatures and animals in coding contexts during training. The company implemented explicit filtering rules instructing the model to avoid mentioning \"goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures\" to prevent these random metaphorical references.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-30T13:42:29.000Z"
+    },
+    {
+      "id": "1777561990817-2",
+      "title": "Verified by Spotify badge lets you know this artist isn&#8217;t AI",
+      "tldr": "Spotify adding badges to prove artists are human not AI bots",
+      "summary": "Spotify launched \"Verified by Spotify\" badges with green checkmarks for real human artists. AI-generated music profiles aren't eligible for verification (for now) as the platform fights spam and fake content.",
+      "deepLore": "The verification program requires confirmation of a real person behind both the music creation and profile management. Spotify explicitly excludes AI personas and primarily AI-generated music from current eligibility criteria, though they haven't ruled out future inclusion as the technology and industry standards evolve.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/921048/verified-by-spotify-badge"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-30T13:08:23.000Z"
+    },
+    {
+      "id": "1777561990817-3",
+      "title": "Building gets easier",
+      "tldr": "Ben's tool stack evolving because AI making dev work easier",
+      "summary": "Ben from Ben's Bites is updating his development workflow as AI tools improve. The brief suggests AI-powered development tools are becoming more practical and changing how people build software.",
+      "deepLore": "Limited technical details available from the brief excerpt, but indicates ongoing shifts in developer toolchains as AI-assisted coding, debugging, and deployment tools mature. The reference to tool stack changes suggests integration of LLM-powered development assistance into everyday workflows.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/building-gets-easier"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-04-30T13:03:20.000Z"
+    },
+    {
+      "id": "1777561990817-4",
+      "title": "The Download: the North Pole’s future and humanoid data",
+      "tldr": "MIT newsletter mentions North Pole research and humanoid data stuff",
+      "summary": "MIT Tech Review's daily newsletter covering North Pole research involving vessels navigating thinner ice. Also mentions humanoid robot data collection topics.",
+      "deepLore": "Research vessel operations in Arctic regions where ice thickness has decreased significantly compared to historical levels, enabling new scientific data collection methods. The humanoid data reference suggests coverage of training datasets or behavioral data from humanoid robotics research.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-04-30T12:10:00.000Z"
+    },
+    {
+      "id": "1777561990817-5",
+      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "tldr": "Meta's business AI hitting 10M convos weekly, 8B advertisers using gen AI",
+      "summary": "Meta reported their business AI tools are facilitating 10 million conversations per week. Over 8 billion advertisers have tried at least one of their generative AI features for ads and business management.",
+      "deepLore": "Meta's business AI encompasses customer service automation, ad creation tools, and business communication features. The 10 million weekly conversation figure likely includes automated customer support, lead qualification, and business messaging powered by their Llama models integrated across Facebook, Instagram, and WhatsApp business tools.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-30T12:08:45.000Z"
+    },
+    {
+      "id": "1777561990817-6",
+      "title": "Meta lost 20 million users last quarter",
+      "tldr": "Meta lost 20M users but still pumping billions into AI anyway",
+      "summary": "Meta's \"Family daily active people\" dropped by 20 million users across all platforms this quarter. Despite the decline, they're increasing AI investment spending, blaming user loss on internet disruptions in Iran.",
+      "deepLore": "The 20 million user decline represents a significant drop in Meta's combined daily active users across Facebook, Instagram, WhatsApp, and Messenger. Meta attributes losses to geopolitical internet disruptions in Iran and regional connectivity issues, while simultaneously escalating capital expenditure on AI infrastructure and model development.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-30T11:38:26.000Z"
+    },
+    {
+      "id": "1777561990817-7",
+      "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
+      "tldr": "OpenAI dropping GPT-5.5-Cyber but only for \"trusted\" cyber defenders rn",
+      "summary": "Sam Altman announced GPT-5.5-Cyber, a specialized cybersecurity model launching in the next few days. It's restricted to select \"critical cyber defenders\" and government partners, not available to regular users.",
+      "deepLore": "GPT-5.5-Cyber represents OpenAI's first domain-specific frontier model variant, designed specifically for cybersecurity applications including threat detection, vulnerability assessment, and defensive strategy. The limited rollout to pre-approved cyber defenders suggests enhanced capabilities that could be dual-use if released broadly.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-30T11:09:01.000Z"
+    },
+    {
+      "id": "1777561990817-8",
+      "title": "The more young people use AI, the more they hate it",
+      "tldr": "Gen Z uses AI more but likes it less - we're getting tired of it",
+      "summary": "New polling shows Gen Z are the biggest AI adopters but their satisfaction decreases the more they use it. Despite being pushed AI tools everywhere, young people are growing increasingly skeptical after 3 years of hype.",
+      "deepLore": "Longitudinal polling data indicates an inverse correlation between AI tool usage frequency and user satisfaction among Gen Z demographics. Heavy users of ChatGPT, Claude, and other LLM tools report declining utility and increasing frustration, contradicting tech industry assumptions about adoption translating to enthusiasm.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-04-30T11:00:00.000Z"
+    },
+    {
+      "id": "1777561990817-9",
+      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+      "tldr": "SoftBank making robots that build data centers, already eyeing $100B IPO",
+      "summary": "SoftBank is creating a new robotics company focused on building AI data center infrastructure. They're reportedly already considering a $100 billion IPO for this venture before it's even properly launched.",
+      "deepLore": "The robotics subsidiary will develop autonomous construction systems specifically for data center deployment, combining SoftBank's robotics expertise with the massive infrastructure demands of AI training and inference. The premature $100B valuation target reflects typical SoftBank aggressive valuation strategies in emerging tech sectors.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-30T03:58:22.000Z"
+    },
+    {
+      "id": "1777561990817-10",
+      "title": "Amazon’s cloud business is surging — and so is its capital spending",
+      "tldr": "AWS making bank but Amazon burning cash on AI infrastructure",
+      "summary": "Amazon's AWS cloud business is performing better than expected with strong revenue growth. However, capital expenditure is skyrocketing as they invest heavily in AI infrastructure and data centers.",
+      "deepLore": "AWS revenue growth is being driven by increased demand for GPU compute instances, AI model training infrastructure, and enterprise AI services. The elevated capital spending focuses on expanding data center capacity, acquiring specialized AI hardware including NVIDIA H100s and custom Trainium chips, and building out global AI inference infrastructure.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-30T00:14:23.000Z"
+    },
+    {
+      "id": "1777561990817-11",
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "tldr": "Anthropic might raise $50B at $900B valuation because money printer go brr",
+      "summary": "Multiple sources say Anthropic is considering raising $50 billion in a new funding round. Investors are reportedly offering valuations between $850-900 billion for the Claude AI maker.",
+      "deepLore": "The potential $50B raise would represent one of the largest funding rounds in AI history, with pre-emptive offers suggesting intense investor competition for Anthropic equity. The $850-900B valuation range positions Anthropic near OpenAI's reported valuation levels, reflecting investor confidence in Claude's competitive positioning and Constitutional AI approach.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-04-30T00:07:15.000Z"
+    }
+  ]
+}
