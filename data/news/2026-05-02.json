@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T14:11:48.300Z",
+  "vibeSummary": "courtroom chaos energy fr",
+  "items": [
+    {
+      "id": "1777731108300-0",
+      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+      "tldr": "Replit CEO said nah to selling while Cursor gets that $60B SpaceX bag allegedly",
+      "summary": "Amjad Masad talked about staying independent while his competitor Cursor is reportedly in talks for a massive $60B acquisition by SpaceX. He's choosing to build rather than cash out, even with Apple beef on the side.",
+      "deepLore": "At StrictlyVC, Masad addressed the industry speculation around acquisitions in the AI coding space, specifically referencing Cursor's rumored $60 billion SpaceX deal. The discussion touched on Replit's strategic positioning against larger tech companies and their approach to maintaining independence in a consolidating market.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-01T23:06:50.000Z"
+    },
+    {
+      "id": "1777731108300-1",
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "tldr": "Meta said 'we need robots' and bought Assured Robot Intelligence for humanoid AI vibes",
+      "summary": "Meta acquired robotics startup Assured Robot Intelligence to strengthen their AI models for humanoid robots. It's giving 'we're serious about the metaverse but with actual bodies' energy.",
+      "deepLore": "The acquisition appears focused on enhancing Meta's AI capabilities specifically for robotics applications, suggesting they're expanding beyond VR/AR into physical embodied AI. Assured Robot Intelligence likely brings specialized expertise in humanoid robot control systems and AI model optimization for robotic platforms.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-01T22:13:27.000Z"
+    },
+    {
+      "id": "1777731108300-2",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "tldr": "Elon on the stand saying Sam Altman finessed him while admitting xAI copies OpenAI's homework",
+      "summary": "First week of Musk v. Altman trial was pure drama with Elon claiming he got deceived into funding OpenAI. He also dropped some doom warnings about AI killing everyone and casually admitted xAI distills OpenAI's models.",
+      "deepLore": "During testimony, Musk alleged that Altman and Brockman misled him about OpenAI's nonprofit mission while he was a major early funder. Most notably, he acknowledged that xAI uses knowledge distillation techniques on OpenAI's models, which is a significant technical admission about his company's competitive strategy.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-01T22:08:19.000Z"
+    },
+    {
+      "id": "1777731108300-3",
+      "title": "All the evidence revealed so far in Musk v. Altman",
+      "tldr": "Court receipts dropping: emails showing how OpenAI went from nonprofit dreams to profit schemes",
+      "summary": "The Musk v. Altman trial is revealing early OpenAI emails, corporate docs, and evidence from before the company even had a name. Turns out Jensen Huang hooked them up with GPUs and Musk basically wrote their mission statement.",
+      "deepLore": "Court exhibits include email exchanges from OpenAI's founding period, revealing Nvidia CEO Jensen Huang provided critical supercomputing resources and Musk's substantial influence on the company's early structure and mission. The evidence shows detailed corporate communications about OpenAI's transition from nonprofit to for-profit status.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-01T19:14:51.000Z"
+    },
+    {
+      "id": "1777731108300-4",
+      "title": "Ubuntu infrastructure has been down for more than a day",
+      "tldr": "Ubuntu's infrastructure been down 24+ hours and there's a critical vuln giving root access rn",
+      "summary": "Ubuntu's entire infrastructure has been offline for over a day, making it impossible to communicate about a serious security vulnerability. The timing is absolutely terrible since the bug apparently gives root access to systems.",
+      "deepLore": "The outage affects Ubuntu's communication channels and potentially package repositories, coinciding with a critical security vulnerability that grants root-level system access. This creates a dangerous situation where administrators cannot receive timely security updates or patches for the vulnerability.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-05-01T19:12:26.000Z"
+    },
+    {
+      "id": "1777731108300-5",
+      "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+      "tldr": "Elon spent 3 days on the stand explaining why you can't just yoink a nonprofit apparently",
+      "summary": "This covers Musk's messy three-day testimony where his own tweets and texts are being used against him in court. His whole argument is that Sam Altman basically stole OpenAI by flipping it from nonprofit to for-profit.",
+      "deepLore": "The trial centers on Musk's claim that OpenAI's conversion from nonprofit to for-profit structure constitutes a breach of its original mission and his founding contributions. Court evidence includes Musk's own social media posts and private communications that may contradict his current legal arguments.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-01T17:44:29.000Z"
+    },
+    {
+      "id": "1777731108300-6",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "tldr": "Pentagon said 'we need AI for classified stuff' and signed deals with Nvidia, Microsoft, AWS",
+      "summary": "The Department of Defense is diversifying its AI vendor portfolio after drama with Anthropic over usage terms. They're bringing big tech AI models into classified government networks now.",
+      "deepLore": "The Pentagon contracts allow deployment of AI systems from Nvidia, Microsoft, and AWS on classified networks, representing a significant expansion of AI integration in sensitive government operations. This follows previous conflicts with Anthropic over acceptable use policies for AI models in government applications.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-01T16:02:36.000Z"
+    },
+    {
+      "id": "1777731108300-7",
+      "title": "Cyber-Insecurity in the AI Era",
+      "tldr": "Cybersecurity was already cooked, now AI made the attack surface even worse somehow",
+      "summary": "MIT Tech Review's EmTech AI covered how cybersecurity is getting absolutely rekt by AI expansion. Legacy security approaches aren't cutting it when AI adds more complexity and attack vectors.",
+      "deepLore": "The session explored how AI integration expands attack surfaces beyond traditional cybersecurity perimeters, requiring fundamental rethinking of security architectures. The discussion emphasized that AI-era security must be built from the ground up rather than retrofitted onto existing systems.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-01T15:54:01.000Z"
+    },
+    {
+      "id": "1777731108300-8",
+      "title": "Operationalizing AI for Scale and Sovereignty",
+      "tldr": "Companies building AI factories to control their own data instead of sending it to Big Tech",
+      "summary": "MIT Tech Review conference discussed how companies are taking ownership of their AI data pipelines. The challenge is balancing data control with the need for high-quality, trusted data flow for reliable AI insights.",
+      "deepLore": "The conversation focused on AI factories as infrastructure solutions that enable organizations to maintain data sovereignty while achieving scale and sustainability in AI operations. This approach addresses governance challenges by keeping sensitive data in-house while still leveraging advanced AI capabilities.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-01T15:31:09.000Z"
+    },
+    {
+      "id": "1777731108300-9",
+      "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+      "tldr": "Pentagon signed classified AI deals with OpenAI, Google, Nvidia but left Anthropic on read",
+      "summary": "The Defense Department inked deals with major AI companies including OpenAI, Google, Microsoft, Amazon, Nvidia, and even xAI for classified work. Anthropic got the boot and labeled a supply-chain risk after previous drama.",
+      "deepLore": "The contracts allow these AI companies to deploy their models and tools in classified government settings, expanding on previous agreements with OpenAI and xAI. Anthropic's exclusion stems from being designated a supply-chain risk following disputes over AI model usage terms with the Pentagon.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-01T14:09:56.000Z"
+    },
+    {
+      "id": "1777731108300-10",
+      "title": "Musk v. Altman is just getting started",
+      "tldr": "More Musk v. Altman trial coverage because this drama is just getting warmed up apparently",
+      "summary": "Another take on Elon's disastrous week in court with his own digital receipts being used against him. The trial is exposing emails, texts, and tweets that make his case look pretty weak.",
+      "deepLore": "This appears to be additional video coverage of the same trial proceedings, focusing on how Musk's digital communications and social media activity are being presented as evidence that potentially undermines his claims about OpenAI's mission and his role in the company's founding.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-01T14:00:00.000Z"
+    },
+    {
+      "id": "1777731108300-11",
+      "title": "Elon Musk had a bad week in court",
+      "tldr": "Verge podcast roasting Elon for fumbling his own lawsuit that he literally asked for",
+      "summary": "The Vergecast breaks down why Musk's testimony went so badly even though he's the one who wanted this trial. All signs point to him not winning despite claiming OpenAI 'stole a nonprofit' and that he was the real founder.",
+      "deepLore": "The podcast analysis suggests Musk's legal strategy is fundamentally flawed, with his own testimony and evidence potentially undermining his claims about being deceived or being the driving force behind OpenAI. Legal experts appear skeptical about his chances of success in the case.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-01T13:33:15.000Z"
+    }
+  ]
+}
