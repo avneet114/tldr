@@ -1,0 +1,71 @@
+{
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T14:12:08.302Z",
+  "vibeSummary": "chaos meets gatekeeping era",
+  "items": [
+    {
+      "id": "1777817528302-0",
+      "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+      "tldr": "squirrel dad accidentally created the #1 camera app by being wholesome",
+      "summary": "Derrick Downey Jr went from caring for squirrels to creating DualShot Recorder, which hit #1 on the App Store in 12 hours. Nobody saw this coming but here we are witnessing the most random success story of 2026.",
+      "deepLore": "DualShot Recorder appears to be a camera application that achieved rapid commercial success, reaching the top position on Apple's App Store paid apps chart within half a day of release. The app was developed by Derrick Downey Jr, who originally gained attention through content featuring squirrels, though the technical specifications and features of the camera app aren't detailed in the available excerpt.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-03T13:00:00.000Z"
+    },
+    {
+      "id": "1777817528302-1",
+      "title": "AI music is flooding streaming services — but who wants it?",
+      "tldr": "AI music is everywhere on streaming but literally nobody asked for this",
+      "summary": "Streaming platforms are getting flooded with AI-generated music and everyone's asking who actually wants this. Started as experimental art in 2018-2019 but now it's just spam central on Spotify and friends.",
+      "deepLore": "The proliferation began with early experimental albums like Taryn Southern's 'I AM AI' (2018) and Holly Herndon's 'Proto' (2019), which used generative AI as creative tools. Now AI-generated content is saturating streaming platforms at scale, raising questions about content quality, artist compensation, and platform curation policies in the music industry.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-03T12:00:00.000Z"
+    },
+    {
+      "id": "1777817528302-2",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "tldr": "Oscars said nah to AI actors and scripts, RIP Tilly Norwood's dreams",
+      "summary": "The Academy just banned AI-generated actors and scripts from Oscar eligibility. Apparently they're drawing hard lines on what counts as 'real' filmmaking in 2026.",
+      "deepLore": "The Academy of Motion Picture Arts and Sciences has implemented new eligibility rules specifically excluding AI-generated performances and screenplays from Oscar consideration. This policy change represents a significant institutional stance against synthetic content in recognized filmmaking, though specific technical criteria for what constitutes 'AI-generated' versus AI-assisted content aren't detailed in the brief report.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-02T21:54:58.000Z"
+    },
+    {
+      "id": "1777817528302-3",
+      "title": "The best AI dictation apps, tested and ranked",
+      "tldr": "someone actually tested AI dictation apps so you don't have to suffer",
+      "summary": "TechCrunch ranked the best AI dictation apps for 2025 covering everything from emails to coding. Finally some practical AI coverage that might actually help your productivity instead of replacing your job.",
+      "deepLore": "The evaluation covers AI-powered speech-to-text applications across multiple use cases including email composition, note-taking, and voice-based coding interfaces. The testing methodology and specific performance benchmarks aren't detailed in the excerpt, but the focus appears to be on practical productivity applications rather than experimental or creative uses of voice AI technology.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-02T16:00:00.000Z"
+    }
+  ]
+}
