@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T15:11:44.945Z",
+  "vibeSummary": "ai chaos era unlocked",
+  "items": [
+    {
+      "id": "1777907504945-0",
+      "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "tldr": "TechCrunch doing BOGO conference passes like it's Black Friday at Target",
+      "summary": "TechCrunch is running a buy-one-get-one-half-off deal for their 2026 Disrupt conference passes. The offer runs until Friday May 8th and applies to matching ticket types.",
+      "deepLore": "This is a standard conference promotion strategy to boost early ticket sales and attendance numbers. The 50% discount on the second pass of the same tier suggests they're trying to encourage team attendance and networking at the event.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-04T14:00:00.000Z"
+    },
+    {
+      "id": "1777907504945-1",
+      "title": "Tailoring AI solutions for health care needs",
+      "tldr": "Healthcare AI promises are bussin but implementation is still mid fr",
+      "summary": "MIT Tech Review explores how AI solutions are being tailored for healthcare's specific needs amid labor shortages and aging populations. The piece examines the gap between AI's grand promises and practical healthcare applications.",
+      "deepLore": "The article discusses AI applications ranging from oncology and surgical assistance to administrative workflow optimization. Healthcare AI faces unique challenges including regulatory compliance, patient safety requirements, and integration with existing medical systems and protocols.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-04T13:00:00.000Z"
+    },
+    {
+      "id": "1777907504945-2",
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "tldr": "'This is Fine' dog creator calls out AI startup for yoinking his art without permission",
+      "summary": "The creator of the iconic 'This is Fine' meme is accusing AI startup Artisan of stealing his artwork. Artisan is the same company behind those controversial 'stop hiring humans' billboards.",
+      "deepLore": "This case highlights ongoing issues with AI training data and copyright infringement, where companies use existing artwork to train generative models without artist consent or compensation. Artisan's aggressive anti-human marketing combined with alleged art theft creates particularly bad optics for the AI industry.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-03T20:16:51.000Z"
+    },
+    {
+      "id": "1777907504945-3",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "tldr": "Harvard study shows AI diagnosing ER patients better than actual doctors (yikes)",
+      "summary": "A Harvard study found that large language models provided more accurate emergency room diagnoses than human doctors in real cases. The research examines LLM performance across various medical contexts including actual ER scenarios.",
+      "deepLore": "The study tested large language models against human emergency medicine physicians using real patient cases and diagnostic accuracy metrics. While the specific models and performance benchmarks aren't detailed in the excerpt, this represents significant validation of AI diagnostic capabilities in high-stakes medical environments.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-03T18:00:09.000Z"
+    },
+    {
+      "id": "1777907504945-4",
+      "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+      "tldr": "Squirrel dad accidentally creates #1 camera app because wholesome content hits different",
+      "summary": "DualShot Recorder hit #1 on the App Store in just 12 hours, created by Derrick Downey Jr. who got famous for his squirrel care content. The app's overnight success started from his animal care social media presence.",
+      "deepLore": "DualShot Recorder appears to be a dual-camera recording application that leveraged its creator's existing social media following for rapid adoption. The app's success demonstrates how content creator audiences can drive app store rankings through concentrated downloads in short timeframes.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-03T13:00:00.000Z"
+    },
+    {
+      "id": "1777907504945-5",
+      "title": "AI music is flooding streaming services — but who wants it?",
+      "tldr": "AI music is spam flooding Spotify but literally nobody asked for this",
+      "summary": "The Verge examines how generative AI music is overwhelming streaming platforms, questioning whether there's actual demand for it. The piece traces AI music's evolution from experimental albums to current mass production.",
+      "deepLore": "Early AI music pioneers like Taryn Southern's 'I AM AI' (2018) and Holly Herndon's 'Proto' (2019) represented artistic experimentation with generative tools. The current wave involves mass-produced AI content flooding streaming services, creating potential revenue dilution and discovery problems for human artists.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-03T12:00:00.000Z"
+    }
+  ]
+}
