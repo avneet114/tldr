@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T15:28:39.579Z",
+  "vibeSummary": "companies choosing AI bills",
+  "items": [
+    {
+      "id": "1778081319579-0",
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "tldr": "Match Group firing humans to afford AI tools bc apparently love algorithms are expensive now",
+      "summary": "Match Group (Tinder's parent) is slowing down hiring for the rest of the year because their AI tools are costing them serious money. They're literally choosing robots over humans to run their dating apps rn.",
+      "deepLore": "Match Group specifically cited that AI tools 'cost a lot of money' as the reason for reducing their hiring plans. This suggests they're investing heavily in AI infrastructure for their dating platforms, potentially for recommendation algorithms, matching systems, or user experience features. The company is prioritizing AI investment over human capital expansion.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-06T15:27:36.000Z"
+    },
+    {
+      "id": "1778081319579-1",
+      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+      "tldr": "Apple paying $250M for overpromising Siri AI features that took forever to drop",
+      "summary": "Apple is settling a class action lawsuit for $250 million because they hyped up Siri's AI features way before they actually delivered them. Basically got caught capping about their timeline and now they're paying for it.",
+      "deepLore": "The settlement is specifically for Apple overpromising the arrival of Siri's AI capabilities in what appears to be a timeline-related lawsuit. This likely involves Apple Intelligence features or advanced Siri functionality that was announced but significantly delayed in actual rollout. The $250M settlement suggests substantial consumer impact from the delayed AI feature promises.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-06T15:12:49.000Z"
+    },
+    {
+      "id": "1778081319579-2",
+      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "tldr": "Ethos secured $22.75M from a16z for expert network that uses voice AI onboarding",
+      "summary": "Ethos raised $22.75M from Andreessen Horowitz for their expert network platform that uses voice-based onboarding. They're apparently onboarding 35,000 experts per week which is actually pretty wild growth.",
+      "deepLore": "Ethos is building an expert network platform with AI-powered voice onboarding capabilities, backed by a16z's $22.75M investment. The voice onboarding system appears to be scaling efficiently, processing 35,000 new expert sign-ups weekly. This suggests they're using voice AI for automated expert verification, qualification, or profile creation processes.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-06T15:00:00.000Z"
+    },
+    {
+      "id": "1778081319579-3",
+      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+      "tldr": "Samsung hit $1T valuation thanks to AI chip demand becoming the second Asian company to do it",
+      "summary": "Samsung just crossed the $1 trillion valuation milestone after their shares surged on AI-driven chip demand. They're only the second Asian company after TSMC to hit this number, showing how the AI boom is literally printing money for chip makers.",
+      "deepLore": "Samsung's valuation surge to $1 trillion is directly attributed to increased demand for AI chips, likely memory chips (DRAM, HBM) and potentially foundry services for AI accelerators. This follows TSMC's path as the first Asian company to reach this milestone, highlighting how AI infrastructure demand is driving massive valuations in the semiconductor industry.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-06T14:30:00.000Z"
+    },
+    {
+      "id": "1778081319579-4",
+      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+      "tldr": "Google's AI search now quotes Reddit for real human perspectives instead of just generic results",
+      "summary": "Google updated their AI Search to include previews from Reddit and other forums when you search for stuff. They're basically trying to give you actual human opinions from social media instead of just corporate website answers.",
+      "deepLore": "Google's AI Overview feature now incorporates 'a preview of perspectives' from social media platforms, Reddit, and web forums to provide firsthand human experiences related to search queries. This represents a significant shift in how Google's AI processes and presents information, moving beyond traditional web results to include conversational and experiential content from online communities.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-06T14:00:00.000Z"
+    },
+    {
+      "id": "1778081319579-5",
+      "title": "AI boom pushes Samsung to $1T",
+      "tldr": "Chrome secretly downloading 4GB AI model files to your computer for Gemini Nano features",
+      "summary": "Google Chrome is automatically downloading a massive 4GB AI model file called weights.bin to enable Gemini Nano features. Users are discovering this file is eating up their storage space without them realizing it was there.",
+      "deepLore": "The 4GB weights.bin file contains Google's Gemini Nano AI model that Chrome downloads automatically when certain AI features are enabled. Gemini Nano is Google's smallest on-device language model designed for local AI processing, but the large file size is causing unexpected storage consumption for users who weren't aware of the automatic download.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-06T13:54:09.000Z"
+    },
+    {
+      "id": "1778081319579-6",
+      "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+      "tldr": "QuTwo AI lab founded by ex-AMD Silo AI CEO hits $380M valuation after €25M angel round",
+      "summary": "Finnish AI lab QuTwo, started by former AMD Silo AI CEO Peter Sarlin, just raised €25M and hit a €325M valuation. Shows European AI companies are still getting crazy valuations despite everything going on.",
+      "deepLore": "QuTwo is positioned as an AI lab focusing on quantum computing and sovereign tech, founded by Peter Sarlin who previously led Silo AI before AMD's acquisition. The €325 million ($380M) valuation from just an angel round indicates strong investor confidence in European AI capabilities, particularly in the quantum-AI intersection and sovereign technology development.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-05-06T13:32:47.000Z"
+    },
+    {
+      "id": "1778081319579-7",
+      "title": "Google&#8217;s AI search summaries will now quote Reddit",
+      "tldr": "Google&#8217;s AI search summaries will now quote Reddit",
+      "summary": "Want real human feedback related to your search results? Google’s AI now fetches it for you. | Image by Google / The Verge\t\n\nGoogle is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search queries with online conversations around similar topics.\nGoogle says this up",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-06T13:00:30.000Z"
+    },
+    {
+      "id": "1778081319579-8",
+      "title": "The Download: seafloor science and military chatbots",
+      "tldr": "The Download: seafloor science and military chatbots",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meters into the Pacific Ocean. Throughout the rest of May, they will…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-06T12:10:00.000Z"
+    },
+    {
+      "id": "1778081319579-9",
+      "title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
+      "tldr": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
+      "summary": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslansky, who will now lead a new Work Experiences Group at Microsoft.\nThe changes, which come a week after Roslansky named a new CEO of LinkedIn, are part of a broader reshuffle triggered by Rajesh Jha, e",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-06T11:45:41.000Z"
+    },
+    {
+      "id": "1778081319579-10",
+      "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+      "tldr": "Chrome’s AI features may be hogging 4GB of your computer storage",
+      "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin file inside their browser directory when certain AI features are enabled.\nThe weights.bin file in question is connected to Google's Gemini Nano AI model, whi",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-06T10:13:09.000Z"
+    },
+    {
+      "id": "1778081319579-11",
+      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+      "tldr": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+      "summary": "QuTwo, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made companies.",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-06T06:47:12.000Z"
+    }
+  ]
+}
