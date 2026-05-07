@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T15:29:23.425Z",
+  "vibeSummary": "everyone wants AI money",
+  "items": [
+    {
+      "id": "1778167763425-0",
+      "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+      "tldr": "TechCrunch deadass just advertising their own conference applications closing May 27th",
+      "summary": "TechCrunch is pushing their Startup Battlefield 200 applications that close May 27th, offering $100K equity-free and VC access. Basically just a conference promo disguised as news lol.",
+      "deepLore": "The Startup Battlefield 200 is TechCrunch's pitch competition for pre-Series A startups, offering equity-free funding, media coverage, and investor access. Applications close May 27, 2026, with the competition taking place at TechCrunch Disrupt 2026.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-07T15:00:00.000Z"
+    },
+    {
+      "id": "1778167763425-1",
+      "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+      "tldr": "Aurora CEO says self-driving trucks finally ready to scale after a literal decade of 'almost there'",
+      "summary": "Aurora's CEO Chris Urmson claims their self-driving trucks are actually ready for mass deployment after starting commercial ops last April. They're scaling from a few trucks to hundreds this year between Dallas and Houston.",
+      "deepLore": "Aurora began commercial driverless operations in April 2025 on the Dallas-Houston freight route. The company is now scaling from initial pilot operations to hundreds of autonomous trucks in 2026, marking a significant milestone in commercial autonomous freight transport.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-07T14:30:00.000Z"
+    },
+    {
+      "id": "1778167763425-2",
+      "title": "Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
+      "tldr": "New CLI tool lets AI agents dump your research summaries straight into Spotify as podcasts",
+      "summary": "Someone built 'Save to Spotify' that lets AI agents like Claude and OpenClaw turn your research into audio summaries and save them directly to Spotify. Honestly kinda fire for the research girlies who want everything automated.",
+      "deepLore": "The Save to Spotify CLI tool integrates with AI agents like OpenClaw, Claude Code, and OpenAI Codex to automatically generate audio summaries from research materials and upload them directly to Spotify playlists. Users need to download the GitHub CLI tool and authenticate with Spotify to enable the workflow.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-07T14:24:54.000Z"
+    },
+    {
+      "id": "1778167763425-3",
+      "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
+      "tldr": "Google's new Fitbit Air is basically a $99 Whoop dupe with AI health coaching",
+      "summary": "Google launched the $99 Fitbit Air that looks exactly like a Whoop band but with AI-powered health insights. It's screenless with a fabric clasp and trying to bring back the OG Fitbit vibes from 2012.",
+      "deepLore": "The Google Fitbit Air features a screenless design with metallic fabric clasp, similar to Whoop's form factor but at a $99 price point significantly lower than Whoop's subscription model. The device emphasizes AI-powered health coaching and insights rather than real-time display functionality.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-07T14:15:40.000Z"
+    },
+    {
+      "id": "1778167763425-4",
+      "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
+      "tldr": "China's Moonshot AI just bagged $2B at $20B valuation because open-source AI is absolutely printing money",
+      "summary": "Moonshot AI raised $2 billion at a $20 billion valuation driven by insane demand for open-source AI models. Their ARR hit $200M in April from subscriptions and API usage alone.",
+      "deepLore": "Moonshot AI achieved $200 million in annualized recurring revenue as of April 2026, primarily through paid subscription services and API usage. The $2 billion funding round at a $20 billion valuation reflects the explosive growth in open-source AI model adoption and commercial applications.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-07T14:00:00.000Z"
+    },
+    {
+      "id": "1778167763425-5",
+      "title": "Google’s taking a big swing at AI health with the Fitbit Air",
+      "tldr": "Spotify going all-in on AI podcasts, wants to be the home for AI-generated personal audio content",
+      "summary": "Spotify is positioning itself as the platform for AI-generated personal audio, letting users import podcasts created by AI agents like Codex and Claude. They're basically trying to own the AI audio content space.",
+      "deepLore": "Spotify is developing integration capabilities for AI-generated audio content, specifically targeting podcasts created by AI agents like OpenAI Codex and Claude Code. The platform aims to become the primary destination for personalized AI-generated audio content consumption.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-07T14:00:00.000Z"
+    },
+    {
+      "id": "1778167763425-6",
+      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "tldr": "Spotify's AI DJ finally speaks French, German, Italian and Brazilian Portuguese instead of just English",
+      "summary": "Spotify expanded their AI DJ feature to support French, German, Italian, and Brazilian Portuguese languages. About time they made it work for more than just English speakers tbh.",
+      "deepLore": "Spotify's AI DJ feature, which provides personalized music recommendations with AI-generated commentary, now supports multilingual capabilities across French, German, Italian, and Brazilian Portuguese markets. This expansion represents Spotify's localization efforts for their AI-powered features beyond English-speaking users.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-07T13:44:25.000Z"
+    },
+    {
+      "id": "1778167763425-7",
+      "title": "Elon doubled limits",
+      "tldr": "Parloa uses OpenAI models to build voice AI customer service agents that don't make you want to scream",
+      "summary": "Parloa leverages OpenAI models to create actually good voice-driven AI customer service agents for enterprises. They focus on designing, simulating, and deploying reliable real-time interactions that customers might actually want to talk to.",
+      "deepLore": "Parloa utilizes OpenAI's language models to power enterprise-grade voice AI customer service solutions, enabling real-time conversational interactions. The platform provides tools for designing, simulating, and deploying scalable voice-driven AI agents with focus on reliability and customer experience optimization.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - OpenAI Blog",
+          "url": "https://openai.com/index/parloa"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-05-07T13:03:18.000Z"
+    },
+    {
+      "id": "1778167763425-8",
+      "title": "Spotify wants to become the home for AI-generated personal audio",
+      "tldr": "Spotify wants to become the home for AI-generated personal audio",
+      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-07T13:00:00.000Z"
+    },
+    {
+      "id": "1778167763425-9",
+      "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+      "tldr": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+      "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-07T12:20:04.000Z"
+    },
+    {
+      "id": "1778167763425-10",
+      "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+      "tldr": "The Download: the tech reshaping IVF and the rise of balcony solar",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive—and far from guaranteed…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-07T12:10:00.000Z"
+    },
+    {
+      "id": "1778167763425-11",
+      "title": "Parloa builds service agents customers want to talk to",
+      "tldr": "Parloa builds service agents customers want to talk to",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "OpenAI Blog",
+          "url": "https://openai.com/index/parloa"
+        }
+      ],
+      "sourceName": "OpenAI Blog",
+      "publishedAt": "2026-05-07T11:00:00.000Z"
+    }
+  ]
+}
