@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T14:18:33.034Z",
+  "vibeSummary": "chaos and corporate drama",
+  "items": [
+    {
+      "id": "1778336313034-0",
+      "title": "Ben's Builds #3 - an email app",
+      "tldr": "Ben made an email app with AI but it's struggling lmao",
+      "summary": "Ben from Ben's Bites built his third AI project - an email app - but admits it has some challenges. Classic indie dev moment of shipping something that kinda works but needs work.",
+      "deepLore": "The article appears to be about Ben's third build in his series where he creates AI-powered applications. This one focuses on email management, though specific technical details about the AI implementation or what challenges he's facing aren't provided in the snippet.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/bens-builds-3-an-email-app"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-05-09T09:25:10.000Z"
+    },
+    {
+      "id": "1778336313034-1",
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "tldr": "OpenAI clapped back at Musk while Shivon spilled tea about Elon trying to steal Sam",
+      "summary": "Week 2 of the Musk vs OpenAI trial got spicy with OpenAI firing back at Elon's claims. Plot twist: Shivon Zilis revealed Musk actually tried to poach Sam Altman, making his lawsuit look even more sus.",
+      "deepLore": "During the second week of testimony in the landmark Musk v. OpenAI trial, Musk's $38 million donation claims were scrutinized. Shivon Zilis, Neuralink executive, testified that Musk had previously attempted to recruit Sam Altman, potentially undermining Musk's narrative about being deceived by OpenAI's leadership.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-08T23:59:19.000Z"
+    },
+    {
+      "id": "1778336313034-2",
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ",
+      "tldr": "Oracle laid off workers, denied better severance, and dodged WARN Act protections by calling them remote",
+      "summary": "Oracle pulled a classic corporate move by laying off workers and refusing to negotiate better severance packages. They also avoided giving proper notice by classifying employees as remote workers to dodge WARN Act requirements.",
+      "deepLore": "Oracle conducted layoffs where affected workers attempted to negotiate improved severance terms but were denied. The company avoided WARN Act protections, which typically require 60-day advance notice for mass layoffs, by classifying the laid-off employees as remote workers rather than traditional employees.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-08T22:59:05.000Z"
+    },
+    {
+      "id": "1778336313034-3",
+      "title": "Intel’s comeback story is even wilder than it seems",
+      "tldr": "Intel's stock went absolutely brrrr with 490% gains but maybe Wall Street is getting ahead of itself",
+      "summary": "Intel's having a comeback era with stock up 490% in a year as investors bet big on their turnaround. But the gains might be running ahead of what Intel has actually accomplished so far.",
+      "deepLore": "Intel's stock has experienced a 490% increase over the past year, representing Wall Street's confidence in the company's strategic pivot and recovery efforts. However, analysts suggest this dramatic valuation increase may be outpacing Intel's actual operational turnaround progress and financial improvements.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-08T20:02:52.000Z"
+    },
+    {
+      "id": "1778336313034-4",
+      "title": "All the latest updates on AI data centers",
+      "tldr": "AI data centers are causing chaos with power grids and communities are not having it",
+      "summary": "Tech companies are building massive AI data centers everywhere but they're energy-hungry beasts causing problems. Communities are fighting back over power grid strain, higher utility bills, and environmental impact.",
+      "deepLore": "The rapid expansion of AI data centers to support large language models and AI workloads is creating infrastructure challenges globally. These facilities require massive amounts of electricity for GPU clusters and cooling systems, leading to conflicts with local power grids, utility rate increases, and environmental concerns in affected communities.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-08T18:45:08.000Z"
+    },
+    {
+      "id": "1778336313034-5",
+      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+      "tldr": "Canvas got cyberattacked right during finals week because the universe has no chill",
+      "summary": "A cyberattack hit the Canvas learning platform at the worst possible time - during finals season. Schools and colleges across the country had to postpone year-end tests because students couldn't access the platform.",
+      "deepLore": "Canvas, the widely-used learning management system, experienced a significant cyberattack that disrupted service during the critical finals period. The attack forced educational institutions nationwide to postpone examinations and assessments, highlighting the vulnerability of centralized educational technology infrastructure.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-05-08T18:33:48.000Z"
+    },
+    {
+      "id": "1778336313034-6",
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "tldr": "Cloudflare said AI killed 1,100 jobs but hey at least revenue is up",
+      "summary": "Cloudflare announced their first major layoffs, cutting 1,100 support roles because AI made them more efficient. CEO Matthew Prince basically said AI got so good they don't need as many humans anymore, even though they're making record money.",
+      "deepLore": "Cloudflare conducted its first large-scale layoff affecting 1,100 positions, primarily in customer support roles. CEO Matthew Prince attributed the job cuts to AI-driven efficiency improvements that automated many support functions, allowing the company to maintain service levels with fewer human employees despite achieving record revenue.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-08T18:33:21.000Z"
+    },
+    {
+      "id": "1778336313034-7",
+      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+      "tldr": "PlayStation thinks AI is neat for making games but insists humans still matter",
+      "summary": "Sony shared their AI strategy for PlayStation during earnings, calling AI a 'powerful tool' for game development. They're trying to have it both ways - embracing AI while saying the creative vision will always come from human talent.",
+      "deepLore": "During Sony's earnings presentation, the company outlined its approach to integrating generative AI into PlayStation game development workflows. While acknowledging AI as a productivity tool, Sony emphasized that creative direction, emotional impact, and game design vision will remain human-driven, positioning AI as augmentative rather than replacement technology.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-08T16:30:56.000Z"
+    },
+    {
+      "id": "1778336313034-8",
+      "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+      "tldr": "Cruise ship hantavirus outbreak killed 3 people because rats said violence",
+      "summary": "Eight passengers on a Dutch cruise ship got hantavirus from rats and three people died. This is a rare virus situation but definitely not the cruise vacation anyone signed up for.",
+      "deepLore": "A Dutch-flagged cruise ship experienced a hantavirus outbreak affecting eight passengers, with three fatalities. Hantavirus is a rare rodent-transmitted pathogen typically carried by rats, suggesting the ship had a rodent infestation problem that led to human exposure through contaminated surfaces or airborne particles.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-08T16:19:40.000Z"
+    },
+    {
+      "id": "1778336313034-9",
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "tldr": "Everyone's hunting for enterprise AI startups while SAP dropped $1B on German AI company",
+      "summary": "The enterprise AI gold rush is real with Anthropic and OpenAI making joint ventures while SAP bought Prior Labs for $1B. Basically if you're building enterprise AI tools, you're probably getting acquired soon.",
+      "deepLore": "The enterprise AI market is experiencing consolidation with major players like Anthropic and OpenAI forming joint ventures targeting enterprise deployment. SAP's $1 billion acquisition of German AI startup Prior Labs exemplifies the aggressive M&A activity as established companies seek to acquire AI capabilities rather than build them internally.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-08T15:46:17.000Z"
+    },
+    {
+      "id": "1778336313034-10",
+      "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+      "tldr": "Microsoft was pressed about OpenAI potentially leaving for Amazon and talking trash about Azure",
+      "summary": "Court docs from the Musk trial revealed Microsoft was worried OpenAI might 'storm off to Amazon' and 'shit-talk' Azure. The early partnership negotiations between Satya Nadella and Sam Altman had some real corporate anxiety vibes.",
+      "deepLore": "Internal Microsoft communications revealed during the Musk v. Altman trial show Microsoft executives, including CEO Satya Nadella, were concerned about OpenAI potentially partnering with Amazon Web Services instead of Azure. The documents show Microsoft's fear that OpenAI could become a competitor by criticizing Microsoft's cloud infrastructure publicly.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-08T15:25:02.000Z"
+    },
+    {
+      "id": "1778336313034-11",
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "tldr": "Google got creative legends to use AI for making ads for small businesses",
+      "summary": "Google launched 'The Small Brief' where three ad industry icons use AI to create breakthrough campaigns for local businesses they love. It's basically Google flexing their AI ad tools through celebrity endorsement.",
+      "deepLore": "Google's 'The Small Brief' initiative pairs three prominent advertising industry figures with local businesses to create AI-generated advertising campaigns. The project demonstrates Google's AI advertising capabilities while providing marketing support to small businesses through high-profile creative partnerships.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - Google AI Blog",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/"
+        }
+      ],
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-05-08T15:00:00.000Z"
+    }
+  ]
+}
