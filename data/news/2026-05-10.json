@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T14:21:16.110Z",
+  "vibeSummary": "nvidia money printer go brr",
+  "items": [
+    {
+      "id": "1778422876110-0",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "tldr": "TechCrunch made an AI dictionary bc y'all been nodding pretending to understand hallucinations and tokens",
+      "summary": "TechCrunch dropped a glossary for all the AI terms everyone's been pretending to understand in meetings. Finally someone said what we're all thinking - the jargon is getting out of hand.",
+      "deepLore": "The article covers fundamental AI terminology including hallucinations (when models generate false information), tokens (text units models process), and other core concepts that have become essential vocabulary in the AI space. It's positioned as a reference guide for the growing lexicon of AI-specific terminology that's emerged with recent advances.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-09T21:45:00.000Z"
+    },
+    {
+      "id": "1778422876110-1",
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "tldr": "Nvidia threw $40B at AI startups this year like they're collecting Pokemon cards but with equity deals",
+      "summary": "Nvidia has already committed $40 billion to AI equity deals in 2026, continuing their strategy of investing heavily across the AI ecosystem. They're basically becoming the venture capital arm of the AI revolution at this point.",
+      "deepLore": "Nvidia's $40B commitment represents their continued strategy of making strategic equity investments in AI companies across the stack, from infrastructure to applications. This positions them not just as a chip supplier but as a financial stakeholder in the broader AI ecosystem, creating multiple revenue streams and strategic partnerships beyond their core GPU business.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-09T14:43:30.000Z"
+    },
+    {
+      "id": "1778422876110-2",
+      "title": "Ben's Builds #3 - an email app",
+      "tldr": "Ben built an email app and it's having some... issues (the crying emoji tells us everything)",
+      "summary": "Ben from Ben's Bites built his third project - an email app - but it sounds like it's not going smoothly based on that crying emoji. Classic indie hacker moment where the build is harder than expected.",
+      "deepLore": "This appears to be part of Ben's ongoing series where he documents building different AI-powered applications. The third iteration focuses on email functionality, though the mention of 'challenges' and emoji suggests technical difficulties or user experience issues during development or deployment.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/bens-builds-3-an-email-app"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-05-09T09:25:10.000Z"
+    }
+  ]
+}
