@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T15:57:17.885Z",
+  "vibeSummary": "courtroom chaos fr fr",
+  "items": [
+    {
+      "id": "1778515037885-0",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "tldr": "Elon vs Sam trial is giving main character energy while deciding OpenAI's whole future",
+      "summary": "The Musk-Altman courtroom drama is literally deciding if OpenAI stays true to its humanity-first mission or just becomes another profit machine. Key players already testified and the trial could completely reshape ChatGPT's future.",
+      "deepLore": "Musk's 2024 lawsuit claims OpenAI violated its founding principles by prioritizing profits over beneficial AI development. Testimonies from Musk, Jared Birchall (Neuralink CEO), Greg Brockman (OpenAI cofounder), and former board member Shivon Zilis are shaping the case's direction.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-11T15:27:12.000Z"
+    },
+    {
+      "id": "1778515037885-1",
+      "title": "Joanna Stern is not a robot, but she lived with them",
+      "tldr": "WSJ's Joanna Stern said peace out to start her own media empire with a robot book",
+      "summary": "Tech journalism queen Joanna Stern left her WSJ columnist job to launch New Things media company. Her debut project is 'I Am Not a Robot,' a book about living with AI that drops this week.",
+      "deepLore": "Stern transitioned from senior personal technology columnist at The Wall Street Journal to founder of New Things media company. The book explores AI integration through personal experience and hands-on testing with various AI systems and robotics.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-11T14:00:00.000Z"
+    },
+    {
+      "id": "1778515037885-2",
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "tldr": "MIT says companies are doing AI backwards by starting with tech instead of actual customer needs",
+      "summary": "McKinsey research shows orgs only capture one-third of expected digital value because they're tech-first instead of customer-first. The customer-back engineering approach could fix this fragmented mess.",
+      "deepLore": "The article advocates for customer-back engineering methodology where organizations identify customer pain points first, then work backward to appropriate AI solutions. This contrasts with the common approach of implementing AI capabilities and then finding applications, which creates disjointed solutions.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-11T13:33:06.000Z"
+    },
+    {
+      "id": "1778515037885-3",
+      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "tldr": "Cowboy Space raised $275M to build rockets for space data centers because Earth is apparently full",
+      "summary": "Some absolute madlads want to put data centers in literal space and raised a quarter billion to build the rockets to get them there. The rocket shortage is apparently the bottleneck, not the space part.",
+      "deepLore": "Cowboy Space Corporation secured $275 million in funding to develop rocket infrastructure specifically for orbital data center deployment. The company identified launch capacity as the primary constraint for space-based computing infrastructure rather than the data center technology itself.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-11T13:00:00.000Z"
+    },
+    {
+      "id": "1778515037885-4",
+      "title": "Innovation abounds in device charging",
+      "tldr": "Device chargers got a glow-up in the last decade but nobody really noticed tbh",
+      "summary": "Chargers went from bulky, slow, overheating messes to sleek, fast, safe devices through various tech advances. The innovation happened quietly while everyone was distracted by shinier gadgets.",
+      "deepLore": "Charging technology improvements include advanced power management ICs, GaN (Gallium Nitride) semiconductors for higher efficiency, USB-PD (Power Delivery) standards, and thermal management systems. These changes reduced size while increasing charging speeds and safety.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-11T13:00:00.000Z"
+    },
+    {
+      "id": "1778515037885-5",
+      "title": "Implementing advanced AI technologies in finance",
+      "tldr": "Finance teams are secretly using AI while bosses scramble to make rules after the chaos started",
+      "summary": "AI infiltrated finance departments like a stealth mission - employees started using it before leadership could establish proper governance. Now it's a regulated mess trying to catch up to reality.",
+      "deepLore": "Finance departments are experiencing bottom-up AI adoption where individual employees implement AI tools before organizational frameworks exist. This creates governance challenges in a heavily regulated sector that traditionally requires strict control and compliance structures.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-11T13:00:00.000Z"
+    },
+    {
+      "id": "1778515037885-6",
+      "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+      "tldr": "MIT's daily newsletter covers hantavirus cruise drama and more Musk vs Altman tea",
+      "summary": "The Download newsletter is serving up a combo of health scares and AI legal drama. Eight cruise passengers got hantavirus from rats while the OpenAI trial continues.",
+      "deepLore": "MIT Technology Review's daily newsletter format covers multiple breaking stories including a Dutch-flagged cruise ship outbreak of rat-transmitted hantavirus affecting eight passengers with three severe cases, alongside continued coverage of the Musk-Altman legal proceedings.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-11T12:10:00.000Z"
+    },
+    {
+      "id": "1778515037885-7",
+      "title": "How enterprises are scaling AI",
+      "tldr": "OpenAI dropping enterprise scaling guides like they're trying to corner the business market",
+      "summary": "OpenAI published their playbook for how enterprises can scale AI from small experiments to full production. The guide covers trust, governance, and workflow design for serious business impact.",
+      "deepLore": "The enterprise guide focuses on scaling methodologies including trust frameworks for AI deployment, governance structures for organizational AI adoption, workflow integration strategies, and quality assurance processes for production-level AI systems.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - OpenAI Blog",
+          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
+        }
+      ],
+      "sourceName": "OpenAI Blog",
+      "publishedAt": "2026-05-11T10:00:00.000Z"
+    },
+    {
+      "id": "1778515037885-8",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "tldr": "OpenAI wants to build a campus network of student clubs because Gen Z recruitment goes brr",
+      "summary": "OpenAI launched their Campus Network program to connect student AI clubs worldwide with tools and events. It's basically building their future talent pipeline through college communities.",
+      "deepLore": "The OpenAI Campus Network provides student clubs with access to AI development tools, event hosting resources, and connection opportunities across global universities. The program aims to foster AI education and community building at the collegiate level.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - OpenAI Blog",
+          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form"
+        }
+      ],
+      "sourceName": "OpenAI Blog",
+      "publishedAt": "2026-05-11T10:00:00.000Z"
+    },
+    {
+      "id": "1778515037885-9",
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "tldr": "OpenAI just launched DeployCo to help businesses actually use AI instead of just talking about it",
+      "summary": "DeployCo is OpenAI's new enterprise deployment company designed to turn AI experiments into real business results. They're essentially consulting for companies who bought the AI hype but don't know what to do with it.",
+      "deepLore": "DeployCo functions as an enterprise-focused subsidiary specializing in production deployment of frontier AI models. The company provides implementation services, integration support, and measurable ROI frameworks for organizations transitioning from AI pilots to scaled business applications.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - OpenAI Blog",
+          "url": "https://openai.com/index/openai-launches-the-deployment-company"
+        }
+      ],
+      "sourceName": "OpenAI Blog",
+      "publishedAt": "2026-05-11T06:00:00.000Z"
+    },
+    {
+      "id": "1778515037885-10",
+      "title": "The new AI-powered Google Finance is expanding to Europe.",
+      "tldr": "Google's AI-powered Finance tool is expanding to Europe with full local language support",
+      "summary": "The new AI-enhanced Google Finance launched across Europe this week with native language support. It's giving users more powerful financial tools powered by AI capabilities.",
+      "deepLore": "Google Finance's European expansion includes AI-powered features for financial analysis, portfolio management, and market insights with full localization for European languages and markets. The platform integrates Google's LLM capabilities for enhanced financial data interpretation and user queries.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/"
+        }
+      ],
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-05-11T06:00:00.000Z"
+    },
+    {
+      "id": "1778515037885-11",
+      "title": "Get ready for the whisper-filled office of the future",
+      "tldr": "Future offices gonna be full of people whispering to their computers like digital séances",
+      "summary": "As voice AI becomes more common, offices will transform into spaces where everyone's constantly talking to their devices. The article explores how workspace design will adapt to this whisper-filled future.",
+      "deepLore": "The shift toward conversational AI interfaces will require acoustic design considerations for open offices, including noise management solutions, privacy protocols for voice interactions, and spatial planning to accommodate simultaneous human-AI conversations without interference.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-10T21:15:30.000Z"
+    }
+  ]
+}
