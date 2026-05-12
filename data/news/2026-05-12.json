@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T15:41:47.178Z",
+  "vibeSummary": "AI security wars escalate",
+  "items": [
+    {
+      "id": "1778600507178-0",
+      "title": "Learn the system",
+      "tldr": "Ben's Bites asking if live models are making a comeback fr",
+      "summary": "Ben's newsletter is wondering about live AI models potentially returning to mainstream use. Not much context given but sounds like they're tracking some trend.",
+      "deepLore": "The article appears to be questioning whether real-time or live AI models (possibly streaming/interactive models) are gaining traction again after potentially falling out of favor. Without the full article content, it's unclear what specific models or developments prompted this question.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - Ben's Bites",
+          "url": "https://www.bensbites.com/p/learn-the-system"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-05-12T13:07:50.000Z"
+    },
+    {
+      "id": "1778600507178-1",
+      "title": "Dessn raises $6M for its production focused design tool",
+      "tldr": "Dessn raised $6M to build AI design tools that actually touch code instead of just making pretty mockups",
+      "summary": "New startup Dessn secured $6M in funding to create AI-powered design tools that integrate directly with production codebases. This could bridge the gap between design and development workflows.",
+      "deepLore": "Dessn is targeting the production-focused design tool market, likely competing with tools like Figma but with deeper code integration. The $6M funding suggests they're building something that connects design decisions directly to actual codebase implementation, potentially automating the handoff process between designers and developers.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-12T13:00:00.000Z"
+    },
+    {
+      "id": "1778600507178-2",
+      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+      "tldr": "MIT Tech Review's newsletter featuring Nobel winner Daron Acemoglu's AI takes",
+      "summary": "MIT's daily newsletter covered Nobel Prize-winning economist Daron Acemoglu's perspectives on AI developments. The newsletter also discusses maintenance and infrastructure challenges in tech.",
+      "deepLore": "This appears to be MIT Technology Review's regular newsletter format covering multiple tech topics. Daron Acemoglu, who won the Nobel Prize in economics in 2024, has been vocal about AI economics and policy, often taking more cautious stances than Silicon Valley's typical AI optimism.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-12T12:10:00.000Z"
+    },
+    {
+      "id": "1778600507178-3",
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "tldr": "Vapi hit $500M valuation after Amazon Ring picked them over 40 other AI voice companies (W flex)",
+      "summary": "AI voice startup Vapi reached a $500M valuation after Amazon Ring chose their platform over 40 competitors. Their enterprise business grew 10x since early 2025 as companies adopt AI agents for customer support and sales.",
+      "deepLore": "Vapi specializes in conversational AI for enterprise applications, specifically customer service and sales automation. The Amazon Ring win is significant validation in the competitive voice AI space. Their 10-fold enterprise growth indicates strong product-market fit in the B2B voice agent market, competing with players like Eleven Labs and Deepgram.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-platform-over-40-rivals/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-12T11:30:00.000Z"
+    },
+    {
+      "id": "1778600507178-4",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "tldr": "Thinking Machines building AI that can listen and talk simultaneously like actual phone convos",
+      "summary": "The company wants to create AI models that process input and generate responses simultaneously, mimicking real conversations instead of turn-based chat. This could make AI interactions feel more natural and human-like.",
+      "deepLore": "Current AI models follow a sequential pattern: listen completely, then respond completely. Thinking Machines is developing 'interaction models' that can process audio, video, and text inputs while simultaneously generating responses in real-time. This requires significant advances in parallel processing and streaming inference capabilities.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-12T04:52:35.000Z"
+    },
+    {
+      "id": "1778600507178-5",
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "tldr": "Robinhood prepping second retail venture IPO riding the AI wave",
+      "summary": "Robinhood filed confidentially for their second venture fund IPO, this time targeting growth and early-stage startups. They're capitalizing on the current AI market rally to expand their investment offerings.",
+      "deepLore": "This represents Robinhood's expansion beyond retail trading into venture capital offerings for retail investors. The timing coincides with significant AI market momentum, suggesting they're packaging AI startup investments for their retail user base. The confidential filing indicates they're still in early regulatory stages.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-12T00:09:01.000Z"
+    },
+    {
+      "id": "1778600507178-6",
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "tldr": "OpenAI dropped Daybreak to compete with Claude Mythos in the AI security space",
+      "summary": "OpenAI launched Daybreak, an AI security initiative that detects and patches vulnerabilities before attackers find them. It uses their Codex Security AI agent to create threat models and automate high-risk vulnerability detection.",
+      "deepLore": "Daybreak leverages OpenAI's Codex Security AI agent (launched March 2026) to perform automated vulnerability assessment and threat modeling. The system analyzes organizational code to identify attack vectors and prioritize security risks. This directly competes with Anthropic's Claude Mythos security model announced a month prior, escalating the AI security arms race.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-11T23:05:01.000Z"
+    },
+    {
+      "id": "1778600507178-7",
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "tldr": "GM laid off hundreds of IT workers to hire AI-skilled replacements (the future is now)",
+      "summary": "General Motors laid off hundreds of IT employees to replace them with workers who have stronger AI skills. The new roles focus on AI-native development, data engineering, cloud engineering, and prompt engineering.",
+      "deepLore": "GM is restructuring their IT workforce around AI-native capabilities including agent and model development, prompt engineering, and AI workflow optimization. This represents a significant shift from traditional automotive IT roles to AI-first positions, indicating GM's commitment to AI integration across their operations and manufacturing processes.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-11T23:04:10.000Z"
+    },
+    {
+      "id": "1778600507178-8",
+      "title": "Linux bitten by second severe vulnerability in as many weeks",
+      "tldr": "Linux hit with second severe vulnerability in 2 weeks (security is having a rough time)",
+      "summary": "Linux discovered another critical security vulnerability, the second major one in just two weeks. Production patches are being deployed and users need to update immediately.",
+      "deepLore": "This represents the second severe vulnerability affecting Linux systems within a two-week period, indicating potential systemic security issues or increased scrutiny of the Linux codebase. The rapid succession of critical vulnerabilities is unusual and suggests either a coordinated security research effort or emerging attack vectors. Production patches are being prioritized due to the severity.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - Ars Technica",
+          "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/"
+        }
+      ],
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-05-11T22:28:19.000Z"
+    },
+    {
+      "id": "1778600507178-9",
+      "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+      "tldr": "Mira Murati's new company Thinking Machines building 'interaction models' for real-time AI collab",
+      "summary": "Former OpenAI CTO Mira Murati's startup Thinking Machines announced they're developing 'interaction models' that process audio, video, and text simultaneously. The goal is AI that collaborates naturally like humans do in real-time.",
+      "deepLore": "Thinking Machines is developing multimodal interaction models that continuously process multiple input streams (audio, video, text) while generating real-time responses and actions. This represents a departure from current sequential AI architectures toward truly parallel, real-time AI systems that can engage in natural human-like collaboration patterns.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-11T22:19:15.000Z"
+    },
+    {
+      "id": "1778600507178-10",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "tldr": "Nobel economist Daron Acemoglu sharing his AI predictions (probably not bullish takes)",
+      "summary": "Nobel Prize-winning economist Daron Acemoglu outlined three key AI developments to watch in MIT Tech Review. His paper from before winning the Nobel apparently wasn't popular with Silicon Valley.",
+      "deepLore": "Daron Acemoglu, 2024 Nobel Prize winner in economics, has been critical of Silicon Valley's AI optimism in academic papers. His economic analysis of AI likely focuses on labor displacement, productivity impacts, and market concentration effects rather than the typical tech industry growth narratives. His pre-Nobel paper apparently challenged Big Tech assumptions about AI's economic benefits.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-11T17:35:12.000Z"
+    },
+    {
+      "id": "1778600507178-11",
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "tldr": "Digg is back as an AI news aggregator trying to surface actually important stories",
+      "summary": "The formerly popular site Digg is attempting a comeback as an AI-powered news aggregation platform. Their goal is to track influential voices and surface news that's actually worth attention, according to emails to beta testers.",
+      "deepLore": "Digg is leveraging AI to curate news by identifying influential sources and filtering for high-signal content, attempting to solve information overload. This represents a pivot from their original social voting model to AI-driven curation, competing with algorithmic news feeds from major platforms. The beta approach suggests they're testing AI recommendation systems for news discovery.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-11T17:02:35.000Z"
+    }
+  ]
+}
