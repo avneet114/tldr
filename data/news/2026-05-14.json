@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-14",
+  "generatedAt": "2026-05-14T15:22:19.258Z",
+  "vibeSummary": "layoffs meet funding chaos",
+  "items": [
+    {
+      "id": "1778772139258-0",
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
+      "tldr": "VC gives $10M to guy whose last company literally exploded to build AI bookkeeper",
+      "summary": "Khosla Ventures just threw $10M at Ian Crosby to build Synthetic, an AI bookkeeping service for startups. Plot twist: his last company Bench completely imploded, but apparently VCs have goldfish memory.",
+      "deepLore": "Synthetic is positioned as a fully autonomous AI bookkeeping service specifically targeting other startups. The funding represents a classic VC bet on founder track record despite previous failures, banking on Crosby's domain expertise in financial services automation.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-14T15:20:18.000Z"
+    },
+    {
+      "id": "1778772139258-1",
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+      "tldr": "Cisco fires 4k people while flexing record revenue to fund AI investments",
+      "summary": "Cisco just yeeted nearly 4,000 jobs while simultaneously bragging about record quarterly revenue. Classic corporate move: fire humans, hire AI budget.",
+      "deepLore": "This represents Cisco's continued strategic pivot toward AI investments, following a pattern of recent layoffs across multiple quarters. The company is reallocating human capital costs toward AI R&D and acquisitions while maintaining growth trajectories through automation and efficiency gains.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-14T14:01:14.000Z"
+    },
+    {
+      "id": "1778772139258-2",
+      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+      "tldr": "Wirestock raised $23M to feed AI labs with 700k creators' content",
+      "summary": "Wirestock just secured $23M to become the middleman between 700,000 creators and hungry AI labs. They're basically selling photos, videos, and 3D content as training data fuel.",
+      "deepLore": "Wirestock operates as a multi-modal data marketplace, aggregating creative content from over 700,000 creators specifically for AI training purposes. The $23M funding round positions them as a key supplier in the AI training data pipeline, focusing on high-quality visual and 3D assets for computer vision and generative AI models.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-14T14:00:00.000Z"
+    },
+    {
+      "id": "1778772139258-3",
+      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "tldr": "Wirestock raised $23M to feed AI labs with 700k creators' content",
+      "summary": "Wirestock just secured $23M to become the middleman between 700,000 creators and hungry AI labs. They're basically selling photos, videos, and 3D content as training data fuel.",
+      "deepLore": "Wirestock operates as a multi-modal data marketplace, aggregating creative content from over 700,000 creators specifically for AI training purposes. The $23M funding round positions them as a key supplier in the AI training data pipeline, focusing on high-quality visual and 3D assets for computer vision and generative AI models.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-14T14:00:00.000Z"
+    },
+    {
+      "id": "1778772139258-4",
+      "title": "Agents feedback tip",
+      "tldr": "Ex-Meta news chief says Silicon Valley and normies have totally different AI convos",
+      "summary": "Campbell Brown, former Meta news boss, is calling out the massive disconnect between tech bros' AI discussions and what actual consumers care about. Apparently we're having two completely different conversations about the same technology.",
+      "deepLore": "Brown's critique highlights the fundamental misalignment between Silicon Valley's technical and business-focused AI discourse versus consumer concerns about misinformation, privacy, and societal impact. This suggests current AI development priorities may not address end-user needs and concerns effectively.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/"
+        }
+      ],
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-05-14T13:31:03.000Z"
+    },
+    {
+      "id": "1778772139258-5",
+      "title": "Data readiness for agentic AI in financial services",
+      "tldr": "Data readiness for agentic AI in financial services",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-14T13:00:00.000Z"
+    },
+    {
+      "id": "1778772139258-6",
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "tldr": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-14T13:00:00.000Z"
+    },
+    {
+      "id": "1778772139258-7",
+      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+      "tldr": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-14T12:10:00.000Z"
+    },
+    {
+      "id": "1778772139258-8",
+      "title": "You can make an app for that",
+      "tldr": "You can make an app for that",
+      "summary": "The tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs create. The features are the features. The design is the design. Want something else, something better? Learn to code, I guess.\nUntil now, the people making a given piece of software - mostly well-paid professional developers - have rarely been the same as the ones using it: lawyers, doctors, churches",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-14T11:00:00.000Z"
+    },
+    {
+      "id": "1778772139258-9",
+      "title": "The Tesla Semi could be a big deal for electric trucking",
+      "tldr": "The Tesla Semi could be a big deal for electric trucking",
+      "summary": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: The company first announced the Tesla Semi in late 2017. And now we’ve got final battery specs, official prices, and big news…",
+      "deepLore": "",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-14T10:00:00.000Z"
+    },
+    {
+      "id": "1778772139258-10",
+      "title": "The shock of seeing your body used in deepfake porn ",
+      "tldr": "Deepfake porn using stolen bodies is traumatizing real people",
+      "summary": "Jennifer discovered her professional headshot was being used in deepfake porn after running it through facial recognition. The article exposes how AI is weaponizing people's bodies without consent, creating new forms of digital violence.",
+      "deepLore": "The piece documents how facial recognition technology can now identify individuals across different media types, enabling cross-referencing between legitimate photos and non-consensual deepfake content. This highlights critical gaps in current AI safety frameworks and content moderation systems for synthetic media.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-14T09:00:00.000Z"
+    },
+    {
+      "id": "1778772139258-11",
+      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+      "tldr": "Ex-Meta news chief says Silicon Valley and normies have totally different AI convos",
+      "summary": "Campbell Brown, former Meta news boss, is calling out the massive disconnect between tech bros' AI discussions and what actual consumers care about. Apparently we're having two completely different conversations about the same technology.",
+      "deepLore": "Brown's critique highlights the fundamental misalignment between Silicon Valley's technical and business-focused AI discourse versus consumer concerns about misinformation, privacy, and societal impact. This suggests current AI development priorities may not address end-user needs and concerns effectively.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-14T06:05:31.000Z"
+    }
+  ]
+}
