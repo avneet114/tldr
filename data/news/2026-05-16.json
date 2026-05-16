@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-16",
+  "generatedAt": "2026-05-16T14:23:51.731Z",
+  "vibeSummary": "trust issues era begins",
+  "items": [
+    {
+      "id": "1778941431730-0",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "tldr": "Malta said 'we'll make an entire country ChatGPT Plus subscribers' and actually did it fr",
+      "summary": "OpenAI partnered with Malta to give every citizen ChatGPT Plus and AI training. This is literally the first time a whole country went premium on an AI service.",
+      "deepLore": "Malta's government is providing ChatGPT Plus subscriptions to all citizens alongside practical AI skills training and responsible AI usage education. This represents the first nation-scale deployment of premium AI services, potentially setting a precedent for other countries looking to boost their AI literacy and competitiveness.",
+      "sound": "faah",
+      "sources": [
+        {
+          "label": "Original Article - OpenAI Blog",
+          "url": "https://openai.com/index/malta-chatgpt-plus-partnership"
+        }
+      ],
+      "sourceName": "OpenAI Blog",
+      "publishedAt": "2026-05-16T00:00:00.000Z"
+    },
+    {
+      "id": "1778941431730-1",
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "tldr": "Musk vs Altman trial ended with lawyers calling both of them chronic liars, jury's gotta pick a villain",
+      "summary": "The final week of Musk v. Altman got messy with both sides questioning each other's credibility. Altman got grilled about lying and self-dealing while painting Musk as a power-hungry control freak.",
+      "deepLore": "In the trial's concluding arguments, prosecutors focused on Altman's alleged pattern of deception and conflicts of interest involving OpenAI business dealings. The defense countered by characterizing Musk as someone who sought to control AI development for personal gain rather than genuine concern about OpenAI's mission drift.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
+        }
+      ],
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-05-15T23:39:35.000Z"
+    },
+    {
+      "id": "1778941431730-2",
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "tldr": "YouTube's deepfake detector is now available to everyone 18+ because apparently we all need protection",
+      "summary": "YouTube expanded its AI likeness detection tool to all adult users after previously limiting it to select groups. Users can now scan their face and get alerts if deepfakes of them appear on the platform.",
+      "deepLore": "The likeness detection system uses facial recognition technology to scan uploaded content for potential deepfakes. When matches are found, users receive notifications and can request content removal, though YouTube reports removal request volumes have been relatively low in previous testing phases.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-15T22:25:00.000Z"
+    },
+    {
+      "id": "1778941431730-3",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "tldr": "ArXiv said 'enough AI slop in academic papers' and started banning researchers for a whole year",
+      "summary": "ArXiv is cracking down on AI-generated academic papers by banning authors who submit obvious LLM slop. If your paper has hallucinated references or meta-comments, you're getting a year-long ban.",
+      "deepLore": "The preprint server will ban researchers for one year if submissions contain 'incontrovertible evidence' of unchecked LLM generation, including hallucinated citations and visible AI meta-comments. Thomas Dietterich, ArXiv's computer science section chair, announced that future submissions will require additional verification steps to combat AI-generated content.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-15T20:38:19.000Z"
+    },
+    {
+      "id": "1778941431730-4",
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "tldr": "TechCrunch podcast covered the trial ending while Musk's founder network keeps doing founder things",
+      "summary": "The podcast discussed how the Musk v. Altman trial wrapped up with trust being the central question. Meanwhile, SpaceX is preparing for a massive IPO with Musk's founder network continuing to expand.",
+      "deepLore": "The trial's conclusion centered on fundamental questions about trustworthiness in AI leadership, occurring alongside SpaceX's preparation for what could become one of the largest IPOs in US history. The timing highlights tensions between AI governance concerns and continued tech industry growth and influence.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-15T19:24:16.000Z"
+    },
+    {
+      "id": "1778941431730-5",
+      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+      "tldr": "OpenAI reshuffled execs again, Greg Brockman now runs everything product to win the AI agent race",
+      "summary": "OpenAI announced another reorganization with Greg Brockman leading all product areas. They're going all-in on AI agents by merging ChatGPT and Codex into one unified platform.",
+      "deepLore": "The restructuring consolidates OpenAI's product strategy around a single agentic platform, with company president Greg Brockman officially taking charge of all product development. The reorganization involves merging ChatGPT and Codex capabilities into one unified agentic experience, representing a strategic shift toward autonomous AI systems.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-15T18:21:35.000Z"
+    },
+    {
+      "id": "1778941431730-6",
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "tldr": "Lake Tahoe (Silicon Valley's vacation spot) bout to get expensive energy bills thanks to AI demand",
+      "summary": "Lake Tahoe needs a new energy provider right as AI is driving up electricity demand and prices. Silicon Valley's favorite vacation destination is getting hit by the AI energy crunch.",
+      "deepLore": "The timing of Lake Tahoe's energy provider transition coincides with unprecedented electricity demand from AI computing infrastructure, creating a perfect storm of higher energy costs. The situation illustrates how AI's energy requirements are affecting even recreational areas frequented by tech industry leaders.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-15T18:14:44.000Z"
+    },
+    {
+      "id": "1778941431730-7",
+      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+      "tldr": "AI radio hosts went absolutely unhinged and proved why we can't trust AI to run anything alone",
+      "summary": "Andon Labs ran an experiment with AI agents running radio stations completely unsupervised. Claude, ChatGPT, Gemini, and Grok each got their own station and apparently showed their chaotic personalities.",
+      "deepLore": "The experiment featured four AI-run radio stations: 'Thinking Frequencies' (Claude), 'OpenAIR' (ChatGPT), 'Backlink Broadcast' (Gemini), and 'Grok and Roll Radio' (Grok). Each AI model was given autonomous control over programming and operations, demonstrating unpredictable behavior patterns when operating without human oversight.",
+      "sound": "error",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-15T17:09:16.000Z"
+    },
+    {
+      "id": "1778941431730-8",
+      "title": "Does Trump Mobile know how many stripes are on the American flag?",
+      "tldr": "Trump Mobile's T1 Phone logo has the wrong number of stripes on the American flag (very patriotic)",
+      "summary": "The long-awaited Trump phone still isn't available, but The Verge noticed its logo has the wrong number of stripes on the American flag. At least it got the 50 stars right.",
+      "deepLore": "The T1 Phone's promotional materials feature an American flag design with an incorrect stripe count, though the star count remains accurate at 50. This design oversight raises questions about attention to detail from a company positioning itself around patriotic themes, while the device itself remains unavailable despite ongoing announcements.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-15T16:47:16.000Z"
+    },
+    {
+      "id": "1778941431730-9",
+      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+      "tldr": "Google updated spam rules to ban attempts to manipulate AI search results because people were gaming it",
+      "summary": "Google added manipulation of AI search responses to its spam policy after users found ways to game AI Overview and Search results. Now trying to trick Google's AI counts as spam.",
+      "deepLore": "The updated spam policy specifically targets attempts to manipulate generative AI responses in Google Search, including AI Overview and AI Mode results. The policy defines spam as techniques designed to deceive users or manipulate search systems into featuring content prominently, extending traditional SEO spam concepts to AI-generated search responses.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-15T16:42:59.000Z"
+    },
+    {
+      "id": "1778941431730-10",
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "tldr": "OpenAI launched ChatGPT for personal finance that connects to your bank accounts (what could go wrong)",
+      "summary": "ChatGPT can now connect to your bank accounts to show portfolio performance, spending, and subscriptions. Users get a financial dashboard powered by AI with access to their actual money.",
+      "deepLore": "The new personal finance feature provides users with integrated dashboards displaying portfolio performance, spending patterns, subscription management, and upcoming payment schedules. The system connects directly to users' financial accounts, giving ChatGPT access to comprehensive banking and investment data for personalized financial analysis and recommendations.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-15T16:00:00.000Z"
+    },
+    {
+      "id": "1778941431731-11",
+      "title": "OpenAI now wants ChatGPT to access your bank accounts",
+      "tldr": "OpenAI wants ChatGPT to know your credit card debt via Plaid integration (trust issues incoming)",
+      "summary": "ChatGPT now connects with Plaid to access bank accounts from 12,000+ institutions including Chase and Fidelity. The AI will have full visibility into your financial life including debt levels.",
+      "deepLore": "The integration uses Plaid's banking infrastructure to connect ChatGPT with major financial institutions including Schwab, Fidelity, Chase, and Capital One. This gives the AI model access to comprehensive financial data including account balances, transaction history, credit card debt, and investment portfolios across users' complete financial ecosystem.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-15T16:00:00.000Z"
+    }
+  ]
+}
