@@ -1,0 +1,87 @@
+{
+  "date": "2026-05-17",
+  "generatedAt": "2026-05-17T14:26:51.039Z",
+  "vibeSummary": "AI everywhere chaos mode",
+  "items": [
+    {
+      "id": "1779028011039-0",
+      "title": "Chatbots at the drive-thru are just the beginning",
+      "tldr": "McDonald's AI drive-thru started in Chicago 2021, now fast food bots are taking over the world fr",
+      "summary": "McDonald's pioneered AI drive-thru ordering in 2021 with 10 Chicago locations and now chatbots are spreading across fast food chains everywhere. This is apparently just the beginning of AI infiltrating literally every aspect of our daily lives.",
+      "deepLore": "McDonald's deployed voice-ordering AI technology at select Chicago locations in 2021 as one of the first major fast-food implementations. The system uses conversational AI to take drive-thru orders, and other chains like Wendy's are now following suit with similar deployments. This represents an early example of how large language models are being integrated into customer-facing retail experiences.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-17T12:00:00.000Z"
+    },
+    {
+      "id": "1779028011039-1",
+      "title": "The haves and have nots of the AI gold rush",
+      "tldr": "AI gold rush vibes are absolutely rancid even tech bros are lowkey depressed about it",
+      "summary": "Even people working in tech are feeling sus about the current AI boom and the vibes are not it. The industry is apparently having second thoughts about this whole AI gold rush situation.",
+      "deepLore": "Industry sentiment around the current AI boom has turned negative even within tech circles, suggesting market skepticism about sustainability and real-world applications. The characterization as a 'gold rush' implies speculative investment patterns and potentially unsustainable hype cycles similar to previous tech bubbles.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-16T20:17:16.000Z"
+    },
+    {
+      "id": "1779028011039-2",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "tldr": "ArXiv said no cap we're yeeting authors who let AI write their entire research papers for a whole year",
+      "summary": "ArXiv is cracking down hard on researchers who are just letting ChatGPT write their entire scientific papers. They're implementing year-long bans for anyone who gets caught being lazy with LLMs instead of doing actual research.",
+      "deepLore": "ArXiv, the preprint repository for scientific papers, is implementing stricter policies against the 'careless use of large language models' in academic submissions. The platform will impose one-year bans on authors who rely entirely on AI to generate their research content, representing a significant escalation in academic integrity enforcement around LLM usage.",
+      "sound": "niceshot",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-16T18:54:28.000Z"
+    },
+    {
+      "id": "1779028011039-3",
+      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+      "tldr": "Sony's AI Camera Assistant is getting roasted so hard they had to explain it doesn't actually edit your pics",
+      "summary": "Sony got dragged for their Xperia 1 XIII AI Camera Assistant demo and now they're desperately trying to clarify it doesn't edit photos. Instead it just suggests exposure, color, and blur settings based on lighting and depth analysis.",
+      "deepLore": "Sony's AI Camera Assistant on the Xperia 1 XIII analyzes scene lighting, depth, and subject composition to provide four algorithmic suggestions for exposure, color balance, and background blur adjustments. The system uses computer vision to assess photographic elements but doesn't perform post-processing edits, instead offering real-time shooting parameter recommendations.",
+      "sound": "bruh",
+      "sources": [
+        {
+          "label": "Original Article - The Verge",
+          "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant"
+        }
+      ],
+      "sourceName": "The Verge",
+      "publishedAt": "2026-05-16T15:37:05.000Z"
+    },
+    {
+      "id": "1779028011039-4",
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "tldr": "OpenAI's Greg Brockman just became head of product strategy while they're merging ChatGPT and Codex apparently",
+      "summary": "OpenAI co-founder Greg Brockman is now running product strategy during another company shakeup. This comes as OpenAI is reportedly planning to combine ChatGPT with their coding product Codex into one unified platform.",
+      "deepLore": "Greg Brockman, OpenAI co-founder, has been appointed to lead product strategy amid organizational restructuring at the company. The move coincides with reported plans to integrate ChatGPT and Codex, OpenAI's code generation model, suggesting a consolidation of their consumer and developer-focused AI products into a unified offering.",
+      "sound": "thud",
+      "sources": [
+        {
+          "label": "Original Article - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
+        }
+      ],
+      "sourceName": "TechCrunch",
+      "publishedAt": "2026-05-16T15:33:33.000Z"
+    }
+  ]
+}
